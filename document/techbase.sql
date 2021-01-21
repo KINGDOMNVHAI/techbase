@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 21, 2021 at 09:29 PM
+-- Generation Time: Jan 21, 2021 at 09:43 PM
 -- Server version: 10.4.13-MariaDB
 -- PHP Version: 7.3.20
 
@@ -206,19 +206,19 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'CEO', 'CEO', '$2y$10$wSaHnVKw3Jhmm82dQsPvAOD9Ysh8ETmeybY0arfpkq8c0eosE.IM.', 'ceo@gmail.com', 1, 1, NULL, NULL, '2021-01-21 13:24:02', '2021-01-21 13:24:02'),
-(2, 'manager room 1', 'manager1', '$2y$10$iHkpeUup1bkZRRGq63VLnubXaVh4c7ZwAVyKCZkbHYxdbldGwyXXS', 'manager1@gmail.com', 2, 1, NULL, NULL, '2021-01-21 13:24:02', '2021-01-21 13:24:02'),
-(3, 'manager room 2', 'manager2', '$2y$10$zMlhJjDQ/ttgDHfFpC5B/eVASNTfU7.fSXzr3ijb1g3qt3b8hT7.y', 'manager2@gmail.com', 2, 1, NULL, NULL, '2021-01-21 13:24:03', '2021-01-21 13:24:03'),
-(4, 'manager room 3', 'manager3', '$2y$10$j2Hu8vbdsKkxh0kY/Y2zc.tkiNfNU6I6BH0MeGUj6ddhoyxUL0pBi', 'manager3@gmail.com', 2, 1, NULL, NULL, '2021-01-21 13:24:03', '2021-01-21 13:24:03'),
-(5, 'team leader 1', 'teamleader1', '$2y$10$FAGwTysHoYSeZvu75O/lzO1Zlg4nWy4heCvo9VUhep.RTb2nIPX8.', 'teamleader1@gmail.com', 3, 1, NULL, NULL, '2021-01-21 13:24:03', '2021-01-21 13:24:03'),
-(6, 'team leader 2', 'teamleader2', '$2y$10$F4w16dy.3Fb6yFkvVarZbu39tyDfpjShJ3PnNJmPBga4esCvW.Pbm', 'teamleader2@gmail.com', 3, 1, NULL, NULL, '2021-01-21 13:24:03', '2021-01-21 13:24:03'),
-(7, 'team leader 3', 'teamleader3', '$2y$10$dDY25ckiTYd6lvyuFebAWO6MNNdUzyQB5bWUQBUErN.xrxhdCGuje', 'teamleader3@gmail.com', 3, 1, NULL, NULL, '2021-01-21 13:24:03', '2021-01-21 13:24:03'),
-(8, 'team leader 4', 'teamleader4', '$2y$10$qDKeESVmpaqKZQ/ECseYieRalpYB4qJsHWALyAya.SRKY/AmCEkoi', 'teamleader4@gmail.com', 3, 1, NULL, NULL, '2021-01-21 13:24:03', '2021-01-21 13:24:03'),
-(9, 'team leader 5', 'teamleader5', '$2y$10$WVNU3A6.gTU9RqGdmuafp.G.63XmlBqxEE7T0ZvKvk4qSM.uemXJS', 'teamleader5@gmail.com', 3, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
-(10, 'team leader 6', 'teamleader6', '$2y$10$3jvOtJ73Qiv36ecHpT/MfeTxciyYuTONJiEKEs21brkLe8ACW.6ja', 'teamleader6@gmail.com', 3, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
-(11, 'member 1', 'member1', '$2y$10$yFwsTQomMrpHN9ClmS0e3O9eVSRROJPaepOPPiYD64v.GA.9kQnjG', 'member1@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
-(12, 'member 2', 'member2', '$2y$10$/KeN67ATDJRTcf/iZIpYceXr.b9MAbDMkTysnEcpy3ItAb6xqoB5a', 'member2@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
-(13, 'member 3', 'member3', '$2y$10$gS4cRe52RZ4bAbRPxmvMTetJNtWBqmyqA5x6Gb0Vj90CIviikldDG', 'member3@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
+(1, 'CEO', 'CEO', '$2y$10$wSaHnVKw3Jhmm82dQsPvAOD9Ysh8ETmeybY0arfpkq8c0eosE.IM.', 'ceo@gmail.com', 1, 1, 'W3faey2RaeezmVU8HWujLzCX8wHHIL', NULL, '2021-01-21 13:24:02', '2021-01-21 13:38:16'),
+(2, 'manager room 1', 'manager1', '$2y$10$iHkpeUup1bkZRRGq63VLnubXaVh4c7ZwAVyKCZkbHYxdbldGwyXXS', 'manager1@gmail.com', 2, 1, 'BwdPGqAzkVM81GEEnes4H98eSygwOG', NULL, '2021-01-21 13:24:02', '2021-01-21 13:38:07'),
+(3, 'manager room 2', 'manager2', '$2y$10$zMlhJjDQ/ttgDHfFpC5B/eVASNTfU7.fSXzr3ijb1g3qt3b8hT7.y', 'manager2@gmail.com', 2, 1, 'vESvfUVd8GWYArUd2ffZ5maIT2FVCT', NULL, '2021-01-21 13:24:03', '2021-01-21 13:37:50'),
+(4, 'manager room 3', 'manager3', '$2y$10$j2Hu8vbdsKkxh0kY/Y2zc.tkiNfNU6I6BH0MeGUj6ddhoyxUL0pBi', 'manager3@gmail.com', 2, 1, 'tYSYphE9XzUvAlvVFvcgyNdGSjurQP', NULL, '2021-01-21 13:24:03', '2021-01-21 13:37:28'),
+(5, 'team leader 1', 'teamleader1', '$2y$10$FAGwTysHoYSeZvu75O/lzO1Zlg4nWy4heCvo9VUhep.RTb2nIPX8.', 'teamleader1@gmail.com', 3, 1, '83EJoZGMrpyQOxDgLAw50iXXUvwYUn', NULL, '2021-01-21 13:24:03', '2021-01-21 13:38:33'),
+(6, 'team leader 2', 'teamleader2', '$2y$10$F4w16dy.3Fb6yFkvVarZbu39tyDfpjShJ3PnNJmPBga4esCvW.Pbm', 'teamleader2@gmail.com', 3, 1, 'fLgDp0Nh73Bf027JwMowHANLVeJeSn', NULL, '2021-01-21 13:24:03', '2021-01-21 13:38:36'),
+(7, 'team leader 3', 'teamleader3', '$2y$10$dDY25ckiTYd6lvyuFebAWO6MNNdUzyQB5bWUQBUErN.xrxhdCGuje', 'teamleader3@gmail.com', 3, 1, 'B3T4ahGtn3ciQE1ywMuH0B7YuZP5xs', NULL, '2021-01-21 13:24:03', '2021-01-21 13:38:40'),
+(8, 'team leader 4', 'teamleader4', '$2y$10$qDKeESVmpaqKZQ/ECseYieRalpYB4qJsHWALyAya.SRKY/AmCEkoi', 'teamleader4@gmail.com', 3, 1, 'joFL7OtqqEy78RpfOZuyUGkXlrwBK8', NULL, '2021-01-21 13:24:03', '2021-01-21 13:39:02'),
+(9, 'team leader 5', 'teamleader5', '$2y$10$WVNU3A6.gTU9RqGdmuafp.G.63XmlBqxEE7T0ZvKvk4qSM.uemXJS', 'teamleader5@gmail.com', 3, 1, 'zPEYYkKpxnXyqhUfOsX8v5COrZFs1T', NULL, '2021-01-21 13:24:04', '2021-01-21 13:38:59'),
+(10, 'team leader 6', 'teamleader6', '$2y$10$3jvOtJ73Qiv36ecHpT/MfeTxciyYuTONJiEKEs21brkLe8ACW.6ja', 'teamleader6@gmail.com', 3, 1, 'QVPxE2W6h9Zc3Tbx03zJStCC7oIbE4', NULL, '2021-01-21 13:24:04', '2021-01-21 13:39:09'),
+(11, 'member 1', 'member1', '$2y$10$yFwsTQomMrpHN9ClmS0e3O9eVSRROJPaepOPPiYD64v.GA.9kQnjG', 'member1@gmail.com', 4, 1, 'dfJCeKLWF8bcPs4quS4cLq9Le8fnym', NULL, '2021-01-21 13:24:04', '2021-01-21 13:39:21'),
+(12, 'member 2', 'member2', '$2y$10$/KeN67ATDJRTcf/iZIpYceXr.b9MAbDMkTysnEcpy3ItAb6xqoB5a', 'member2@gmail.com', 4, 1, 'Iqe9DAy9lFnrWQ8U2jfMwywZWqh44g', NULL, '2021-01-21 13:24:04', '2021-01-21 13:43:23'),
+(13, 'member 3', 'member3', '$2y$10$gS4cRe52RZ4bAbRPxmvMTetJNtWBqmyqA5x6Gb0Vj90CIviikldDG', 'member3@gmail.com', 4, 1, 'yNohYzBWxm0ZTmfAN8eYwId64bkMxt', NULL, '2021-01-21 13:24:04', '2021-01-21 13:43:27'),
 (14, 'member 4', 'member4', '$2y$10$HTTt/X.HhRIVf9JEm0MGCulps1NH.kh/To8LiDGG.yj9pWAvUfaWK', 'member4@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
 (15, 'member 5', 'member5', '$2y$10$NU4OpX3GocfYZAYnq5Su7.05yD18VoimW6/h3K8SgZ6fhg2n.dEpi', 'member5@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
 (16, 'member 6', 'member6', '$2y$10$t92NIU8Xif.WGZlE.ueZWusZok.xCO1FHjR6yhBlihdfF.TFC0w9W', 'member6@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:04', '2021-01-21 13:24:04'),
@@ -462,10 +462,10 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `ena
 (254, 'other member', 'othermember229', '$2y$10$quSqr5eD9.Xf/POX664qEunC6ohcBFkN901xiRosyXtsoPHwPSXQC', 'othermember229@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
 (255, 'other member', 'othermember230', '$2y$10$mk4z3d5J9HFwhh3j0fdGG.zatA4A1ZU4x80M2oF6RrjforeSPaNx6', 'othermember230@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
 (256, 'other member', 'othermember231', '$2y$10$BZx64A3xyvj19khK6xS7..JPGhh4dPPbtfxB.csQ5E9hYx41JQ.3O', 'othermember231@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
-(257, 'other member', 'othermember232', '$2y$10$Qp23QTFv8o8aB5Vyl/gUmuzwJ9t0OiP7POZd3vbLy5qLkX31v1lWq', 'othermember232@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
-(258, 'other member', 'othermember233', '$2y$10$LoWNE6nrHdT24d3l.P5q5eSKj.zstN81cciEVtL8mN6Savejl7q4C', 'othermember233@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
-(259, 'other member', 'othermember234', '$2y$10$URUdkiwhOaIzarnpKbVIpunf3hlxTbLc1/M6pJqXQs8TWgnPialku', 'othermember234@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36');
+(257, 'other member', 'othermember232', '$2y$10$Qp23QTFv8o8aB5Vyl/gUmuzwJ9t0OiP7POZd3vbLy5qLkX31v1lWq', 'othermember232@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36');
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
+(258, 'other member', 'othermember233', '$2y$10$LoWNE6nrHdT24d3l.P5q5eSKj.zstN81cciEVtL8mN6Savejl7q4C', 'othermember233@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
+(259, 'other member', 'othermember234', '$2y$10$URUdkiwhOaIzarnpKbVIpunf3hlxTbLc1/M6pJqXQs8TWgnPialku', 'othermember234@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:36', '2021-01-21 13:24:36'),
 (260, 'other member', 'othermember235', '$2y$10$KuPEONK9gIDLA2VdCUshRuuJRWYofsvhokDkHjo/ik6A6yS7sQqXO', 'othermember235@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:37', '2021-01-21 13:24:37'),
 (261, 'other member', 'othermember236', '$2y$10$n6s8eIOuHYqdaF1u56JkjOs30xPzDqU0DD9VClo/1UvQZJW3.0PWi', 'othermember236@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:37', '2021-01-21 13:24:37'),
 (262, 'other member', 'othermember237', '$2y$10$fyn/lSHLqxx6Rd0PE1.iZOrIO4WvPeQCC/TUapKWPHPck6hmY.ifO', 'othermember237@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:24:37', '2021-01-21 13:24:37'),
@@ -718,10 +718,10 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `ena
 (509, 'other member', 'othermember484', '$2y$10$SzOBR1oJVw.yn/soJOVy2eZgnyJHIx9vgoJjOnchgEVPB.fdMVKD.', 'othermember484@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
 (510, 'other member', 'othermember485', '$2y$10$0V.0OEE53w/7iUI6/IkrteyYbzVqZte7HSxOiKsY1inurAxBpw.uC', 'othermember485@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
 (511, 'other member', 'othermember486', '$2y$10$nNPcTG8yzWrm3k2at0.skOUGJ0.9rjkbhCMUcaCM1kzuqL2jcsEse', 'othermember486@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
-(512, 'other member', 'othermember487', '$2y$10$K5ymslggrbxghMdYqKzmK.4Egsjv5G.b4UWdM.X4OOuSX4ely0NhO', 'othermember487@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
-(513, 'other member', 'othermember488', '$2y$10$8rjWkB2sPhiAuo38g.puwu95yW2Te/Y4WoCnS7rPdshyag3bJGM3W', 'othermember488@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
-(514, 'other member', 'othermember489', '$2y$10$geX40YQgXpjLuRldaV5EqOQeYMdkL5f2nWkX/MAzTn7qz4vLbGnoi', 'othermember489@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09');
+(512, 'other member', 'othermember487', '$2y$10$K5ymslggrbxghMdYqKzmK.4Egsjv5G.b4UWdM.X4OOuSX4ely0NhO', 'othermember487@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09');
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
+(513, 'other member', 'othermember488', '$2y$10$8rjWkB2sPhiAuo38g.puwu95yW2Te/Y4WoCnS7rPdshyag3bJGM3W', 'othermember488@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
+(514, 'other member', 'othermember489', '$2y$10$geX40YQgXpjLuRldaV5EqOQeYMdkL5f2nWkX/MAzTn7qz4vLbGnoi', 'othermember489@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:09', '2021-01-21 13:25:09'),
 (515, 'other member', 'othermember490', '$2y$10$Rvk5.qp6qKzzeJzf9/paaODKzoIAVU7JNxkCr370Sx7/qfwWIucGu', 'othermember490@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:10', '2021-01-21 13:25:10'),
 (516, 'other member', 'othermember491', '$2y$10$61vZie4nMeEYXgOxSGeIpezovPq4PAB5zNCMdY7JozH1rbHNQFIb6', 'othermember491@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:10', '2021-01-21 13:25:10'),
 (517, 'other member', 'othermember492', '$2y$10$kgKzTQP2wOnLgQF9Lwtw.ue4YNuFEucfOn7Mn9Xodix/grVnLQX3C', 'othermember492@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:10', '2021-01-21 13:25:10'),
@@ -974,10 +974,10 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `ena
 (764, 'other member', 'othermember739', '$2y$10$M.OwzkW2fIl5RTOqrRZWEurEtDGhKUi7EMDmUtn3sMr.wFg9yYKWq', 'othermember739@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:43', '2021-01-21 13:25:43'),
 (765, 'other member', 'othermember740', '$2y$10$KeJGQ89Bf9tu65y/FwQpB.ROFl0qGAcCvxpsH//UmZeBJSBxxw5FW', 'othermember740@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
 (766, 'other member', 'othermember741', '$2y$10$n5/FdItyhf0lp2wV4qpYXObuiYISCGeFp1RduU9d.p9BhDHklaNuy', 'othermember741@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
-(767, 'other member', 'othermember742', '$2y$10$x/HdubvVZEEQyibsw/Fe8.REv7pIDLcIdNSbxlFJtYTgqJ0hnAnP2', 'othermember742@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
-(768, 'other member', 'othermember743', '$2y$10$/iJA31xRgkkenHeQlbCOcOQEeJC0Tnp5U.59zzpsRYSmAC264GBIe', 'othermember743@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
-(769, 'other member', 'othermember744', '$2y$10$34Y9Gsb7lY7Qjvvvdjk0bOnsRyPJ2a9RUeEf39tywdW0tlQ1XU.Re', 'othermember744@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44');
+(767, 'other member', 'othermember742', '$2y$10$x/HdubvVZEEQyibsw/Fe8.REv7pIDLcIdNSbxlFJtYTgqJ0hnAnP2', 'othermember742@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44');
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
+(768, 'other member', 'othermember743', '$2y$10$/iJA31xRgkkenHeQlbCOcOQEeJC0Tnp5U.59zzpsRYSmAC264GBIe', 'othermember743@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
+(769, 'other member', 'othermember744', '$2y$10$34Y9Gsb7lY7Qjvvvdjk0bOnsRyPJ2a9RUeEf39tywdW0tlQ1XU.Re', 'othermember744@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
 (770, 'other member', 'othermember745', '$2y$10$It1RyjdlCPmHqpfRSxHNFOxHn6Y8VwQCGtlsoexIQMZnrOrB8vUUi', 'othermember745@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
 (771, 'other member', 'othermember746', '$2y$10$ojVgW79wLZ.3B0To9EA5G.e4diTGBHf0eOvmtuq6CobBxvUtN0OnK', 'othermember746@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
 (772, 'other member', 'othermember747', '$2y$10$cATt4HEU9OB5hBaXVnIPxuin8G8TLO9WxO5IwXYwR9kLS7FwGucA.', 'othermember747@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:25:44', '2021-01-21 13:25:44'),
@@ -1230,10 +1230,10 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `ena
 (1019, 'other member', 'othermember994', '$2y$10$rkWB0J1vcCOxZpOjBg7kA.CtkB86uODJorYzKvaj20eJ1A7hq/rZa', 'othermember994@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:21', '2021-01-21 13:26:21'),
 (1020, 'other member', 'othermember995', '$2y$10$3svQpi2Drg.e2UoACD/R3OXm3OUNYlh3IYu7DwFRuKNNsIWAvAIza', 'othermember995@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
 (1021, 'other member', 'othermember996', '$2y$10$5AIcXY0aGeTx9y4ORLk07uIM0oXnEAcq9w0f1q6qod6CV.N4dlFMq', 'othermember996@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
-(1022, 'other member', 'othermember997', '$2y$10$rEmx/cpT7mnsA8wrP7DsCO786.jMInKf9Y3JQF4tbnGkLRVKY3Fge', 'othermember997@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
-(1023, 'other member', 'othermember998', '$2y$10$kHwTff5QttJFT1hr2PwRV.Ql9fzxS9rfeODL2Bhn1t.v7mUAWuufa', 'othermember998@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
-(1024, 'other member', 'othermember999', '$2y$10$/eCotfkbXws.1RJmlo2BUOcwrR8jIiZqSQ3tIwL7tbwqzIp8zuWGO', 'othermember999@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22');
+(1022, 'other member', 'othermember997', '$2y$10$rEmx/cpT7mnsA8wrP7DsCO786.jMInKf9Y3JQF4tbnGkLRVKY3Fge', 'othermember997@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22');
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
+(1023, 'other member', 'othermember998', '$2y$10$kHwTff5QttJFT1hr2PwRV.Ql9fzxS9rfeODL2Bhn1t.v7mUAWuufa', 'othermember998@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
+(1024, 'other member', 'othermember999', '$2y$10$/eCotfkbXws.1RJmlo2BUOcwrR8jIiZqSQ3tIwL7tbwqzIp8zuWGO', 'othermember999@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
 (1025, 'other member', 'othermember1000', '$2y$10$8b8JZqcO89y.GW/qN27LYuSu9CQccetVeApkaHop1caf0qIIRDk4C', 'othermember1000@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
 (1026, 'other member', 'othermember1001', '$2y$10$7bNBCX37pkgl86Ny8Gza8.K5zmO74I/l.nyD5CRmIM2OZEYaOTw6i', 'othermember1001@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:22', '2021-01-21 13:26:22'),
 (1027, 'other member', 'othermember1002', '$2y$10$cQwDubybVksU10ZEod58r.YWAqWf2KAcWbSCSuvbfjtrelLXkVrUu', 'othermember1002@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:26:23', '2021-01-21 13:26:23'),
@@ -1482,10 +1482,10 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `ena
 (1270, 'other member', 'othermember1245', '$2y$10$GJgps2fcE/UcO/HbtcsgiOmZyFwP8aH5n4PTctOCoCt0L9KcmR5Sm', 'othermember1245@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:01', '2021-01-21 13:27:01'),
 (1271, 'other member', 'othermember1246', '$2y$10$rdq93A5XJnLcBExb28.UDeHgOlhBEm.8XpOaakuATFhshmAFs.5pu', 'othermember1246@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:02', '2021-01-21 13:27:02'),
 (1272, 'other member', 'othermember1247', '$2y$10$3k2VW6d3/ofSVT1KPPkcUuJMxcjjHtcuMI5kl3E54ggWnNGz3i1li', 'othermember1247@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:02', '2021-01-21 13:27:02'),
-(1273, 'other member', 'othermember1248', '$2y$10$42mxrG6aW8p8IDOv7IWis.pMRqAE5qUSQFaF2MXFlAbdpk5xI6QxG', 'othermember1248@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:02', '2021-01-21 13:27:02'),
-(1274, 'other member', 'othermember1249', '$2y$10$VRuTm/qxZbgbq5JdtINj7uz7whlIflj9hueHciRiIAjGQmg5kiaJS', 'othermember1249@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:02', '2021-01-21 13:27:02'),
-(1275, 'other member', 'othermember1250', '$2y$10$87IDB4/hPNqO/l1XEHchXOKyN7AccOpFoXrxT5Xs5XZHUsemUsPAC', 'othermember1250@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:03', '2021-01-21 13:27:03');
+(1273, 'other member', 'othermember1248', '$2y$10$42mxrG6aW8p8IDOv7IWis.pMRqAE5qUSQFaF2MXFlAbdpk5xI6QxG', 'othermember1248@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:02', '2021-01-21 13:27:02');
 INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
+(1274, 'other member', 'othermember1249', '$2y$10$VRuTm/qxZbgbq5JdtINj7uz7whlIflj9hueHciRiIAjGQmg5kiaJS', 'othermember1249@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:02', '2021-01-21 13:27:02'),
+(1275, 'other member', 'othermember1250', '$2y$10$87IDB4/hPNqO/l1XEHchXOKyN7AccOpFoXrxT5Xs5XZHUsemUsPAC', 'othermember1250@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:03', '2021-01-21 13:27:03'),
 (1276, 'other member', 'othermember1251', '$2y$10$IkAhME/7om3ucaaWxTzHsejuUUbfuC6D2mJtJnClmyyz4zCpEdpFO', 'othermember1251@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:03', '2021-01-21 13:27:03'),
 (1277, 'other member', 'othermember1252', '$2y$10$.IrhpcMzyBbaD2Fa/qBe1eAiAy3r1MKnw3ja5A5n9N/OoEAbAB.Jm', 'othermember1252@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:03', '2021-01-21 13:27:03'),
 (1278, 'other member', 'othermember1253', '$2y$10$NcBoLsIyCd2tMiLq3xzSMuzzzWefIDFRWeeo771w2AXmzC6vaEqW2', 'othermember1253@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:03', '2021-01-21 13:27:03'),
@@ -1734,7 +1734,8 @@ INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `ena
 (1521, 'other member', 'othermember1496', '$2y$10$D/d6BRaUyyoqU.mi9hj5LumzB9d0ao0iDvpsku9cxZrGLqxXoWh7q', 'othermember1496@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:43', '2021-01-21 13:27:43'),
 (1522, 'other member', 'othermember1497', '$2y$10$xin6y6LBsIDKfgRWB7NkWOkITCSG1z8JYmvGtTzYx9N6678jxcpbW', 'othermember1497@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:43', '2021-01-21 13:27:43'),
 (1523, 'other member', 'othermember1498', '$2y$10$Don5MXBGxJTj/eOyYn135.DJypy3rLvTvzAOmB7RgDo8cmQjTI/c.', 'othermember1498@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:43', '2021-01-21 13:27:43'),
-(1524, 'other member', 'othermember1499', '$2y$10$bO5NYsGzXLBuYjc82lRWQedACYw.O1Pvpz8BC3MxK6f0VEztHHI/i', 'othermember1499@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:44', '2021-01-21 13:27:44'),
+(1524, 'other member', 'othermember1499', '$2y$10$bO5NYsGzXLBuYjc82lRWQedACYw.O1Pvpz8BC3MxK6f0VEztHHI/i', 'othermember1499@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:44', '2021-01-21 13:27:44');
+INSERT INTO `users` (`id`, `name`, `username`, `password`, `email`, `role`, `enable_user`, `apikey`, `remember_token`, `created_at`, `updated_at`) VALUES
 (1525, 'other member', 'othermember1500', '$2y$10$tJe0VbwsSoTw71Dv2ZUhXeViW0Hp9kVHIBWbfI97qKS5aUE4nsyEq', 'othermember1500@gmail.com', 4, 1, NULL, NULL, '2021-01-21 13:27:44', '2021-01-21 13:27:44');
 
 -- --------------------------------------------------------

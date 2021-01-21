@@ -47,12 +47,6 @@ Route::get('/list-users/{page}/{apikey}', 'api\UserController@pagination')->name
 Route::get('/team/leader/{idTeam}/{apikey}', 'api\TeamController@searchTeamLeader');
 Route::get('/team/member/{idTeam}/{apikey}', 'api\TeamController@searchTeamMember');
 
-//=============== get room manager, room leader and room member ===============
-
-Route::get('/room/manager/{idRoom}/{apikey}', 'api\RoomController@searchRoomManager');
-Route::get('/room/leader/{idRoom}/{apikey}', 'api\RoomController@searchRoomLeader');
-Route::get('/room/member/{idRoom}/{apikey}', 'api\RoomController@searchRoomMember');
-
 //=============== get CEO ===============
 
 Route::get('/ceo/{apikey}', 'api\CEOController@searchCEO');
