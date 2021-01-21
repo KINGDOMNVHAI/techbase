@@ -20,3 +20,6 @@ Bước 6: dùng API Key cho các link khác.
 Em đã upload project lên host demo.kingdomnvhai.info để thay cho host 127.0.0.1:8000
 
 demo.kingdomnvhai.info/users/detail/{id}/{apikey}
+
+Ví dụ:
+http://demo.kingdomnvhai.info/api/list-users/all/W3faey2RaeezmVU8HWujLzCX8wHHIL
