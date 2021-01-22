@@ -37,11 +37,11 @@ class LoginController extends Controller
     public function register(Request $request)
     {
         $request->validate([
-            'name' => 'required|string',
+            'name'     => 'required|string',
             'username' => 'required|string|unique:users|min:3|max:255',
             'password' => 'required|string|min:3|max:20',
-            'email' => 'required|email|unique:users|max:20',
-            'role' => 'required|integer',
+            'email'    => 'required|email|unique:users|max:20',
+            'role'     => 'required|integer',
         ]);
 
         $user = new UserService;

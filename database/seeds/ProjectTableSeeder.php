@@ -13,11 +13,11 @@ class ProjectTableSeeder extends Seeder
     public function run()
     {
         Project::create([
-            'name_project'      => 'hai',
+            'name_project' => 'project 1',
         ]);
 
         Project::create([
-            'name_project'      => 'thu',
+            'name_project' => 'project 2',
         ]);
     }
 }

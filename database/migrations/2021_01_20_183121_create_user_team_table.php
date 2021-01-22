@@ -16,9 +16,9 @@ class CreateUserTeamTable extends Migration
         Schema::create('user_team', function (Blueprint $table) {
             $table->integer('id_user');
             $table->integer('id_team');
-            $table->boolean('enable_user_team')->default(ENABLE);
             $table->date('join_date')->default(date("Y-m-d"));
             $table->date('out_date')->nullable();
+            $table->boolean('enable_user_team')->default(ENABLE);
         });
     }
 

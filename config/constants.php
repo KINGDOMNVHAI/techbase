@@ -3,18 +3,6 @@
 
 // ========== ONE FOR ALL ==========
 
-// === CONNECT DATABASE ===
-
-// define('DB_HOST', '127.0.0.1');
-// define('DB_PORT', '3306');
-// define('DB_DATABASE', 'nvhai');
-// define('DB_USERNAME', 'root');
-// define('DB_PASSWORD', '');
-
-// === LANGUAGE ===
-
-// define('DEFAULT_LANGUAGE', 'en');
-
 // === Enable ===
 
 define('UNENABLE', false);
