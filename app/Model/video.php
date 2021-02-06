@@ -1,5 +1,4 @@
 <?php
-
 namespace App\Model;
 
 use Illuminate\Database\Eloquent\Model;
@@ -17,11 +16,12 @@ class video extends Model
     public $timestamps = false;
 
     protected $fillable = [
-        'id_video', 
+        'id_video',
         'name_vi_video', 'name_en_video', 'name_jp_video',
         'url_video',
-        'description_vi_video', 'description_en_video', 'description_jp_video',
-        'youtube_channel',
-        'id_cat_video',
+        'present_vi_video', 'present_en_video', 'present_jp_video',
+        'content_vi_video', 'content_en_video', 'content_jp_video',
+        'date_video', 'thumbnail_video',
+        'youtubechannel',
     ];
 }

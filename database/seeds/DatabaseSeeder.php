@@ -11,7 +11,10 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
+        $this->call(CategoryPostTableSeeder::class);
+        $this->call(IframeVideoTableSeeder::class);
         $this->call(VideoTableSeeder::class);
         $this->call(UsersTableSeeder::class);
+        $this->call(YoutuberankTableSeeder::class);
     }
 }

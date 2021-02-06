@@ -13,6 +13,7 @@ class CreateVideoTable extends Migration
      */
     public function up()
     {
+        $this->down();
         Schema::create('video', function (Blueprint $table) {
             $table->increments('id_video');
             $table->string('name_vi_video')->unique();

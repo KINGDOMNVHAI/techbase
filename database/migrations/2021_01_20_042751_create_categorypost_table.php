@@ -4,7 +4,7 @@ use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 use Illuminate\Support\Facades\Schema;
 
-class CreateUserRoomTable extends Migration
+class CreateCategorypostTable extends Migration
 {
     /**
      * Run the migrations.
@@ -13,9 +13,12 @@ class CreateUserRoomTable extends Migration
      */
     public function up()
     {
-        Schema::create('user_room', function (Blueprint $table) {
-            $table->id();
-            $table->timestamps();
+        $this->down();
+        Schema::create('categorypost', function (Blueprint $table) {
+            $table->increments('id_cat_post');
+            $table->string('name_cat_post');
+            $table->string('url_cat_post');
+            $table->boolean('enable_cat_post');
         });
     }
 
@@ -26,6 +29,6 @@ class CreateUserRoomTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('user_room');
+        Schema::dropIfExists('categorypost');
     }
 }
