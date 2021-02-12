@@ -1,6 +1,6 @@
 <?php
 
-use App\Model\UserRoom;
+use App\Models\UserRoom;
 use Illuminate\Database\Seeder;
 
 class UserRoomTableSeeder extends Seeder

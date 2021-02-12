@@ -1,7 +1,7 @@
 <?php
 namespace App\Services\auth;
 
-use App\Model\User;
+use App\Models\User;
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Hash;

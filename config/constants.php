@@ -44,3 +44,16 @@ define('PAGINATE_SITE_INDEX', '15');
 // === Max number of user in list user ===
 
 define('MAX_NUMBER_OF_USER_IN_LIST', '1500');
+
+// === List book ===
+
+define('ENCORE1', '1');
+define('ENCORE2', '2');
+define('ENCORE3', '3');
+define('ENCORE4', '4');
+define('ENCORE5', '5');
+define('ENCORE6', '6');
+define('ENCORE7', '7');
+define('ENCORE8', '8');
+define('ENCORE9', '9');
+define('ENCORE10', '10');

@@ -1,6 +1,6 @@
 <?php
 
-use App\Model\youtuberank;
+use App\Models\youtuberank;
 use Illuminate\Database\Seeder;
 
 class YoutuberankTableSeeder extends Seeder

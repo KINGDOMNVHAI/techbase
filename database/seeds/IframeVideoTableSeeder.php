@@ -1,6 +1,6 @@
 <?php
 
-use App\Model\iframevideo;
+use App\Models\iframevideo;
 use Illuminate\Database\Seeder;
 
 class IframeVideoTableSeeder extends Seeder
