@@ -5,8 +5,8 @@
 
 // === Enable ===
 
-define('UNENABLE', false);
 define('ENABLE', true);
+define('UNENABLE', false);
 
 // ========== ERROR ==========
 

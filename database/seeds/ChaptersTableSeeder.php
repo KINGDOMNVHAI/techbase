@@ -2040,6 +2040,13 @@ Tohka hỏi Shidou gì đã xảy ra, Shidou trả lời "không có gì" và ti
             'enable_chapter' => ENABLE,
         ]);
 
+        chapters::create([
+            'title_chapter' => 'Date A Girl',
+            // 'url_chapter'   => 'date-a-girl',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE1,
+            'enable_chapter' => ENABLE,
+        ]);
 
 
 

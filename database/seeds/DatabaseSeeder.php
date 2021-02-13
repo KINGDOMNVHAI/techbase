@@ -15,6 +15,7 @@ class DatabaseSeeder extends Seeder
         $this->call(CategoryPostTableSeeder::class);
         $this->call(ChaptersTableSeeder::class);
         $this->call(IframeVideoTableSeeder::class);
+        $this->call(PresentpostTableSeeder::class);
         $this->call(VideoTableSeeder::class);
         $this->call(UsersTableSeeder::class);
         $this->call(YoutuberankTableSeeder::class);
