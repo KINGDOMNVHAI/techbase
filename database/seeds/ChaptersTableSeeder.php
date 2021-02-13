@@ -2044,9 +2044,250 @@ Tohka hỏi Shidou gì đã xảy ra, Shidou trả lời "không có gì" và ti
             'title_chapter' => 'Date A Girl',
             // 'url_chapter'   => 'date-a-girl',
             'content_chapter' => 'Tohka chơi game',
-            'id_book_chapter' => ENCORE1,
+            'id_book_chapter' => ENCORE7,
             'enable_chapter' => ENABLE,
         ]);
+
+        chapters::create([
+            'title_chapter' => 'Tohka Foodfight',
+            // 'url_chapter'   => 'tohka-foodfight',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Yoshino Experience',
+            // 'url_chapter'   => 'yoshino-experience',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Kurumi Valentine',
+            // 'url_chapter'   => 'kurumi-valentine',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Yamai Exchange',
+            // 'url_chapter'   => 'yamai-exchange',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Miku Burglar',
+            // 'url_chapter'   => 'miku-burglar',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Mikie Measurement',
+            // 'url_chapter'   => 'mikie-measurement',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Reine Marriagehunt',
+            // 'url_chapter'   => 'reine-marriagehunt',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE7,
+            'enable_chapter' => ENABLE,
+        ]);
+
+
+
+
+        chapters::create([
+            'title_chapter' => 'Opening in the Darkness',
+            // 'url_chapter'   => 'opening-in-the-darkness',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Natsumi Double',
+            // 'url_chapter'   => 'natsumi-double',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Tohka Brave',
+            // 'url_chapter'   => 'tohka-brave',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Kotori Editor',
+            // 'url_chapter'   => 'Kotori-editor',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Mukuro Geisha',
+            // 'url_chapter'   => 'mukuro-geisha',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Shiori Spirit - Tinh Linh Shiori',
+            // 'url_chapter'   => 'shiori-spirit',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'That Ending Is',
+            // 'url_chapter'   => 'that-ending-is',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE8,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Itsuka Parents - Ba mẹ Itsuka',
+            // 'url_chapter'   => 'itsuka-parents',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE9,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Nia House',
+            // 'url_chapter'   => 'nia-house',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE9,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Natsumi Challenge',
+            // 'url_chapter'   => 'natsumi-challenge',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE9,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Origami Training',
+            // 'url_chapter'   => 'origami-training',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE9,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Miku Scandal',
+            // 'url_chapter'   => 'miku-scandal',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE9,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Spirit Cruising',
+            // 'url_chapter'   => 'spirit-cruising',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => ENCORE9,
+            'enable_chapter' => ENABLE,
+        ]);
+
+
+
+        chapters::create([
+            'title_chapter' => 'Phần 1: Yatogami Tohka',
+            'url_chapter'   => 'ratatoskr-top-secret-yatogami-tohka',
+            'content_chapter' => '<img src="" alt="Ratatoskr Top Secret Yatogami Tohka" width="70%">
+
+<ul>
+<li>Mật danh: Princess – Công chúa
+<li>Mức độ đe dọa: AAA
+<li>Quy mô Không gian chấn: B
+<li>Thiên Phục: AAA
+<li>Thiên thần: AAA
+<li>Sức mạnh - Strength (STR): 230
+<li>Phòng thủ - Defense (CON): 202
+<li>Tinh Linh - Spirit (SPI): 125
+<li>Tốc độ - Agility (AGI): 143
+<li>Thông minh - Intelligence (INT): 32
+</ul>
+
+<p><strong>Thiên Phục: Adonai Melekh</strong></p>
+<p>Một bộ Thiên Phục có kiểu dáng như bộ váy công chúa được bọc giáp và vải sáng rực. Không có bất kỳ sức mạnh vật lý nào có thể cắt được.</p>
+
+<p><strong>Thiên thần: Sandalphon</strong></p>
+<p>Một thiên thần trong hình dạng một ngai vàng lớn có một thanh kiếm bên trong. Halvanhelev <Thanh Kiếm Cuối Cùng> sẽ xuất hiện khi chém đôi ngai vàng.</p>
+
+<p>"Umm..."</p>
+
+<p>Không có ai ở nhà Itsuka. Tohka cúi xuống và đặt tay lên đầu gối của cô khi cô nhìn chằm chằm vào tủ lạnh.<br>
+Đó là vì có một bánh được đặt bên trong.<br>
+Đó không phải là những cái bánh giá rẻ được bán trong các cửa hàng mà một cái bánh rất ngon. Kể từ khi cô tình cờ nhìn thấy nó khi cô mở tủ lạnh, Tohka đã bị hấp dẫn bởi nó.</p>
+
+"...Mình có thể ăn mà..."
+Từ từ vươn tới nó ...... cô ấy đột nhiên lắc đầu một cách mạnh mẽ khi cô chạm vào bánh.
+"Không ...... có thể cái này là của Shido......"
+Sau đó cô đóng cửa tủ lạnh. Tuy nhiên ......
+"Nh…nhưng, nếu chỉ ngửi mùi thôi ......"
+Tohka nuốt nước bọt, một lần nữa vươn tới cái bánh.
+Nhưng chỉ khi cô chạm vào nó, những suy nghĩ về biểu hiện khó chịu của Shidou khiến Tohka không thể ăn bánh, cơ thể Tohka run lên.
+"K-không ...... Nếu điều này tiếp tục ......!"
+Tohka dùng tay trái của mình để hạn chế bàn tay phải đang vươn tới cái bánh, cô đóng cửa của tủ lạnh, ngồi xuống ghế trong nhà bếp. Tohka sử dụng dây nhựa để buộc cơ thể của mình lên. Hơn nữa, cô ấy ngăn nước dãi của mình chảy ra bằng băng keo
+"......, .................. (Mình…mình sẽ không sao ....!)"
+Vài phút sau đó. Shidou người đã trở về nhà và rất sợ hãi khi nhìn thấy Tohka trong tình trạng đó, cậu thậm chí còn muốn gọi cảnh sát.
+Tuy nhiên - sau khi nghe những gì đã xảy ra, Shidou không thể không mỉm cười, khen ngợi Tohka và xoa đầu cô.
+
+',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Phần 2: Yoshino',
+            // 'url_chapter'   => 'ratatoskr-top-secret-yoshino',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Phần 3: ',
+            // 'url_chapter'   => 'ratatoskr-top-secret-',
+            'content_chapter' => 'Tohka chơi game',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
