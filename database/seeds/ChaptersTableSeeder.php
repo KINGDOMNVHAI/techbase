@@ -55,11 +55,11 @@ class ChaptersTableSeeder extends Seeder
         chapters::create([
             'title_chapter' => 'Kurumi Star Festival',
             'url_chapter'   => 'kurumi-star-festival',
-            'content_chapter' => '<center><img src="blog/upload/Kurumi-Star-Festival.jpg" alt="Kurumi Star Festival" width="60%" title="Kurumi Star Festival" />
+            'content_chapter' => '<center><img src="upload/Kurumi-Star-Festival.jpg" alt="Kurumi Star Festival" width="60%" title="Kurumi Star Festival" />
 
-<img src="blog/upload/Kurumi-star-festival-9-12-2014.jpg" alt="Kurumi Star Festival" width="60%" title="Kurumi Star Festival" />
+<img src="upload/Kurumi-star-festival-9-12-2014.jpg" alt="Kurumi Star Festival" width="60%" title="Kurumi Star Festival" />
 
-<img src="blog/upload/Kurumi-star-festival-hentai-2020.png" alt="Kurumi Star Festival" width="60%" title="Kurumi Star Festival" /></center>
+<img src="upload/Kurumi-star-festival-hentai-2020.png" alt="Kurumi Star Festival" width="60%" title="Kurumi Star Festival" /></center>
 
 <p>"Ở đây đông đúc thật đấy."<br>
 Shidou vừa đi bộ vừa nhìn 2 bên con đường.<br>
@@ -108,9 +108,9 @@ Cô gái mặc váy đen đã biến mất.<br>
 "Chào buổi chiều, Shidou-san."<br>
 "Uwah!?"</p>
 
-<center><img src="blog/upload/Kurumi-Star-Festival-1.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
+<center><img src="upload/Kurumi-Star-Festival-1.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
 
-<img src="blog/upload/Kurumi-Star-Festival-2.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" /></center>
+<img src="upload/Kurumi-Star-Festival-2.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" /></center>
 
 <p>Trước khi Shidou kịp trấn tĩnh lại, một giọng nói gọi cậu từ phía sau, khiến cậu nhảy dựng lên.<br>
 Sau đó, cậu quay lại, đứng kế bên cậu là cô gái mà cậu nhìn thấy từ phía bên kia đường.<br>
@@ -365,7 +365,7 @@ Nghe Kurumi nói với giọng tha thiết như vậy, Shidou không thể khôn
 "! Vâng, vâng! Tớ rất vui đấy!"</p>
 <p>Biểu hiện của Kurumi ngay lập tức sáng lên. Đó là một cái nhìn tinh khiết và vô tội, khiến Shidou mất tất cả ý định chống đối. Cậu không còn lựa chọn nào ngoài việc đi vào cửa hàng đám cưới với Kurumi.</p>
 
-<img src="blog/upload/Kurumi-Star-Festival-3.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
+<img src="upload/Kurumi-Star-Festival-3.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
 
 <p>"Shidou-san... anh đâu rồi?"</p>
 <p>Đã là buổi chiều. Trời sắp tối rồi. Yoshino đang đi bộ ở khu mua sắm.<br>
@@ -404,7 +404,7 @@ Nhìn Tohka vui vẻ đi vào, Kotori nói với Yoshino.<br>
 "Vâng!"<br>
 Yoshino đi theo Kotori đi lấy 2 Tanzaku miễn phí, lấy một cây bút theo kiểu cổ và viết điều ước của mình cùng với Yoshinon.</p>
 
-<img src="blog/upload/Kurumi-Star-Festival-Tanabata.jpg" alt="Kurumi Star Festival Tanabata" width="100%" title="Kurumi Star Festival Tanabata" />
+<img src="upload/Kurumi-Star-Festival-Tanabata.jpg" alt="Kurumi Star Festival Tanabata" width="100%" title="Kurumi Star Festival Tanabata" />
 
 <p>"Oh, mọi người ước gì vậy?"<br>
 Tohka sau khi viết xong điều ước của mình, cô nhìn Tanzaku của Kotori.<br>
@@ -485,7 +485,7 @@ Lời nói của cô gái khiến Yoshino bị shock. Tuy nhiên, cô gái tiế
 Nói đến đây, cô gái cầm váy của mình, từ từ nâng lên.<br>
 "......!?"</p>
 
-<center><img src="blog/upload/Kurumi-show-patsu.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" /></center>
+<center><img src="upload/Kurumi-show-patsu.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" /></center>
 
 <p>Đầu óc Yoshino rối tung, thế giới bắt đầu quay cuồng. Cô bé không còn muốn suy nghĩ gì nữa, chỉ muốn tránh xa khỏi cô gái thật nhanh.<br>
 "Fufufu, chúc một ngày tốt lành."<br>
@@ -517,11 +517,11 @@ Shidou bơ phờ trả lời, mở cửa phòng.<br>
 Kurumi người đang đứng ngay ở trung tâm của phòng thay đồ. Shidou đã ngay lập tức bị cuốn hút.<br>
 Trái ngược với hình ảnh bình thường của cô, một chiếc váy cưới màu trắng tinh khiết bao bọc cơ thể mềm mại của cô, một lớp trang điểm mỏng che mặt của cô. Với vẻ đẹp đáng kinh ngạc như vậy, Shidou đã không thể thốt ra thành lời.</p>
 
-<center><img src="blog/upload/Kurumi-Wedding-2.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" />
+<center><img src="upload/Kurumi-Wedding-2.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" />
 
-<img src="blog/upload/Kurumi-Wedding.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
+<img src="upload/Kurumi-Wedding.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
 
-<img src="blog/upload/Kurumi-Wedding-3.png" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" /></center>
+<img src="upload/Kurumi-Wedding-3.png" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" /></center>
 
 <p>"Fufu, cậu nhìn kỹ tớ thế này, tớ thấy xấu hổ lắm đấy."<br>
 "! Ah, tớ xin lỗi. Chỉ là... trông cậu rất đẹp đấy!"<br>
@@ -629,7 +629,7 @@ Tuy nhiên, cho đến lúc này, Kurumi hoàn toàn không có ý gì ngoài vi
 
 
 
-<center><img src="blog/upload/Kurumi-Star-Festival-4.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" /></center>
+<center><img src="upload/Kurumi-Star-Festival-4.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" /></center>
 
 <p>Kurumi không trả lời, cô chỉ nở một nụ cười buồn.</p>
 
@@ -641,7 +641,7 @@ Dưới chân Kurumi xuất hiện những cánh tay, từ từ kéo cô vào b�
 "Ku… Kurumi......!"<br>
 Shidou đưa tay ra, hy vọng sẽ nắm được tay Kurumi. Nhưng đã quá trễ.</p>
 
-<img src="blog/upload/Kurumi-Cry.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" />
+<img src="upload/Kurumi-Cry.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" />
 <p style="text-align: center;"><strong>"Shidou-san, hôm nay... tớ thực sự... rất hạnh phúc..."</strong></p>
 
 <p>Kurumi không hề kháng cự, cô để cho các tay trắng quấn quanh mình, cho đến khi cô đã hoàn toàn bị ngập trong bóng tối.<br>
@@ -717,14 +717,14 @@ Trên đỉnh của cây tre cao nhất, tanzaku duy nhất đung đưa trong gi
 "Ừ...... Anh xin lỗi. Nhưng anh chỉ mong rằng, anh muốn nó trở thành sự thật dù có chuyện gì xảy ra."<br>
 Shido đi theo sau Tohka và nhìn lên trên - trong lá tre lắc lư, hình ảnh của một tanzaku nhỏ duy nhất có thể nhìn thấy.</p>
 
-<img src="blog/upload/Kurumi-wish.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" />
+<img src="upload/Kurumi-wish.jpg" alt="Kurumi Star Festival" width="50%" title="Kurumi Star Festival" />
 <p style="text-align: center;">Tôi muốn một ngày nào đó, tôi sẽ có thể gặp lại Shidou-san một lần nữa. Tokisaki Kurumi</p>
 
 <p>"Tớ sẽ không quên cậu...... Tớ rất mong được gặp lại cậu."<br>
 Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực hiện một lời hứa.<br>
 Ở giữa bầu trời lấp lánh những ngôi sao, một ngôi sao băng nhỏ duy nhất vút qua như thể bay qua dải Ngân hà.</p>
 
-<img src="blog/upload/Kurumi-smile.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
+<img src="upload/Kurumi-smile.jpg" alt="Kurumi Star Festival" width="100%" title="Kurumi Star Festival" />
 
 
 
@@ -739,9 +739,9 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
         chapters::create([
             'title_chapter' => 'Date A If',
             'url_chapter'   => 'date-a-if',
-            'content_chapter' => '<center><img src="blog/upload/DAL-Encore-2-cov.jpg" alt="Date a if" width="50%" />
+            'content_chapter' => '<center><img src="upload/DAL-Encore-2-cov.jpg" alt="Date a if" width="50%" />
 
-<img src="blog/upload/DAL-Encore-2-cov-1.jpg" alt="Date a if" width="50%" /></center>
+<img src="upload/DAL-Encore-2-cov-1.jpg" alt="Date a if" width="50%" /></center>
 
 <h3>Trường hợp 1: nếu Tohka và các cô gái chụp hình tại hồ bơi</h3>
 
@@ -785,7 +785,7 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <p>Sau đó, bể bơi đông cứng lại cùng với 3 cô gái.</p>
 
-<img src="blog/upload/Date-a-if-case-1.jpg" alt="Date a if" width="100%" />
+<img src="upload/Date-a-if-case-1.jpg" alt="Date a if" width="100%" />
 
 <h3>Trường hợp 2: nếu Kurumi sống chung với mọi người mỗi ngày</h3>
 
@@ -863,7 +863,7 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <p>Âm thanh của Kurumi vang vọng khắp cửa hàng.</p>
 
-<img src="blog/upload/Date-a-if-case-2.jpg" alt="Date a if" width="100%" />
+<img src="upload/Date-a-if-case-2.jpg" alt="Date a if" width="100%" />
 
 <h3>Trường hợp 3: nếu Origami và Mana là chị em ruột</h3>
 
@@ -955,7 +955,7 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <p>Mana ném tạp dề xuống đất và nhanh chóng chạy trốn.</p>
 
-<img src="blog/upload/Date-a-if-case-3.jpg" alt="Date a if" width="100%" />
+<img src="upload/Date-a-if-case-3.jpg" alt="Date a if" width="100%" />
             ',
             'id_book_chapter' => ENCORE2,
             'enable_chapter' => ENABLE,
@@ -1736,7 +1736,7 @@ Kết luận: gu thời trang của Kurumi rất khác người nhưng cũng r�
         chapters::create([
             'title_chapter' => "Origami Normalize - Origami bình thường",
             'url_chapter'   => 'origami-normalize',
-            'content_chapter' => '<img class="aligncenter" src="blog/upload/DAL-Encore-4-Origami-Normalize.jpg" alt="Date a live Origami Normalize" width="50%" />
+            'content_chapter' => '<img class="aligncenter" src="upload/DAL-Encore-4-Origami-Normalize.jpg" alt="Date a live Origami Normalize" width="50%" />
 
 <p>Một ngày nọ ở trường, Tonomachi hỏi Shidou mẫu người con gái mà cậu thích.<br>
 Shidou miễn cưỡng trả lời, và hỏi Tonomachi lý do tại sao.<br>
@@ -1775,7 +1775,7 @@ Origami cho rằng cô biết một cửa hàng rất tốt ở phía sau đư�
 <p>Ai Mai, Mii thay đổi chủ đề. Ai nói rằng gần đây cô đã mua một máy ảnh kỹ thuật số mới.<br>
 Origami nói cô cũng đã mua một máy ảnh mới gần đây, một máy ảnh CCD mà không ai có thể nhận thấy. (Máy ảnh CCD dạng như máy ảnh nhỏ. Có lẽ là hàng của AST)</p>
 
-<img class="aligncenter" src="blog/upload/DAL-Encore-4-Origami-Normalize-1.jpg" alt="Date a live Origami Normalize" width="50%" />
+<img class="aligncenter" src="upload/DAL-Encore-4-Origami-Normalize-1.jpg" alt="Date a live Origami Normalize" width="50%" />
 
 <p>Mii thay đổi chủ đề một lần nữa, và hỏi tại sao Ai mua một máy ảnh mới.<br>
 "À, là vì cậu để ý đến Kishiwada-kun?"<br>
@@ -2263,16 +2263,282 @@ Tuy nhiên - sau khi nghe những gì đã xảy ra, Shidou không thể không 
 
         chapters::create([
             'title_chapter' => 'Phần 2: Yoshino',
-            // 'url_chapter'   => 'ratatoskr-top-secret-yoshino',
-            'content_chapter' => 'Tohka chơi game',
+            'url_chapter'   => 'ratatoskr-top-secret-yoshino',
+            'content_chapter' => 'Yoshino
+
+Mật danh: Hermit - Ẩn sĩ
+Mức độ đe dọa: B
+Quy mô Không gian chấn: C
+Thiên Phục: B
+Thiên Thần: AA
+Sức mạnh - Strength (STR): 95
+Phòng thủ - Defense (CON): 82
+Tinh Linh - Spirit (SPI): 199
+Tốc độ - Agility (AGI): 212
+Thông minh - Intelligence (INT): 152
+
+Thiên Phục: El
+Một áo khoác ẩn sĩ màu xanh lá cây. Mặc dù không sức mạnh vật lý nào cắt được nó, nhưng nó cũng không bảo vệ được tất cả.
+
+Thiên Thần: Zadkiel
+Thiên thần trong hình dạng con rối khổng lồ điều khiển được nước và giá lạnh. Hơi thở của nó có thể tạo ra mưa và đóng băng mọi thứ trên đời.
+
+"Vậy thì, tớ bắt đầu nhé...... Yoshinon."
+"Ừ...... làm đi".
+Yoshino nói với một khuôn mặt nghiêm trọng, Yoshinon gật đầu với một khuôn mặt nghiêm túc.
+Tiếp theo, Yoshino giơ tay phải của mình, di chuyển nó gần hơn với bàn tay trái của mình, nơi Yoshinon đang ở trên tay.
+Sau đó cô cho tay phải vào cơ thể Yoshinon thật nhanh.
+"Auugh?"
+Yoshinon mở to mắt và kêu một tiếng kêu đau đớn. Dạ dày Yoshinon vốn đã rất dài nhờ khả năng của mình, bên trong bắt đầu quằn quại.
+"Ah ...... ah, uh ...... nn ......!"
+"Một chút nữa ...... cho sâu vào......!"
+Mồ hôi lăn dài trên khuôn mặt của Yoshino. Cô bé giữ tay phải của cô. Cuối cùng cô ấy nắm lấy tay trái của cô kéo ra khỏi cơ thể Yoshinon.
+"Nó như thế nào....?"
+"Hm ...... nó cảm thấy kỳ lạ thế nào ấy".
+"............"
+"............"
+"...... Cậu có muốn làm lại?"
+"Hm ......chờ một phút. Mặc dù tớ không phản đối, nhưng làm điều này nhiều lần, tớ sẽ ói ra mất".
+Yoshino cho tay phải vào một lần nữa, Yoshinon không thể không đưa ra một tiếng than khóc.
+
+            ',
             'id_book_chapter' => 11,
             'enable_chapter' => ENABLE,
         ]);
 
         chapters::create([
-            'title_chapter' => 'Phần 3: ',
-            // 'url_chapter'   => 'ratatoskr-top-secret-',
-            'content_chapter' => 'Tohka chơi game',
+            'title_chapter' => 'Phần 3: Tokisaki Kurumi',
+            'url_chapter'   => 'ratatoskr-top-secret-tokisaki-kurumi',
+            'content_chapter' => 'Tokisaki Kurumi
+
+            Mật danh: Nightmare – Ác mộng
+            Mức độ đe dọa: S
+            Quy mô Không gian chấn: C
+            Thiên Phục: C
+            Thiên thần: S
+            Sức mạnh - Strength (STR): 109
+            Phòng thủ - Defense (CON): 80
+            Tinh Linh - Spirit (SPI): 220
+            Tốc độ - Agility (AGI): 103
+            Thông minh - Intelligence (INT): 201
+
+            Astral Dress: Elohim
+            Một bộ váy được tạo ra từ sức mạnh Tinh Linh có màu đỏ của máu và màu đen của bóng tối. Bộ đồ toát ra vẻ sang trọng, tạo một cái nhìn ấn tượng về một sự cám dỗ của cơn ác mộng ngọt ngào.
+
+            Angel: Zafkiel
+            Một cái đồng hồ khổng lồ với hai cây súng trên tay tượng trưng cho hai cây kim. Từ số I đến số XII có mười hai công dụng khác nhau. Mặc dù là một thiên thần đầy sức mạnh, nó có thể rút thời gian của người sử dụng.
+
+                 Một ngày nọ đầu tháng 6. Sau khi Kurumi nghe nói về một thanh niên có sức mạnh của Tinh Linh bên trong anh ta, cô quyết định nhập học vào trường mà cậu ta đang học.
+                 "Vậy thì ...... đây là đồng phục của trường trung học Raizen. Fufu, trông như thế nào?"
+            Nói rằng, cô xoay người tại chỗ. Ngay sau đó, tiếng nói giống cô bắt đầu vang vọng từ bóng tối xung quanh.
+                 "Fufu, bộ đồ hợp với cô đấy. Tuy nhiên..."
+                 Một bản sao chỉ vào mắt trái giống như đồng hồ của Kurumi.
+                 "Nó hơi quá phô trương."
+                 "Cô có thể có ý tưởng gì hay ho không?"
+                 "Fufu, cô nghĩ gì về điều này?"
+                 Nói rằng, bản sao đưa một cái kính áp tròng màu.
+                 "Hừm ...... tôi sẽ phải thử nó...."
+                 Kurumi đặt kính trên đầu ngón tay của mình và đưa nó từ từ về phía mắt trái của cô. Tuy nhiên ....
+                 "......! Haa, haa ...... Đặt thứ đó vào trông thật ngớ ngẩn!"
+                 "Ara ara, có vẻ như cách này không được rồi. Vậy...... làm gì bây giờ?"
+                 Lúc này, bản sao đưa cô một cái băng.
+                 "Aaah, tôi sẽ không phải lo lắng về điều này."
+                 Kurumi gật đầu, mặc cái băng trên mắt trái của cô. Chỉ cần như thế, cô bước tới gương.
+                 "...... Được, tôi có thể giấu nó nếu tôi sử dụng cái này."
+                 Bản sao của cô bắt đầu nói ra sự phấn khích của họ.
+                 "Fufu, không phải là cô quá quyến rũ sao?"
+                 "Đúng vậy. Dường như sức mạnh của bóng tối nằm trong mắt trái của cô."
+                 "Đó là con mắt của ma quỷ. Đôi mắt của quỷ. Aaah, aaah, trái tim tôi đang rung động."
+                 "............"
+                 Kurumi không nói gì, cởi cái băng của mình, sử dụng mái tóc của mình để phủ kín mắt trái của cô.
+
+            ',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Phần 4: Itsuka Kotori',
+            'url_chapter'   => 'ratatoskr-top-secret-itsuka-kotori',
+            'content_chapter' => 'Itsuka Kotori
+
+Mật danh: Efreet
+Mức độ đe dọa: AA
+Quy mô Không gian chấn: B
+Thiên Phục: A
+Thiên Thần: AA
+Sức mạnh - Strength (STR): 150
+Phòng thủ - Defense (CON): 100
+Tinh Linh - Spirit (SPI): 215
+Tốc độ - Agility (AGI): 130
+Thông minh - Intelligence (INT): 178
+
+Thiên Phục: Elohim Gibor
+Bộ Thiên Phục có kiểu dáng giống như một bộ Kimono. Mặc dù không có sức mạnh lớn, nhưng bộ Thiên Phục có thể tạo ra lửa xung quanh và không bao giờ tắt.
+
+Angel: Camael
+Thiên Thần trong hình dạng một chiếc rìu 2 lưỡi. Khi nó ở dạng súng (Megiddo), ngọn lửa từ khẩu súng bắn ra có thể biến mọi thứ thành tro bụi.
+
+"Shidou ..... không có ở nhà."
+Sau khi Kotori cẩn thận nhìn xung quanh nhà, thở phào nhẹ nhõm.
+Không có ai trong phòng trên tầng hai, phòng khách hoặc thậm chí phòng tắm. Có vẻ như rằng chỉ có Kotori còn lại trong nhà.
+"Được rồi, mình sẽ tận dụng cơ hội này ......"
+Kotori nhanh chóng chạy đến phòng giặt ủi, mở nắp máy giặt.
+Cô nhấn nút máy giặt sau khi cho bột giặt và cặp nơ đen mà cô đeo vào máy giặt.
+Máy giặt bắt đầu quay. Kotori lấy ra cặp nơ trắng từ trong túi ra và gắn lên mái tóc của mình.
+"Được rồi, tất cả những gì mình phải làm là sấy khô nó trước khi Onii-chan về nhà!"
+Cặp nơ màu đen cô đã nhận được từ Shido, là thứ thiết yếu trong việc tạo ra một Kotori mạnh mẽ.... Vấn đề là cô không thể đeo nó suốt ngày. Vì vậy, Kotori sẽ rửa sạch khi trong nhà không có người.
+Lúc này, điện thoại Kotori reo lên.
+"Xin chào?"
+“A, chỉ huy! Có trường hợp khẩn cấp! Chúng tôi đã phát hiện ra sóng Tinh Linh! Hãy đến Fraxinus ngay!”
+"Eh ......!"
+Kotori mở to mắt kinh ngạc. Kotori đã phải sử dụng băng đen của mình để đi vào chế độ chỉ huy. Tuy nhiên chúng đã đang được giặt trong máy giặt. Nhưng cô không thể bỏ qua các sóng Tinh Linh chỉ vì lý do này được.
+"Uwaaaaaaah, Sao lại là lúc này!"
+Kotori dừng máy giặt, lấy cặp nơ đen vẫn còn đang ngâm xà bông. Buộc chúng vào mái tóc của mình sau khi dùng tay để vắt khô.
+"Ưuuuu ...... nó vẫn còn ướt...."
+Kotori cau mày, bắt đầu chạy để được đưa lên Fraxinus.
+
+            ',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Phần 5: Yamai Kaguya/Yuzuru',
+            'url_chapter'   => 'ratatoskr-top-secret-yamai-kaguya-yuzuru',
+            'content_chapter' => 'Yamai Kaguya/Yuzuru
+
+Mật danh: Berserk
+Mức độ đe dọa: AAA
+Quy mô Không gian chấn: AA
+Thiên Phục: B
+Thiên Thần: AA
+Sức mạnh - Strength (STR): 180/170
+Phòng thủ - Defense (CON): 140/129
+Tinh Linh - Spirit (SPI): 179/185
+Tốc độ - Agility (AGI): 240/240
+Thông minh - Intelligence (INT): 69/84
+
+Astral Dress: Elohim Tzabaoth
+Một bộ đồ giống như một sự phong ấn với những dây đai quấn quanh người và một cái ổ khóa trên cổ. Khả năng phòng thủ của nó khá thấp, tuy nhiên Yamai luôn luôn được bao quanh bởi một cơn gió mạnh và di chuyển ở tốc độ cao, không có sức tấn công nào có thể tấn công họ.
+
+Angel: Raphael
+Một Thiên Thần có thể điều khiển gió. Khi cây thương của Kaguya - El Lehm và dây xích của Yuzuru - El Najasho sẽ tạo ra một cây cung khổng lồ - El Kanaf. Không gì có thể cản được nó.
+
+"Câu hỏi: Kaguya, hôm nay cô định sắp xếp..."
+"......!"
+Khi Yuzuru mở cửa vào phòng, vì một lý do nào đó, Kaguya vội vàng lấy thân che cái bàn đằng sau. Dường như cô cố gắng che giấu một cái gì đó.
+"Ku-kuku...... cô cần gì? Hôm nay tôi rất bận, cô nên quay lại vào lúc khác."
+Mồ hôi lăn dài trên má Kaguya khi cô nói. Yuzuru nhìn chằm chằm vào Kaguya, đi đến bàn của mình mà không chú ý đến lời nói của cô. Cô lấy một trong những cuốn sách mà Kaguya đã cố gắng để che giấu.
+"...... Ah ......!"
+"Công nhận. Hm ...... Từ Điển Tên Gọi Cho Thế Giới Thay Thế (The Naming Dictionary for Alternate Worlds), Mười Ba Phiên Bản Ngôn Ngữ ...... huh. Tôi tự hỏi tại sao tên của cô khác so với trước đây, vậy chắc là do cuốn sách này. "
+".. Ku, kuku ...... tôi chẳng hiểu cô đang nói gì. Từ lúc sinh ra tôi đã không cần một đặt cái tên nào hết".
+"Khám phá: Có một gạch dưới trong phần tiếng Đức. Hình như cô thích tiếng Đức."
+"Ku ......"
+Kaguya ngay lập tức cho thấy một biểu hiện tức giận, nghiến răng trong thất vọng.
+"Cô cũng nói thế được sao, Yuzuru?"
+Nói xong, Kaguya lấy ra một cuốn sách.
+"Sốc. Đó là -"
+"Đúng vậy! Đây là cuốn sách ecchi in hình phụ nữ khỏa thân trên bìa đã được giấu dưới gầm giường của cô! Kuku ...... Nếu có ai biết Yuzuru đọc sách như vậy, thì cô sẽ làm gì? ...... "
+Kaguya đã lật cuốn sách, đột nhiên đỏ mặt.
+"Trao đổi: Kaguya."
+"..........Ừ…ừ."
+Kaguya và Yuzuru trao đổi sách mà họ đang giữ của nhau.
+
+
+            ',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Phần 6: Izayoi Miku',
+            'url_chapter'   => 'ratatoskr-top-secret-izayoi-miku',
+            'content_chapter' => 'Izayoi Miku
+
+Mật danh: Diva
+Mức độ đe dọa: A
+Quy mô Không gian chấn: B
+Thiên Phục: C
+Thiên Thần: AA
+Sức mạnh - Strength (STR): 85
+Phòng thủ - Defense (CON): 72
+Tinh Linh - Spirit (SPI): 159
+Tốc độ - Agility (AGI): 67
+Thông minh - Intelligence (INT): 70
+
+Thiên Phục: Shaddai El Chai
+Một Thiên Phục kiểu dáng của một ca sĩ tỏa sáng rực rỡ. Bộ đồ tuyệt đẹp khiến người xem không thể rời mắt khỏi nó.
+
+Thiên Thần: Gabriel
+Một Thiên Thần có hình dáng gồm các đường ống của đàn organ có khả năng chinh phục âm thanh. Bất kỳ ai nghe thấy âm thanh đó sẽ cống hiến cả cơ thể lẫn linh hồn cho Miku. Khi giai điệu thay đổi, nó cũng có thể tạo ra sức mạnh đối với những người nghe nó. Bằng cách thay đổi áp suất âm thanh, nó cũng có thể được sử dụng để trực tiếp tấn công kẻ thù.
+
+Một ngày nọ. Miku đang ở trong phòng của mình gọi điện thoại.
+Bên kia là một người quản lý nữ phụ trách hành chính của Miku. Do lệnh cấm của một tin truyền hình, họ đã liên lạc với nhau nhiều hơn so với bình thường.
+
+"-... Ah, đúng rồi. Kể từ khi lệnh cấm được dỡ bỏ, tôi muốn tạo ra một blog cá nhân. Tôi đã nghĩ về điều đó trong thời gian dài.... .? Eh Không có gì sai cả. Tôi biết giới hạn của mình. Tôi sẽ viết một cái gì đó về công việc, đưa ra một số hình ảnh nấu ăn của tôi, vài bức ảnh với Darling... ... Hả? Ý cô là sao? Tôi không thể? Hả? Darling là Darling...... Haa, tôi sẽ làm cho các fan của tôi tức giận? Chỉ cần cho họ những gì họ muốn thôi."
+
+Sau đó, quản lý của cô bắt đầu la hét. Miku chỉ có thể thở dài trong sự bất lực.
+"...... Được rồi, tôi hiểu rồi -. Tôi sẽ viết lên trên blog tôi, sau đó tôi sẽ làm một tài khoản Twitter, sau đó ....... Eh..? Ưuuuu, cô nghĩ tôi là một con ngốc sao? Tất nhiên tôi biết làm thế nào để sử dụng nó ....... Eh? Cô hỏi về nội dung tôi sẽ viết à? Tôi sẽ viết về việc đi mua sắm với Darling, vẻ mặt dễ thương của Darling, những hình ảnh tôi và Darling  hôn nhau và ...... eh? Làm thế không khiến tình hình tốt hơn? Thậm chí tệ hơn? Haa ...... chuyện này khó hơn tôi nghĩ. "
+
+Lúc đó, Miku đột nhiên mở to mắt.
+"Vậy thì, nếu là hình ảnh của tôi chơi với bạn bè nữ thì sao? Vâng, cô ấy siêu dễ thương. Đúng, tên cô ấy là Shiori-san ..... Shiori-san là người bạn duy nhất của tôi ....... Fufu, trường hợp này sẽ không có chuyện gì xảy ra cả. Phải, được rồi, tạm biệt".
+Nói xong Miku gác máy. Cô ngả lưng vào ghế sofa, rồi từ từ đứng dậy.
+"Bây giờ ...... mình phải yêu cầu Darling cho các số đo quần áo của anh ấy"
+Miku liếm môi, đi bộ ra khỏi phòng và ngân nga một giai điệu.
+
+            ',
+            'id_book_chapter' => 11,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Phần 7: Dark Yatogami Tohka',
+            'url_chapter'   => 'ratatoskr-top-secret-dark-yatogami-tohka',
+            'content_chapter' => 'Dark Yatogami Tohka
+
+Mật danh: ???
+Mức độ đe dọa: SS
+Quy mô Không gian chấn: A
+Thiên Phục: AAA
+Ác Quỷ: AAA
+Sức mạnh - Strength (STR): 240
+Phòng thủ - Defense (CON): 178
+Tinh Linh - Spirit (SPI): 201
+Tốc độ -Agility (AGI): 150
+Thông minh - Intelligence (INT): 33
+
+Thiên Phục: ???
+Một bộ đồ công chúa bao phủ bởi bóng tối. Mọi thứ đều là bí ẩn với bộ Thiên Phục này.
+
+Ác Quỷ: Nahemoth
+Một Ma Vương đầy sức mạnh trong hình dạng một ngai vàng màu đen với một thanh đao bên trong. Với một lần vung đại đao Paverschlev <Thanh Đao Tối Thượng>, mọi thứ đều biến mất.
+
+Shidou ngồi xuống  ghế sofa trong phòng khách, một Tohka khác với bình thường xuất hiện trước mặt cậu.
+“Ta đã xuất hiện một lần nữa”.
+“Sao chuyện này lại xảy ra?”
+Shidou mở to mắt và nhảy lên. Đứng trước mặt cậu là Dark Tohka.
+Tuy nhiên Tohka sẽ không thay đổi vì không có lý do nào cả. Cậu nhớ lại rằng lần trước cô ấy đã thay đổi bởi vì cậu sắp bị giết. Cảm thấy tuyệt vọng vào mức tột độ khiến Tohka thay đổi.
+Có vẻ như cô đã cảm nhận được suy nghĩ của Shidou. Dark Tohka gật đầu.
+“Đúng đấy. Vừa rồi ta đổ nước nóng vào tô mì, ta cảm thấy thất vọng khi ta vô tình làm đổ mì vào bồn rửa.” (người dịch: tức là Tohka lỡ làm đổ mì vào bồn rửa nên thất vọng, biến thành Dark Tohka)
+"Em vừa nấu mì ăn liền?"
+"Điều không quan trọng. Bây giờ ta đang đói. Nhanh làm một cái gì đó cho ta ăn đi."
+"Một cái gì đó để ăn ...... em muốn ăn mì ăn liền? Không, khi em là Tohka, em muốn ăn bánh mì đậu nành mà.?"
+
+Dark Tohka chế giễu Shidou.
+"Bánh mì đậu nành. Ngươi nghĩ rằng ta sẽ muốn ăn thứ đồ ăn dành cho trẻ con đó sao?"
+"Vậy em muốn ăn gì?"
+"Quả bóng gạo."
+"Hả?"
+"Quả bóng gạo cá ngừ mayonnaise."
+"...... Đó là thứ dành cho trẻ con mà ...."
+"Ngươi nói cái gì?"
+"Kh…không có gì cả ...... nhưng em nói rằng em muốn ăn cơm. Nhà anh cũng có..."
+"Cái gì? Ngươi không thể làm cho ta sao? Vậy ngươi chẳng còn giá trị gì nữa. Biến mất khỏi mặt đất này với Halvanhelev của ta đi!"
+"Eh, đó là, chờ đã, có chuyện gì vậy... Halvanhelev  là của..."
+Sau khi bị nhấn chìm bởi bóng đen, Shido thức dậy từ giấc mơ của mình.
+
+            ',
             'id_book_chapter' => 11,
             'enable_chapter' => ENABLE,
         ]);
@@ -2284,10 +2550,55 @@ Tuy nhiên - sau khi nghe những gì đã xảy ra, Shidou không thể không 
 
 
 
+        chapters::create([
+            'title_chapter' => 'Rinne Bathtime',
+            // 'url_chapter'   => 'rinne-bathtime',
+            'content_chapter' => '
 
+            ',
+            'id_book_chapter' => 12,
+            'enable_chapter' => ENABLE,
+        ]);
 
+        chapters::create([
+            'title_chapter'     => 'Arusu Quest',
+            // 'url_chapter'       => 'arusu-quest',
+            'content_chapter'   => '
 
+            ',
+            'id_book_chapter'   => 13,
+            'enable_chapter'    => ENABLE,
+        ]);
 
+        chapters::create([
+            'title_chapter' => 'Rio',
+            // 'url_chapter'   => 'rio',
+            'content_chapter' => '
+
+            ',
+            'id_book_chapter' => 14,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Ren Masks',
+            // 'url_chapter'   => 'ren-masks',
+            'content_chapter' => '
+
+            ',
+            'id_book_chapter' => 15,
+            'enable_chapter' => ENABLE,
+        ]);
+
+        chapters::create([
+            'title_chapter' => 'Spirit Baseball',
+            // 'url_chapter'   => 'spirit-baseball',
+            'content_chapter' => '
+
+            ',
+            'id_book_chapter' => 16,
+            'enable_chapter' => ENABLE,
+        ]);
 
 
 
