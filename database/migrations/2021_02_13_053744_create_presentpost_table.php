@@ -20,6 +20,7 @@ class CreatePresentpostTable extends Migration
             $table->string('url_presentpost');
             $table->text('content_presentpost');
             $table->string('thumbnail_presentpost');
+            $table->integer('id_website');
             $table->boolean('enable_presentpost')->default(ENABLE);
         });
     }

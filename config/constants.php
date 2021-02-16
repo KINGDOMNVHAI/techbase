@@ -41,9 +41,12 @@ define('PAGINATE_POST_INDEX', '30');
 define('PAGINATE_POST_DELETE', '30');
 define('PAGINATE_SITE_INDEX', '15');
 
-// === Max number of user in list user ===
+// === ID WEBSITE ===
+// Bài viết giới thiệu cho từng website
 
-define('MAX_NUMBER_OF_USER_IN_LIST', '1500');
+define('ID_WEBSITE_DAL', '1');
+define('ID_WEBSITE_NEWS', '2');
+define('ID_WEBSITE_KDPLAYBACK', '2');
 
 // === List book ===
 
