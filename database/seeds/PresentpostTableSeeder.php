@@ -19,7 +19,7 @@ class PresentpostTableSeeder extends Seeder
 
 <p>Date a Live là series Light Novel Nhật Bản được viết bởi Tachibana Kosho và minh họa bởi Tsunako. Bộ anime được bắt đầu công chiếu chính thức trên màn ảnh nhỏ vào 6/4 và kết thúc vào 22/6/2013, do hãng Kadokawa, Nhật Bản sản xuất.</p>
 
-<img class="aligncenter" src="../upload/date-a-live-hen-ho-song-con-1.jpg" alt="Date a live Light Novel" width="50%" />
+<img class="aligncenter" src="/upload/date-a-live-hen-ho-song-con-1.jpg" alt="Date a live Light Novel" width="50%" />
 
 <p>Nếu là fan của bộ phim này, hẳn bạn sẽ thuộc lòng đoạn giới thiệu nội dung của phim như sau:</p>
 
@@ -36,33 +36,33 @@ Dụ dỗ... bằng hẹn hò".</p></blockquote>
 
 <p>Bộ phim xoay quanh nam sinh tên Itsuka Shidou, người đã gặp các cô gái Tinh Linh xuất hiện trong các trận Không gian chấn. Và cậu phải ngăn chặn và cảm hóa các cô gái bằng cách hẹn hò với họ. Những tình huống hài hước, trớ trêu và cả nguy hiểm chết người sẽ đến với Itsuka Shidou. Và cậu dần dần khám phá ra khả năng phong ấn sức mạnh Tinh Linh của mình cùng quá khứ mập mờ không rõ ràng. Các bí mật về gốc gác của các Tinh Linh cũng dần được hé lộ.</p>
 
-<img class="aligncenter" src="../upload/date-a-live-hen-ho-song-con-2.jpg" alt="Date a live Light Novel" width="50%" />
+<img class="aligncenter" src="/upload/date-a-live-hen-ho-song-con-2.jpg" alt="Date a live Light Novel" width="50%" />
 
 <p>Bối cảnh Date a Live xảy ra 30 năm sau khi thế giới phải hứng chịu một trận xung vũ trụ bất ngờ tại trung tâm Âu-Á khiến hơn 150 triệu người thiệt mạng. Trận xung vũ trụ đó cũng chính là dấu hiệu cho sự bắt đầu của hàng loạt những trận xung vũ trụ nhỏ khác xảy ra trên khắp thế giới. Giờ đây, con người đã biết bảo vệ mình và cơ sở hạ tầng bằng cách đưa tất cả xuống hầm an toàn mỗi khi có thông báo về xung vũ trụ. Ngay trong tập 1 bạn có thể nhận ra điều này khi không chỉ con người mà cả tàu điện ngầm, đường ray cũng được đưa xuống lòng đất.</p>
 
-<img class="aligncenter" src="../upload/date-a-live-hen-ho-song-con-3.jpg" alt="Date a live Light Novel" width="100%" />
+<img class="aligncenter" src="/upload/date-a-live-hen-ho-song-con-3.jpg" alt="Date a live Light Novel" width="100%" />
 
 <p>Bộ phim mang phong cách khoa học viễn tưởng khi các thiết bị, công nghệ hiện đại được đưa vào để bảo vệ người dân và cơ sở hạ tầng cũng như trong chiến đấu. Những khẩu súng, tên lửa, kiếm laze và cả một thiết bị khổng lồ mang 2 nòng súng cực lớn tên là White Licorice cũng được phục vụ mục đích chống Tinh Linh.</p>
 
-<img class="aligncenter" src="../upload/date-a-live-hen-ho-song-con-White-Licorice.jpg" alt="Date a live Light Novel" width="100%" />
+<img class="aligncenter" src="/upload/date-a-live-hen-ho-song-con-White-Licorice.jpg" alt="Date a live Light Novel" width="100%" />
 
 <p>Tính lãng mạn và hài hước của bộ phim cũng không kém phần thú vị khi nhân vật chính Itsuka Shidou đảm nhận nhiệm vụ hẹn hò và cưa đổ các Tinh Linh. Mà mỗi Tinh Linh lại có một tính cách, sức mạnh cũng như độ nguy hiểm khác nhau, khiến cậu ta phải vất vả làm chiều lòng tất cả Tinh Linh. Khi Tinh Linh có chỉ số cảm xúc tụt xuống (buồn, tức giận), sức mạnh của họ sẽ quay trở lại.</p>
 
 <p>Về mặt hình ảnh, có lẽ không thể tìm được điểm gì đáng kể để chê trách khi môi trường cũng như nhân vật trong Date a Live được vẽ rất đẹp. Những hình ảnh đồng cỏ, nhà cao tầng, Không gian chấn và chiến đấu được đồ họa tuyệt đẹp. Date a Live cũng được nhiều người đánh giá là có nhân vật nữ rất đẹp so với nhiều phim khác. Mỗi nhân vật nữ mang một phong cách khác nhau. Tohka mang phong cách trẻ con, ngốc nghếch, dễ hiểu lầm khi Shidou gặp cô gái khác. Yoshino mang vẻ nhút nhát, ít nói, dùng một con rối tên là Yoshinon nói chuyện thay. Kurumi gây ấn tượng với vẻ bí ẩn, sức quyến rũ và cả sự kinh dị với cảnh máu me khắp nơi. Kotori đầy vẻ chững chạc, chỉ huy và bày nhiều trò quái chiêu. Origami im lặng, không biểu lộ cảm xúc nhưng khá bạo dạn khi thể hiện tình cảm. Tất cả đều khiến khán giả thích thú và cười nghiêng ngả khi xem Shidou xử lý với các cô gái như thế nào.</p>
 
-<img class="aligncenter" src="../upload/Dress-a-live-case-1.jpg" alt="Date a live Light Novel" width="100%" />
+<img class="aligncenter" src="/upload/Dress-a-live-case-1.jpg" alt="Date a live Light Novel" width="100%" />
 
-<img class="aligncenter" src="../upload/date-a-live-hen-ho-song-con-kurumi.jpg" alt="Date a live Light Novel" width="100%" />
+<img class="aligncenter" src="/upload/date-a-live-hen-ho-song-con-kurumi.jpg" alt="Date a live Light Novel" width="100%" />
 
 <p>Và điểm nhấn tuyệt nhất của bộ phim là nhạc nền. Date a Live sở hữu những bản nhạc nền tuyệt hay dành cho cả bộ phim cũng như mỗi nhân vật. Các fan hâm mộ sẽ không thể nào quên nhạc nền đặc trưng của Kurumi khi cô ấy thể hiện sự kinh dị và vẻ quyến rũ của mình. Rất nhiều người cảm thấy thích thú với nhạc nền hùng tráng của Kotori khi chiến đấu. Nếu muốn nghe tất cả bản nhạc của Date a Live, bạn hãy tìm đĩa nhạc Date a live First Half, Date a Live Second Half và Date a Music Extension.</p>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/c4xH8yzY3Pw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="500" src="https://www.youtube.com/embed/c4xH8yzY3Pw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>『デート・ア・ライブ』アニメPV ver1.2 Trailer Date a Live</p></center>
 
 <p>Vào ngày 31/7/2015, Kadokawa chính thức phát hành bộ đĩa Blu-ray BOX làm lại bộ phim Date a Live season 1 nhằm mục đích quảng cáo cho sự kiện ra mắt phim Date a Live Mayuri Judgement. Phần làm lại này sẽ có thêm nhiều cảnh phim mới không có trong phần 1.</p>
 
-<center><iframe width="560" height="315" src="https://www.youtube.com/embed/biANkf14PpM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="560" height="500" src="https://www.youtube.com/embed/biANkf14PpM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p>『デート･ア･ライブ（第1期）-ディレクターズカット版- Blu-ray BOX』TVCM Trailer Date a Live được làm lại</p></center>
 
@@ -83,21 +83,21 @@ Itsuka Kotori</p></blockquote>
 
 <p>Nhưng đời không như mơ, sau khi Shidou cứ chần chừ không lựa chọn bạn đời, cộng với việc Ratatoskr dần phát hiện ra sức mạnh của Ruler, khiến sức mạnh của cô không thể bị che giấu được nữa. Ratatoskr phát hiện ra sự tồn tại của một Tinh linh mang mật danh Ruler (Thống Trị), chính là Eden. Cô quyết định khởi động lại vườn địa đàng Eden, đưa cả thành phố Tengu quay về điểm xuất phát là ngày Shidou chết vì sức mạnh của Tohka. Cách để khởi động lại Eden là: cô phải giết Shidou.</p>
 
-<center><img src="../upload/date-a-live-rinne-utopia-spirits.jpg" alt="Date a live Rinne Utopia" width="100%" />
+<center><img src="/upload/date-a-live-rinne-utopia-spirits.jpg" alt="Date a live Rinne Utopia" width="100%" />
 
 <p>Shidou cùng 5 cô gái quyết định tấn công tháp Tengu Mới</p></center>
 
 <p>Sức mạnh của Eden được đặt tại 3 vị trí trong thành phố Tengu, tạo ra một kết giới bao quanh cả thành phố. Shidou sau khi bị lặp đi lặp lại đã cảm thấy mọi sự kiện thật quen thuộc. Cậu cuối cùng đã nhận ra và cùng các Tinh Linh khác phá hủy 3 vị trí đó, tiến lên tháp Tengu Mới dẫn đến vườn địa đàng Eden. Tuy nhiên, vì Rinne không có cơ thể, chỉ là tập hợp sức mạnh nên sau khi phong ấn, Rinne đã biến mất. Sức mạnh của Eden đã xóa hết ký ức của mọi người.</p>
 
-<center><img src="../upload/date-a-live-rinne-utopia-rinne.jpg" alt="Date a live Rinne Utopia" width="100%" /></center>
+<center><img src="/upload/date-a-live-rinne-utopia-rinne.jpg" alt="Date a live Rinne Utopia" width="100%" /></center>
 
 <p>Nhưng cũng có một kết thúc kỳ diệu là Phantom xuất hiện, Phantom cảm ơn cô vì sự cố gắng và khuyên cô nên ngủ một giấc thật ngon. Rồi bỗng một ngày, Rinne xuất hiện và học chung lớp với Shidou. Shidou nhớ ra Rinne và cô ấy nói "Tớ đã trở lại, Shidou".</p>
 
-<center><img src="../upload/date-a-live-rinne-utopia-tohka.jpg" alt="Date a live Rinne Utopia" width="100%" /></center>
+<center><img src="/upload/date-a-live-rinne-utopia-tohka.jpg" alt="Date a live Rinne Utopia" width="100%" /></center>
 
 <p>Còn ngược lại, nếu không làm các Tinh Linh yêu Shidou, Shidou sẽ bị họ (vô tình hoặc cố ý) giết chết. Ví dụ như Kurumi trong Bad Ending đã ăn thịt Shidou. Lúc này, kết giới Eden được kích hoạt mỗi khi Shidou chết. Nó đưa thành phố Tengu quay về quá khứ lúc kết giới mới được tạo. Và Shidou bắt đầu lại từ đầu.</p>
 
-<center><img src="../upload/date-a-live-rinne-utopia-bad-ending.jpg" alt="Date a live Rinne Utopia" width="100%" /></center>
+<center><img src="/upload/date-a-live-rinne-utopia-bad-ending.jpg" alt="Date a live Rinne Utopia" width="100%" /></center>
 
 <p>Nhà sản xuất Compile Heart đã biết tận dụng thành công của Kadokawa về hình ảnh và âm nhạc. Hình ảnh của Date a live được thể hiện khá tốt. Hiệu ứng tuyết của Yoshino khi chiến đấu, lửa của Kotori, ánh sáng của Tohka, Origami và Kurumi được thể hiện tốt. Game có 197 hình CG rất đẹp.</p>
 
@@ -105,15 +105,15 @@ Itsuka Kotori</p></blockquote>
 
 <p>Nếu tinh ý, người chơi sẽ thấy có điểm ẩn ý trong nội dung là: Rinne cố ý ngã và nhìn Shidou thay đồ nhiều lần. Tại sao nhỉ? Rinne chính là Ruler, người ra luật cho thế giới này, cai quản thế giới này. Nghĩa là cô đã biết những sự kiện này chắc chắn sẽ xảy ra. Vậy tại sao còn "vô tình" mở cửa trong lúc Shidou thay đồ? Tại sao còn ngã vào người Shidou khi cậu đang ngủ? Phải chăng Rinne cũng thích Shidou?</p>
 
-<center><img src="../upload/date-a-live-rinne-utopia-rinne-1.jpg" alt="Date a live Rinne Utopia" width="100%" />
+<center><img src="/upload/date-a-live-rinne-utopia-rinne-1.jpg" alt="Date a live Rinne Utopia" width="100%" />
 
 <p>Rinne mở cửa, giả vờ che mặt khi Shidou thay đồ</p>
 
-<img src="../upload/date-a-live-rinne-utopia-rinne-2.jpg" alt="Date a live Rinne Utopia" width="100%" />
+<img src="/upload/date-a-live-rinne-utopia-rinne-2.jpg" alt="Date a live Rinne Utopia" width="100%" />
 
 <p>Rinne ngã vào Shidou</p>
 
-<img src="../upload/date-a-live-rinne-utopia-rinne-3.jpg" alt="Date a live Rinne Utopia" width="100%" />
+<img src="/upload/date-a-live-rinne-utopia-rinne-3.jpg" alt="Date a live Rinne Utopia" width="100%" />
 
 <p>Trong khi cô chính là Ruler, người quản trò, ra luật lệ cho thế giới lặp đi lặp lại này</p></center>
 
@@ -170,7 +170,7 @@ Itsuka Kotori</p></blockquote>
 
 <p>Và phần kết của bộ phim, hãng Kadokawa đã thông báo sẽ có một tập phim Date a Live the movie sẽ ra mắt trong thời gian sớm nhất. Các fan hâm mộ đang rất háo hức chờ đợi phiên bản the movie của Date a Live dự kiến sẽ ra mắt vào năm sau. Hy vọng rằng, đây sẽ là trận chiến lớn nhất của Shidou và các Tinh Linh từ trước đến giờ. Chỉ có như vậy, khán giả mới thật sự mãn nhãn.</p>
 
-<center><iframe src="//www.youtube.com/embed/Dqb3ANEiPdw" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<center><iframe src="//www.youtube.com/embed/Dqb3ANEiPdw" width="560" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <p>Trailer Date a Live II</p></center>
 
@@ -199,7 +199,7 @@ Trong Ars Install, người chơi sẽ được trải nghiệm hoàn toàn mớ
 &nbsp;
 
 Điểm khác biệt của Ars Install so với Rinne Utopia là vì đây là thế giới ảo nên không có Bad Ending. Trong Rinne Utopia, khi các Tinh Linh không yêu Shidou, họ sẽ (vô tình hoặc cố ý) giết Shidou, kết giới Eden được kích hoạt để đưa Shidou và thành phố Tengu về quá khứ. Còn trong Ars Install, tất cả đều được quản lý bởi Maria. Maria sẽ xóa trí nhớ mọi người và đưa game khởi động lại. Route Maria dẫn đến True Ending chỉ được mở sau khi các Route của các Tinh Linh khác đều là Happy Ending.
-<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/xDF7CwS1LfU?list=PLDreFvf-2E26wReC_uyh_bcgIfaFqS7nn" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/xDF7CwS1LfU?list=PLDreFvf-2E26wReC_uyh_bcgIfaFqS7nn" width="560" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p style="text-align: center;">Trọn bộ gameplay Date a live Ars Install vietsub</p>
 Tin bên lề:
 <ul>
@@ -247,7 +247,7 @@ Thông tin chi tiết về phòng karaoke tại <a href="http://www.karatetsu.co
 &nbsp;
 
 Quà tặng các khán giả mua vé xem phim Date a Live Mayuri Judgement là một cuốn “Hồ sơ mật” về bộ phim Date a Live Mayuri Judgement, thông tin của các nhân vật và bản đồ thành phố Tengu. Khán giả cũng sẽ được tặng một cuốn sách Date a Live Material, nói về Date a Live từ những bản vẽ nháp đầu tiên. Ngày 22/8/2015, Kadokawa cũng sẽ phát hành cuốn light novel của tác giả Tachibana viết về truyện ngắn xoay quanh Mayuri.
-<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/qtzoBJ5m1dQ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/qtzoBJ5m1dQ" width="560" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 <p style="text-align: center;">Một số hình ảnh về vé xem phim và cuốn Top Secret</p>
 
 <center><div class="fb-comments" data-href="http://datealive.kingdomnvhai.info/datealive-mayurijudgement-mayuri-phan-quyet/" data-numposts="10"></div></center>
@@ -273,11 +273,11 @@ Quà tặng các khán giả mua vé xem phim Date a Live Mayuri Judgement là m
             'url_presentpost'       => 'date-a-live-3-time-travel',
             'content_presentpost'   => '<p>Date a live season 3 được ra mắt vào Mùa Đông 2019 (tháng 1 – 3/2019) do studio mới là J.C.Staff. Sau khi studio cũ là Production IMS phá sản, J.C.Staff sản xuất Date a live phần 3 cùng với hàng loạt dự án đình đám khác là One Punch Man 2, Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya, Toaru Kagaku no Railgun 3... Điều này đặt ra câu hỏi từ các fan hâm mộ là: J.C.Staff dành bao nhiêu thời gian và công sức để đầu tư cho Date a live 3 sau khi xem xong PV này?</p>
 
-<center><iframe src="https://www.youtube.com/embed/iz_sAWpBNrI" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+<center><iframe src="https://www.youtube.com/embed/iz_sAWpBNrI" width="560" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
 <p>Date a live 3 PV</p>
 
-<iframe src="https://www.youtube.com/embed/QAjpD99EhSU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
+<iframe src="https://www.youtube.com/embed/QAjpD99EhSU" width="560" height="500" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>
 
 <p>OP "I swear"</p></center>
 
@@ -350,6 +350,31 @@ Và điều quan trọng nhất là Date a live hiện đang có rất nhiều g
 <p style="text-align: center;">Thành tích tốt nhất của Date a live season 3 trên trang Anime Trending</p>
 ',
             'thumbnail_presentpost' => 'date-a-live-slide-3.jpg',
+            'id_website'            => ID_WEBSITE_DAL,
+            'enable_presentpost'    => ENABLE,
+        ]);
+
+        presentpost::create([
+            'title_presentpost'     => 'Date a live kỷ niệm 10 năm ra mắt',
+            'url_presentpost'       => 'date-a-live-ky-niem-10-nam-ra-mat',
+            'content_presentpost'   => '<p>19/3/2021 là ngày kỷ niệm 10 năm Date a live Light Novel volume 1 được ra mắt và volume 22, tập cuối cùng được ra mắt vào năm 2020. Kadokawa đã tung ra một PV về sự kiện này. Đây cũng là PV giới thiệu về Date a live season 4.</p>
+
+<p>Trang chủ <a href="https://date-a-live4th-anime.com/" target="_blank">Date a live season 4</a></p>
+
+<center><iframe width="560" height="500" src="https://www.youtube.com/embed/6tAQpwmJ-74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<img src="/upload/DAL-Anniversary-10th-3.jpg" alt="date a live anniversary 10th" width="100%" />
+
+<img src="/upload/DAL-Anniversary-10th-4.png" alt="date a live anniversary 10th" width="70%" /></center>
+
+<p>Tháng 10/2021, Kadokawa sẽ ra mắt Date a live season 4. Phần kế tiếp sẽ có sự góp mặt của 2 Tinh Linh mới là Nia và Mukuro. Studio của season 4 là GEEKTOYS, đồng studio tạo nên Date A Live Fragment: Date A Bullet.</p>
+
+<p>Bắt đầu từ ngày 19/3, các dự án kỉ niệm 10 năm sẽ chính thức khởi động. Tất cả các Tinh Linh trong game và movie như Rinne, Rio, Maria, Marina, Mayuri cũng sẽ tham dự. Date a live Material 2 cùng nhiều sản phẩm mới sẽ được ra mắt.</p>
+
+<center><iframe width="560" height="500" src="https://www.youtube.com/embed/Z_uzchLysYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+',
+            'thumbnail_presentpost' => 'date-a-live-slide-4.jpg',
             'id_website'            => ID_WEBSITE_DAL,
             'enable_presentpost'    => ENABLE,
         ]);

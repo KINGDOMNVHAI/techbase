@@ -8,6 +8,14 @@
 define('ENABLE', true);
 define('UNENABLE', false);
 
+// ========== ID WEBSITE ==========
+
+// Bài viết giới thiệu cho từng website
+
+define('ID_WEBSITE_DAL', '1');
+define('ID_WEBSITE_NEWS', '2');
+define('ID_WEBSITE_KDPLAYBACK', '2');
+
 // ========== ERROR ==========
 
 // === Auth ===

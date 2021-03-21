@@ -1,7 +1,7 @@
 <?php
 namespace App\Services\all;
 
-use App\Model\User;
+use App\Models\User;
 use DB;
 use Illuminate\Support\ServiceProvider;
 

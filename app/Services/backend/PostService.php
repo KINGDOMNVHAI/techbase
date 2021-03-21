@@ -1,7 +1,7 @@
 <?php
 namespace App\Services\backend;
 
-use App\Model\Post;
+use App\Models\Post;
 use DB;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Http\Request;

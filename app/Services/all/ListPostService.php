@@ -1,7 +1,7 @@
 <?php
 namespace App\Services\all;
 
-use App\Model\Post;
+use App\Models\Post;
 use DB;
 use Illuminate\Support\ServiceProvider;
 

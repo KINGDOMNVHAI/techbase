@@ -1213,92 +1213,70 @@ Hiện nay, họ đã được phong ấn sức mạnh của mình thông qua m�
 <p>Nhưng dù cô có ngăn cản phân thân hành động tùy tiện, các phân thân vẫn có thể làm theo ý mình (Chỉ trong trường hợp tất cả phân thân cùng chống lại cô). Kurumi thở dài.</p>
 
 <p>"Chúng ta sẽ đi tặng quà cho Shidou-san". Kurumi tuyên bố làm cho các phân thân đều vui mừng.<br>
-
 "Quyết định vậy đi!"<br>
-
 "Nên tặng gì bây giờ nhỉ?"<br>
-
 "Chúng ta sẽ tặng như thế nào?"<br>
-
 "Nhưng mà chúng ta phải chuẩn bị ngay. Tối nay là phải hành động rồi".</p>
 
 <p>Trong khi các phân thân đang thảo luận, trong bóng tối, một cánh tay giơ lên.</p>
 
 <p>"Vậy thì cứ giao cho tôi".<br>
-
 "Cô... cô là..."<br>
-
-"là "Cô" của 5 năm trước!"</p>
+"là "Cô" của 5 năm trước đấy!"</p>
 
 <p>Lập tức, mọi phân thân quay mặt hướng nhìn phân thân vừa bước ra. Quả thực trông cô giống như là trung tâm của sân khấu.</p>
 
 <p>"...Ara"</p>
 
 <p>Trông thấy phân thân vừa xuất hiện, Kurumi không khỏi giật mình.<br>
-
 Đó đúng là Kurumi. Nhưng cô ấy lại mặc một bộ trang phục khác với các Kurumi khác.</p>
 
 <center><img src="../upload/DAL_v11_DAL_v11_Kurumi_eyepatch.jpg" alt="Kurumi Santa Claus" width="70%" /></center>
 
-Cô không có mái tóc buộc 2 bên, thay vào đó là một cái kẹp tóc có hình bông hoa màu đỏ. Bộ đồ màu đen và trắng có phong cách thiết kế đơn giản. Ở mắt trái, vì con mắt có hình mặt đồng hồ nên cô dùng một miếng che mắt che lại.
+<p>Cô không có mái tóc buộc 2 bên, thay vào đó là một cái kẹp tóc có hình bông hoa màu đỏ. Bộ đồ màu đen và trắng có phong cách thiết kế đơn giản. Ở mắt trái, vì con mắt có hình mặt đồng hồ nên cô dùng một miếng che mắt che lại.</p>
 
-Cách đây 5 năm trước, cô cần phải mang miếng che mắt để che con mắt bên trái. Miếng che mắt hút hồn người đối diện xuất hiện khiến Kurumi rất bất ngờ.
+<p>Cách đây 5 năm trước, cô cần phải mang miếng che mắt để che con mắt bên trái. Miếng che mắt hút hồn người đối diện xuất hiện khiến Kurumi rất bất ngờ.<br>
+Lúc đó cô nghĩ như vậy là rất hợp. Giờ nhìn lại thật xấu hổ. Thật sự cô không muốn nhìn lại bản thân mình ngày trước.</p>
 
-Lúc đó cô nghĩ như vậy là rất hợp. Giờ nhìn lại thật xấu hổ. Thật sự cô không muốn nhìn lại bản thân mình ngày trước.
+<p>"Giao cho cô là sao?"<br>
+"Tôi đang đọc được suy nghĩ của cô đấy".</p>
 
-"Giao cho cô là sao?"
+<p>Nói xong, Kurumi đeo miếng che mắt lấy ra một cái hộp nhỏ.</p>
 
-"Tôi đang đọc được suy nghĩ của cô đấy".
+<p>"Tôi biết là sẽ có ngày này nên tôi đã chuẩn bị quà rồi."</p>
 
-Nói xong, Kurumi đeo miếng che mắt lấy ra một cái hộp nhỏ.
+<p>Kurumi đeo miếng che mắt đắc ý nói, các phân thân xung quanh phát ra tiếng "Ồồồ...".</p>
 
-"Tôi biết là sẽ có ngày này nên tôi đã chuẩn bị quà rồi."
+<p>"Cô thật chu đáo đấy, "Tôi". "<br>
+"Không hổ danh là "Tôi". "</p>
 
-Kurumi đeo miếng che mắt đắc ý nói, các phân thân xung quanh phát ra tiếng "Ồồồ...".
+<p>Các phân thân khen cô ấy. Thế nhưng Kurumi toát mồ hôi. Lý do đơn giản là vì Kurumi 5 năm trước làm quà tặng khiến cô cảm thấy bất an.<br>
+Kurumi đeo miếng che mắt bước tới, mang hộp quà để vào tay Kurumi. Không biết cô ấy có để ý đến suy nghĩ của Kurumi hay không.<br>
+Tuy nói nhỏ hơn lòng bàn tay, nhưng có chút nặng trịch. Giống như ở bên trong là một vật làm bằng kim loại.</p>
 
-"Cô thật chu đáo đấy, "Tôi". "
+<p>"Trong hộp là cái gì vậy, "Tôi" ?"<br>
+"Hihihi, đừng nóng vội. Hãy đợi Shidou-san mở nó ra đã".<br>
+"..."</p>
 
-"Không hổ danh là "Tôi". "
+<p>Suy nghĩ về câu trả lời, Kurumi cảm thấy choáng váng đầu óc. Rốt cuộc Kurumi 5 năm trước đã làm quà tặng gì?</p>
 
-Các phân thân khen cô ấy. Thế nhưng Kurumi toát mồ hôi. Lý do đơn giản là vì Kurumi 5 năm trước làm quà tặng khiến cô cảm thấy bất an.
+<p>"Chẳng lẽ là một cái nhẫn có khắc tên tôi để cậu ấy nghĩ tôi thích cậu ấy sao, "Tôi" ?"<br>
+"Sai rồi".<br>
+"Sai sao? Không phải cái đó sao?"</p>
 
-Kurumi đeo miếng che mắt bước tới, mang hộp quà để vào tay Kurumi. Không biết cô ấy có để ý đến suy nghĩ của Kurumi hay không.
+<p>Kurumi thốt lên. Nhưng Kurumi đeo miếng che mắt lại cười nhẹ.</p>
 
-Tuy nói nhỏ hơn lòng bàn tay, nhưng có chút nặng trịch. Giống như ở bên trong là một vật làm bằng kim loại.
+<p>"Bên trong là thứ khác".<br>
+"..."</p>
 
-"Trong hộp là cái gì vậy, "Tôi" ? "
+<p>Kurumi nhìn Kurumi đeo miếng che mắt với ánh mắt nghi ngờ.<br>
+Tuy là sử dụng Yod để biết bên trong là gì rất dễ. Thế nhưng, cô không thể vì chuyện này mà lãng phí thời gian sống quý báu của mình.<br>
+... Mà, dù nó là gì cũng không khiến cho Shidou biết đây là Kurumi tặng cậu. Nghĩ vậy, Kurumi thở dài.</p>
 
-"Hihihi, đừng nóng vội. Hãy đợi Shidou-san mở nó ra đã".
-
-"..."
-
-Suy nghĩ về câu trả lời, Kurumi cảm thấy choáng váng đầu óc. Rốt cuộc Kurumi 5 năm trước đã làm quà tặng gì?
-
-"Chẳng lẽ là một cái nhẫn có khắc tên tôi để cậu ấy nghĩ tôi thích cậu ấy sao, "Tôi" ? "
-
-"Sai rồi".
-
-"Sai sao? Không phải cái đó sao?"
-
-Kurumi thốt lên. Nhưng Kurumi đeo miếng che mắt lại cười nhẹ.
-
-"Bên trong là thứ khác".
-
-"..."
-
-Kurumi nhìn Kurumi đeo miếng che mắt với ánh mắt nghi ngờ.
-
-Tuy là sử dụng Yod để biết bên trong là gì rất dễ. Thế nhưng, cô không thể vì chuyện này mà lãng phí thời gian sống quý báu của mình.
-
-... Mà, mặc kệ nó là cái gì cũng không khiến cho Shidou biết đây là Kurumi tặng cậu. Nghĩ vậy, Kurumi thở dài.
-
-"Trong lúc Shidou-san ngủ say, đem cái này để bên cạnh cậu ấy phải không?"
-
-"Ừ"
-
-"Để thật nhẹ nhàng đấy".
-
-"Shidou-san chắc chắn sẽ rất ngạc nhiên đấy".
+<p>"Trong lúc Shidou-san ngủ say, đem cái này để bên cạnh cậu ấy phải không?"<br>
+"Ừ"<br>
+"Để thật nhẹ nhàng đấy".<br>
+"Shidou-san chắc chắn sẽ rất ngạc nhiên đấy".</p>
 
 Các phân thân lại bắt đầu hưng phấn, bàn tán xôn xao.
 
@@ -1310,7 +1288,7 @@ Ngay lúc đó, trong bóng tối lại phát ra âm thanh.
 
 "Cô... cô là..."
 
-"Là "Cô" 6 năm trước, lúc mà cô còn phải quấn băng đấy!"
+"Là "Cô" 6 năm trước, lúc mà cô còn quấn băng đấy!"
 
 Nghe âm thanh đó nói, các phân thân đều quay đầu lại giống như lúc nãy. Một phân thân khác từ từ bước ra trong bóng tối. Cô ấy mặc trang phục trông giống như Moses Biển Đỏ.
 
@@ -1549,9 +1527,9 @@ Sau đó, Origami khỏa thân mang nhảy lên giường Shidou, quấn chăn l
 
 Cửa phòng chi nha một tiếng kéo ra, Shidou trong bộ đồ ông già Noel bước vào.
 
-Chỉ trong khoảnh khắc, mọi thứ xung quanh trầm lặng.
+Chỉ trong khoảnh khắc, mọi thứ xung quanh trở nên yên lặng
 
-... Diễn biến kế tiếp đúng như dự đoán.
+...Diễn biến kế tiếp đúng như dự đoán.
 
 Origami kéo Shidou vào phòng. Shidou liều mạng chạy ra xa khỏi Origami trước khi bình tĩnh lai một chút. "Này, cậu muốn làm gì? Sao cậu khỏa thân trong phòng tớ? Cậu muốn tớ tặng quà à?" Shidou rên rĩ, âm thanh liên tục vang vọng ra ngoài.
 
@@ -2566,7 +2544,48 @@ Miku liếm môi, đi bộ ra khỏi phòng và ngân nga một giai điệu.
         chapters::create([
             'title_chapter' => 'Phần 7: Dark Yatogami Tohka',
             'url_chapter'   => 'ratatoskr-top-secret-dark-yatogami-tohka',
-            'content_chapter' => '<center><img src="../../upload/DAL-Case-Top-Secret-Dark-Tohka.jpg" alt="Ratatoskr Top Secret Dark Yatogami Tohka" width="60%"></center>
+            'content_chapter' => 'Dark Yatogami Tohka
+
+Mật danh: ???
+Mức độ đe dọa: SS
+Quy mô Không gian chấn: A
+Thiên Phục: AAA
+Ác Quỷ: AAA
+Sức mạnh - Strength (STR): 240
+Phòng thủ - Defense (CON): 178
+Tinh Linh - Spirit (SPI): 201
+Tốc độ -Agility (AGI): 150
+Thông minh - Intelligence (INT): 33
+
+Thiên Phục: ???
+Một bộ đồ công chúa bao phủ bởi bóng tối. Mọi thứ đều là bí ẩn với bộ Thiên Phục này.
+
+Ác Quỷ: Nahemoth
+Một Ma Vương đầy sức mạnh trong hình dạng một ngai vàng màu đen với một thanh đao bên trong. Với một lần vung đại đao Paverschlev <Thanh Đao Tối Thượng>, mọi thứ đều biến mất.
+
+Shidou ngồi xuống  ghế sofa trong phòng khách, một Tohka khác với bình thường xuất hiện trước mặt cậu.
+“Ta đã xuất hiện một lần nữa”.
+“Sao chuyện này lại xảy ra?”
+Shidou mở to mắt và nhảy lên. Đứng trước mặt cậu là Dark Tohka.
+Tuy nhiên Tohka sẽ không thay đổi vì không có lý do nào cả. Cậu nhớ lại rằng lần trước cô ấy đã thay đổi bởi vì cậu sắp bị giết. Cảm thấy tuyệt vọng vào mức tột độ khiến Tohka thay đổi.
+Có vẻ như cô đã cảm nhận được suy nghĩ của Shidou. Dark Tohka gật đầu.
+“Đúng đấy. Vừa rồi ta đổ nước nóng vào tô mì, ta cảm thấy thất vọng khi ta vô tình làm đổ mì vào bồn rửa.” (người dịch: tức là Tohka lỡ làm đổ mì vào bồn rửa nên thất vọng, biến thành Dark Tohka)
+"Em vừa nấu mì ăn liền?"
+"Điều không quan trọng. Bây giờ ta đang đói. Nhanh làm một cái gì đó cho ta ăn đi."
+"Một cái gì đó để ăn ...... em muốn ăn mì ăn liền? Không, khi em là Tohka, em muốn ăn bánh mì đậu nành mà.?"
+
+Dark Tohka chế giễu Shidou.
+"Bánh mì đậu nành. Ngươi nghĩ rằng ta sẽ muốn ăn thứ đồ ăn dành cho trẻ con đó sao?"
+"Vậy em muốn ăn gì?"
+"Quả bóng gạo."
+"Hả?"
+"Quả bóng gạo cá ngừ mayonnaise."
+"...... Đó là thứ dành cho trẻ con mà ...."
+"Ngươi nói cái gì?"
+"Kh…không có gì cả ...... nhưng em nói rằng em muốn ăn cơm. Nhà anh cũng có..."
+"Cái gì? Ngươi không thể làm cho ta sao? Vậy ngươi chẳng còn giá trị gì nữa. Biến mất khỏi mặt đất này với Halvanhelev của ta đi!"
+"Eh, đó là, chờ đã, có chuyện gì vậy... Halvanhelev  là của..."
+Sau khi bị nhấn chìm bởi bóng đen, Shidou thức dậy khỏi giấc mơ của mình.
 
 <ul>
 <li>Mật danh: ???

@@ -3,8 +3,8 @@
 namespace App\Http\Controllers\backend;
 
 use App\Http\Controllers\Controller;
-use App\Model\User;
-use App\Model\Post;
+use App\Models\User;
+use App\Models\Post;
 use App\Services\all\ListPostService;
 use App\Services\backend\PostService;
 use DB;
