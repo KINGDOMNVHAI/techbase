@@ -17,10 +17,10 @@ class video extends Model
 
     protected $fillable = [
         'id_video',
-        'name_vi_video', 'name_en_video', 'name_jp_video',
+        'name_vi_video', 'name_en_video', //'name_jp_video',
         'url_video',
-        'present_vi_video', 'present_en_video', 'present_jp_video',
-        'content_vi_video', 'content_en_video', 'content_jp_video',
+        'present_vi_video', 'present_en_video', //'present_jp_video',
+        'content_vi_video', 'content_en_video', //'content_jp_video',
         'date_video', 'thumbnail_video',
         'youtubechannel',
     ];

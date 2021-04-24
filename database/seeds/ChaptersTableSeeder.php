@@ -745,21 +745,15 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <h3>Trường hợp 1: nếu Tohka và các cô gái chụp hình tại hồ bơi</h3>
 
-<p>Shidou: "Tớ bắt đầu chụp đây. Tất cả mọi người chọn tư thế xong chưa?"</p>
+<p>Shidou: "Tớ bắt đầu chụp đây. Tất cả mọi người chọn tư thế xong chưa?"<br>
+Tohka: "Tư thế!? Như vậy được chứ?"<br>
+Yoshino: "Em...em không làm tư thế này đâu..."<br>
+Kotori: "A, em không cần tự ép mình đâu. Chỉ cần làm trong khả năng là được rồi".</p>
 
-<p>Tohka: "Tư thế!? Như vậy được chứ?"</p>
-
-<p>Yoshino: "Em...em không làm tư thế này đâu..."</p>
-
-<p>Kotori: "A, em không cần tự ép mình đâu. Chỉ cần làm trong khả năng là được rồi".</p>
-
-<p>Origami: "... ... ( nhìn trộm, nhìn trộm )"</p>
-
-<p>Tohka: "Oh? Tobiichi Origami! Này! Sao lúc nãy cô cứ loay hoay với áo tắm thế hả?"</p>
-
-<p>Origami: "Để cho con trai chú ý. Khi chỉnh sửa áo tắm, Shidou sẽ không thể rời mắt khỏi tôi".</p>
-
-<p>Tohka: "Cô... cô nói cái gì! Là như thế này sao!?"</p>
+<p>Origami: "... ... ( nhìn trộm, nhìn trộm )"<br>
+Tohka: "Oh? Tobiichi Origami! Này! Sao lúc nãy cô cứ loay hoay với áo tắm thế hả?"<br>
+Origami: "Để cho con trai chú ý. Khi chỉnh sửa áo tắm, Shidou sẽ không thể rời mắt khỏi tôi".<br>
+Tohka: "Cô... cô nói cái gì! Là như thế này sao!?"</p>
 
 <p>Yoshino: "Nhưng... thế nhưng... Shidou-san..."</p>
 
@@ -871,25 +865,19 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <p>Sáng sớm. Mana vừa ngáp vừa vào bếp. Đột nhiên cô thấy có người tới trước.</p>
 
-<p>"Onee-sama, buổi sáng tốt lành".</p>
-
-<p>"Buổi sáng tốt lành".</p>
+<p>"Onee-sama, buổi sáng tốt lành".<br>
+"Buổi sáng tốt lành".</p>
 
 <p>Chị của Mana, Origami mặt không đổi sắc, nhìn về phía cô.</p>
 
 <p>Mana đánh răng rửa mặt, mang tạp dề đứng cạnh Origami.</p>
 
-<p>"Mana?"</p>
-
-<p>"Thỉnh thoảng cũng cho em giúp chị chứ".</p>
-
-<p>"Thế nhưng..."</p>
-
-<p>"Không sao, chúng ta là chị em mà, cứ để em giúp chị".</p>
-
-<p>"Vậy em đem cải bắp cắt thành miếng đi"</p>
-
-<p>"Vâng."</p>
+<p>"Mana?"<br>
+"Thỉnh thoảng cũng cho em giúp chị chứ".<br>
+"Thế nhưng..."<br>
+"Không sao, chúng ta là chị em mà, cứ để em giúp chị".<br>
+"Vậy em đem cải bắp cắt thành miếng đi"<br>
+"Vâng."</p>
 
 <p>Mana lấy dao và cải bắp từ trong tủ lạnh, để lên thớt gỗ rồi cắt ra.</p>
 
@@ -899,17 +887,14 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <p>Đột nhiên đầu ngón tay cô đau đớn, khiến Mana không khỏi nhíu mày. Máu từ ngón tay cô chảy ra. Xem ra cô đã cắt trúng tay mình.</p>
 
-<p>"Có sao không?"</p>
-
-<p>"Không... không sao đâu. Chắc là tại em chưa tỉnh ngủ. Xin lỗi, em đi lấy băng cá nhân..."</p>
+<p>"Có sao không?"<br>
+"Không... không sao đâu. Chắc là tại em chưa tỉnh ngủ. Xin lỗi, em đi lấy băng cá nhân..."</p>
 
 <p>Đúng lúc này, Mana đột ngột ngừng nói. Lý do là vì Origami kéo tay Mana lại, liếm đầu ngón tay còn đang chảy máu.</p>
 
-<p>"O... Onee-sama !?"</p>
-
-<p>"Nó sẽ không chảy máu nữa nếu chị làm thế này. Chúng ta là chị em nên chuyện này không sao cả."</p>
-
-<p>"A... chuyện đó thì"</p>
+<p>"O... Onee-sama !?"<br>
+"Nó sẽ không chảy máu nữa nếu chị làm thế này. Chúng ta là chị em nên chuyện này không sao cả."<br>
+"A... chuyện đó thì"</p>
 
 <p>Mana tránh cái nhìn của cô vì xấu hổ, mặt cô đỏ lên dần dần.</p>
 
@@ -931,27 +916,20 @@ Shidou nắm chặt tay, nhìn vào bầu trời đêm như thể muốn thực 
 
 <p>Mana đẩy đầu Origami sang một bên, rút tay cô ra thật mạnh. Sau đó, Origami bắt đầu lộ một khuôn mặt thất vọng.</p>
 
-<p>"Có chuyện gì vậy?"</p>
-
-<p>"Em mới là người hỏi câu đó chứ......! Chị định làm gì vậy!"</p>
-
-<p>"Chị vừa nghĩ ra một thứ gì đó rất tuyệt vời."</p>
-
-<p>"Thứ tuyệt vời......? Là gì vậy ?"</p>
+<p>"Có chuyện gì vậy?"<br>
+"Em mới là người hỏi câu đó chứ......! Chị định làm gì vậy!"<br>
+"Chị vừa nghĩ ra một thứ gì đó rất tuyệt vời."<br>
+"Thứ tuyệt vời......? Là gì vậy ?"</p>
 
 <p>Sau khi nghe câu hỏi của Mana, Origami nói với một khuôn mặt đầy nghiêm trọng.</p>
 
 <p>"Mana, em là em ruột của Shidou. Điều đó có nghĩa là em và Shidou đều giống nhau".</p>
 
-<p>"Eh...? Um, Onee-sama?"</p>
-
-<p>"Vậy có nghĩa là mùi vị của em giống Shidou".</p>
-
-<p>"Khoan đã......! Trong truyện này Mana là em gái của Origami onee-sama, không phải là em gái của Shidou onii-sama."</p>
-
-<p>"Cốt truyện không quan trọng. Đến đây nào. Để chị làm sạch vết thương nào."</p>
-
-<p>"U, uwaaaaaaahhhhhhhhhh !?"</p>
+<p>"Eh...? Um, Onee-sama?"<br>
+"Vậy có nghĩa là mùi vị của em giống Shidou".<br>
+"Khoan đã......! Trong truyện này Mana là em gái của Origami onee-sama, không phải là em gái của Shidou onii-sama."<br>
+"Cốt truyện không quan trọng. Đến đây nào. Để chị làm sạch vết thương nào."<br>
+"U, uwaaaaaaahhhhhhhhhh !?"</p>
 
 <p>Mana ném tạp dề xuống đất và nhanh chóng chạy trốn.</p>
 
@@ -1278,410 +1256,377 @@ Tuy là sử dụng Yod để biết bên trong là gì rất dễ. Thế nhưng
 "Để thật nhẹ nhàng đấy".<br>
 "Shidou-san chắc chắn sẽ rất ngạc nhiên đấy".</p>
 
-Các phân thân lại bắt đầu hưng phấn, bàn tán xôn xao.
+<p>Các phân thân lại bắt đầu hưng phấn, bàn tán xôn xao.</p>
 
-Thế nhưng
+<p>Thế nhưng</p>
 
-"Quả nhiên sẽ có ngày hôm nay mà".
+<p>"Quả nhiên sẽ có ngày hôm nay mà".</p>
 
-Ngay lúc đó, trong bóng tối lại phát ra âm thanh.
+<p>Ngay lúc đó, trong bóng tối lại phát ra âm thanh khác.</p>
 
-"Cô... cô là..."
+<p>"Cô... cô là..."<br>
+"Là "Cô" 6 năm trước, lúc mà cô còn quấn băng đấy!"</p>
 
-"Là "Cô" 6 năm trước, lúc mà cô còn quấn băng đấy!"
+<p>Nghe âm thanh đó nói, các phân thân đều quay đầu lại giống như lúc nãy. Một phân thân khác từ từ bước ra trong bóng tối. Cô ấy mặc trang phục trông giống như Moses Biển Đỏ.</p>
 
-Nghe âm thanh đó nói, các phân thân đều quay đầu lại giống như lúc nãy. Một phân thân khác từ từ bước ra trong bóng tối. Cô ấy mặc trang phục trông giống như Moses Biển Đỏ.
+<p>(Chú thích: Moses Biển Đỏ là truyền thuyết trong Kinh Thánh Công Giáo, nói về nhà tiên tri tách nước biển ra làm 2 để đoàn người Do Thái có thể băng qua, sau đó nhấn chìm truy binh Ai Cập)</p>
 
-(Chú thích: Moses Biển Đỏ là truyền thuyết trong Kinh Thánh Công Giáo, nói về nhà tiên tri tách nước biển ra làm 2 để đoàn người Do Thái có thể băng qua, sau đó nhấn chìm truy binh Ai Cập)
+<p>Trong bóng tối xuất hiện một Kurumi quấn băng. Tay phải, chân trái và đương nhiên là băng luôn cả mắt trái.</p>
 
-Trong bóng tối xuất hiện một Kurumi quấn băng. Tay phải, chân trái và đương nhiên là băng luôn cả mắt trái.
+<p>Tuy rằng nhìn sơ qua ai cũng nghĩ là cô bị thương rất nặng. Nhưng thật ra cũng không có gì nghiêm trọng. Chỉ là tay phải bị trầy da thôi nên cô nghĩ không cần phải sử dụng viên đạn số 4 - Dalet. Trên mặt cô cũng quấn băng dù cô không bị thương ở đó.</p>
 
-Tuy rằng nhìn sơ qua ai cũng nghĩ là cô bị thương rất nặng. Nhưng thật ra cũng không có gì nghiêm trọng. Chỉ là tay phải bị trầy da thôi nên cô nghĩ không cần phải sử dụng viên đạn số 4 - Dalet. Trên mặt cô cũng quấn băng dù cô không bị thương ở đó.
+<p>"Cô có ý gì vậy, Tôi?"</p>
 
-"Cô có ý gì vậy, Tôi?"
+<p>Kurumi đeo miếng che mắt hỏi. Lập tức Kurumi quấn băng tươi cười chỉ về phía Kurumi.</p>
 
-Kurumi đeo miếng che mắt hỏi. Lập tức Kurumi quấn băng tươi cười chỉ về phía Kurumi.
+<p>"Rất đơn giản. Chẳng lẽ cô muốn ăn mặc như thế đi tặng quà cho Shidou-san sao?"<br>
+"Chẳng lẽ cô muốn tôi quấn băng đi gặp cậu ta?"</p>
 
-"Rất đơn giản. Chẳng lẽ cô muốn ăn mặc như thế đi tặng quà cho Shidou-san sao?"
+<p>Kurumi nói xong, Kurumi quấn băng mở to hai mắt, nhún vai.</p>
 
-"Chẳng lẽ cô muốn tôi quấn băng đi gặp cậu ta?"
+<p>"Ý của tôi là tôi không muốn để lại dấu vết hay bị phát hiện. Nếu như vô tình cậu ta hay ai đó nhìn thấy cô, chẳng phải cô sẽ bị phát hiện ngay sao?"</p>
 
-Kurumi nói xong, Kurumi quấn băng mở to hai mắt, nhún vai.
+<p>Nghe Kurumi quấn băng nói, Kurumi hiểu ra và gật đầu. Đúng như vậy. Phải cẩn thận việc bị phát hiện. Bộ Thiên Phục màu đỏ đen đặc trưng này nhìn vào là đoán được ngay là Kurumi.</p>
 
-"Ý của tôi là tôi không muốn để lại dấu vết hay bị phát hiện. Nếu như vô tình cậu ta hay ai đó nhìn thấy cô, chẳng phải cô sẽ bị phát hiện ngay sao?"
+<p>"Nói cũng đúng. Vậy thì tôi sẽ thay đồ..."<br>
+"Không cần. Tôi đã chuẩn bị đồ cho cô rồi."<br>
+"Ara?"</p>
 
-Nghe Kurumi quấn băng nói, Kurumi hiểu ra và gật đầu. Đúng như vậy. Phải cẩn thận việc bị phát hiện. Bộ Thiên Phục màu đỏ đen đặc trưng này nhìn vào là đoán được ngay là Kurumi.
+<p>Kurumi quấn băng vẫy tay. Lập tức trong nháy mắt, từi bóng đen đưa ra những cánh tay quen thuộc. Đó là một bộ đồ màu đỏ trắng.</p>
 
-"Nói cũng đúng. Vậy thì tôi sẽ thay đồ..."
+<p>"Đó... đó là..."<br>
+"Đó là quần áo ông già Noel sao?"</p>
 
-"Không cần. Tôi đã chuẩn bị đồ cho cô rồi."
+</p>Các phân thân đều mở to hai mắt.<br>
+Không sai. Kurumi quấn băng lấy ra một bộ đồ có áo quần, mũ màu đỏ và một cái túi rất to, giống y như quần áo của ông già Noel.</p>
 
-"Ara?"
+<p>"Ara ara, nếu cô mặc bộ đồ này thì dù có bị phát hiện, ai cũng sẽ nghĩ cô là ông già Noel đấy".<br>
+"Đừng... đừng có đùa!"</p>
 
-Kurumi quấn băng vẫy tay. Lập tức trong nháy mắt, từi bóng đen đưa ra những cánh tay quen thuộc. Đó là một bộ đồ màu đỏ trắng.
+<p>Kurumi hét lên. Chẳng lẽ cô phải mặc thế này để đi gặp Shidou sao?</p>
 
-"Đó... đó là..."
+<p>Thế nhưng, không để ý đến tiếng nói của Kurumi, các phân thân lại một lần nữa xôn xao.</p>
 
-"Đó là quần áo ông già Noel sao?"
+<p>"Ara, tốt lắm, tốt lắm "<br>
+"Ừ, trông rất hợp với tôi".<br>
+"Hihihi, tôi mặc cái gì cũng đẹp".<br>
+"Này này này, nghe tôi nói đã..."</p>
 
-Các phân thân đều mở to hai mắt.
+<p>Ngay khi Kurumi mở miếng, một giọng nói vang lên ngắt lời cô.</p>
 
-Không sai. Kurumi quấn băng lấy ra một bộ đồ có áo quần, mũ màu đỏ và một cái túi rất to, giống y như quần áo của ông già Noel.
+<p>"Không mặc thế được!".</p>
 
-"Ara ara, nếu cô mặc bộ đồ này thì dù có bị phát hiện, ai cũng sẽ nghĩ cô là ông già Noel đấy".
+<p>Lại một âm thanh phát ra từ trong bóng tối</p>
 
-"Đừng... đừng có đùa!"
+<p>"Cô... cô là..."<br>
+" Là "Cô" 7 năm trước, lúc mà cô còn thích phong cách Sweet Lolita đấy!"</p>
 
-Kurumi không thể không hét lên. Chẳng lẽ cô phải mặc thế này để đi gặp Shidou sao?
+<p>Lần thứ 3, các phân thân lại im lặng.</p>
 
-Thế nhưng, không để ý đến tiếng nói của Kurumi, các phân thân lại một lần nữa xôn xao.
+<p>Từ trong bóng tối xuất hiện một Kurumi mặc bộ đầm trắng rất đẹp. Miếng che mắt của cô có màu trắng và cô cầm trên tay một cây dù cũng màu trắng.</p>
 
-"Ara, tốt lắm, tốt lắm "
-
-"Ừ, trông rất hợp với tôi".
-
-"Hihihi, tôi mặc cái gì cũng đẹp".
-
-"Này này này, nghe tôi nói đã..."
-
-Ngay khi Kurumi mở miếng, một giọng nói vang lên ngắt lời cô.
-
-"Không mặc thế được!".
-
-Lại một âm thanh phát ra từ trong bóng tối
-
-"Cô... cô là..."
-
-" Là "Cô" 7 năm trước, lúc mà cô còn thích phong cách Sweet Lolita đấy!"
-
-Lần thứ 3, các phân thân lại im lặng.
-
-Từ trong bóng tối xuất hiện một Kurumi mặc bộ đầm trắng rất đẹp. Miếng che mắt của cô có màu trắng và cô cầm trên tay một cây dù cũng màu trắng.
-
-"Cô có ý gì, Tôi?"
-
-"Bộ đồ ông già Noel đó, kiểu dáng không hợp tí nào"
-
-"Có gì không ổn sao?"
+<p>"Cô có ý gì, Tôi?"<br>
+"Bộ đồ ông già Noel đó, kiểu dáng không hợp tí nào"<br>
+"Có gì không ổn sao?"</p>
 
 <img class="aligncenter" src="../upload/Encore_3_7.jpg" alt="Kurumi Santa Claus" width="50%" />
 
-Các phân thân nhìn chăm chú. Kurumi Sweet Lolita thở dài, lắc đầu.
+<p>Các phân thân nhìn chăm chú. Kurumi Sweet Lolita thở dài, lắc đầu.</p>
 
-"Bộ đồ đó về công dụng hóa trang để không để lại dấu vết thì được rồi. Nhưng về phong cách thì không phù hợp chút nào. Chẳng lẽ cô lại mặc một bộ ông già noel với quần dài, áo tay dài sao? Trông cô già đi mấy tuổi đấy".
+<p>"Bộ đồ đó về công dụng hóa trang để không để lại dấu vết thì được rồi. Nhưng về phong cách thì không phù hợp chút nào. Chẳng lẽ cô lại mặc một bộ ông già noel với quần dài, áo tay dài sao? Trông cô già đi mấy tuổi đấy".<br>
+"Vậy cô muốn thế nào?"<br>
+"Ồồồ..."</p>
 
-"Vậy cô muốn thế nào?"
+<p>Các phân thân trầm trồ khi Kurumi Sweet Lolita tiến về phía Kurumi quấn bang. Trên tay cô là một bộ đồ ông già noel khác.</p>
 
-"Ồồồ..."
+<p>Bộ đồ trên tay cô có sự khác biệt. Tông màu chủ đạo đỏ và trắng không thay đổi. Thế nhưng diện tích vải đã giảm một cách đáng kể. Hơn nữa bộ đồ có thể dễ dàng lộ rõ những đường cong thân thể được thiết kế một cách rõ nét. Và thay đổi lớn nhất là cái quần đã biến thành một cái váy ngắn.</p>
 
-Các phân thân trầm trồ khi Kurumi Sweet Lolita tiến về phía Kurumi quấn bang. Trên tay cô là một bộ đồ ông già noel khác.
+<p>Nhìn thấy thế, các phân thân lại xôn xao.</p>
 
-Bộ đồ trên tay cô có sự khác biệt. Tông màu chủ đạo đỏ và trắng không thay đổi. Thế nhưng diện tích vải đã giảm một cách đáng kể. Hơn nữa bộ đồ có thể rõ ràng trông thấy rõ đường cong thân thể được thiết kế một cách rõ nét. Và thay đổi lớn nhất là cái quần đã biến thành một cái váy ngắn.
+<p>"Cái... cái này là!"<br>
+"Trông trẻ trung, hiện đại hơn nhiều. Bộ đồ cũ trông quê mùa quá!"<br>
+"Không hổ danh là Sweet Lolita!"</p>
 
-Nhìn thấy thế, các phân thân lại xôn xao.
+<p>Kurumi Sweet Lolita xoay người khiến bộ váy của cô tung lên trông rất đẹp. Kurumi 7 năm trước hình như thích làm thế này.</p>
 
-"Cái... cái này là!"
+<p>"Vậy thì cô cứ mặc thế này rồi đến gặp Shidou-san thôi".<br>
+"Đừng... đừng có đùa! Sao tôi phải mặc thế này chứ..."<br>
+"Ara, không còn cách nào khác đâu. Nhanh đi thay đồ đi"</p>
 
-"Trông trẻ trung, hiện đại hơn nhiều. Bộ đồ cũ trông quê mùa quá!"
-
-"Không hổ danh là Sweet Lolita!"
-
-Kurumi Sweet Lolita xoay người khiến bộ váy của cô tung lên trông rất đẹp. Kurumi 7 năm trước hình như thích làm thế này.
-
-"Vậy thì cô cứ mặc thế này rồi đến gặp Shidou-san thôi".
-
-"Đừng... đừng có đùa! Sao tôi phải mặc thế này chứ..."
-
-"Ara, không còn cách nào khác đâu. Nhanh đi thay đồ đi"
-
-Kurumi Sweet Lolita không quan tâm đến Kurumi, nhanh chóng đẩy cô ấy vào phòng thay đồ.
-
-"..."
-
-Kurumi thở dài.
+<p>Kurumi Sweet Lolita không quan tâm đến Kurumi, nhanh chóng đẩy cô ấy vào phòng thay đồ.<br>
+"..."<br>
+Kurumi thở dài.</p>
 
 <hr />
 
-"... Vậy tôi đi đây"
+<p>"... Vậy tôi đi đây"</p>
 
-Kurumi mệt mỏi rã rời nói. Cái bóng của cô ấy phát ra tiếng nói.
+<p>Kurumi mệt mỏi rã rời nói. Cái bóng của cô ấy phát ra tiếng nói.</p>
 
-"Ara ara, giờ tôi chẳng còn chút sức lực nào cả".
+<p>"Ara ara, giờ tôi chẳng còn chút sức lực nào cả".<br>
+"Đảm bảo cái bộ dạng này chắc chắn sẽ bị phát hiện".<br>
+"..."</p>
 
-"Đảm bảo cái bộ dạng này chắc chắn sẽ bị phát hiện"
-
-"..."
-
-Nghe phân thân bàn tán phía sau, Kurumi không khỏi nghiến răng nghiến lợi. Cô thở dài như hết hy vọng. Sau đó cô nhìn mọi nới xung quanh, xác nhận là không có ai quanh đây. Giữa con đường vắng vẻ, bộ đồ của cô trông cực kỳ nổi bật.
+<p>Nghe phân thân bàn tán phía sau, Kurumi không khỏi nghiến răng nghiến lợi. Cô thở dài như hết hy vọng. Sau đó cô nhìn mọi nới xung quanh, xác nhận là không có ai quanh đây. Giữa con đường vắng vẻ, bộ đồ của cô trông cực kỳ nổi bật.</p>
 
 <img class="aligncenter" src="../upload/Kurumi_Santa_Claus.jpg" alt="Kurumi Santa Claus" width="50%" />
 
-Bộ đồ Noel này có phần thân bó sát người, lộ ra phần vai. Cái váy ngắn trông rất đáng yêu. Đôi giày bốt cao gót cùng màu sắc với trang phục. Cô phải mặc bộ đồ Noel này theo yêu cầu của các phân thân. Chỉ vì các phân thân lạm dụng quyền dân chủ mà giờ cô thành ra thế này. Lúc này, Kurumi mới nhận ra việc dễ dãi với các phân thân là một sai lầm.
+<p>Bộ đồ Noel này có phần thân bó sát người, lộ ra phần vai. Cái váy ngắn trông rất đáng yêu. Đôi giày bốt cao gót cùng màu sắc với trang phục. Cô phải mặc bộ đồ Noel này theo yêu cầu của các phân thân. Chỉ vì các phân thân lạm dụng quyền dân chủ mà giờ cô thành ra thế này. Lúc này, Kurumi mới nhận ra việc dễ dãi với các phân thân là một sai lầm.</p>
 
-Thực tế, do bộ đồ Noel này có độ thiếu vải rất cao nên cô cảm thấy rất lạnh. Nhất là khi cô đang đi trên con đường phủ đầy tuyết trắng.
+<p>Thực tế, do bộ đồ Noel này có độ thiếu vải rất cao nên cô cảm thấy rất lạnh. Nhất là khi cô đang đi trên con đường phủ đầy tuyết trắng.</p>
 
-Tuy vậy nhưng cô vẫn đi tiếp. Dù trong đầu cô xuất hiện những suy nghĩ nản chí nhưng cô biết rằng mình cần cố gắng để đạt được mục đích. Nghĩ vậy, Kurumi lại ngẩng đầu lên đi tiếp.
+<p>Tuy vậy nhưng cô vẫn đi tiếp. Dù trong đầu cô xuất hiện những suy nghĩ nản chí nhưng cô biết rằng mình cần cố gắng để đạt được mục đích. Nghĩ vậy, Kurumi lại ngẩng đầu lên đi tiếp.</p>
 
-Kurumi đến trước cửa nhà Itsuka Shidou. Dựa vào những gì phân thân báo cáo, Shidou lúc này hẳn là đang ở căn hộ bên cạnh dành cho các Tinh Linh để tặng quà cho họ.
+<p>Kurumi đến trước cửa nhà Itsuka Shidou. Dựa vào những gì phân thân báo cáo, Shidou lúc này hẳn là đang ở căn hộ bên cạnh dành cho các Tinh Linh để tặng quà cho họ.</p>
 
-Theo dự tính là cô sẽ hành động vào đúng 12 giờ đêm cho đúng với giờ ông già Noel phát quà. Nhưng nhân dịp Shidou không ở nhà, thời điểm này là một cơ hội lớn. Đây cũng là điều kiện mà Kurumi đề nghị với các phân thân khi cô đồng ý mặc bộ đồ Noel. Họ muốn Shidou ngạc nhiên khi nhìn thấy món quà. Họ không hài lòng khi Kurumi muốn làm nhanh chuyện này, nhưng Kurumi liếc mắt nhìn họ. Ánh mắt đó thật đáng sợ.
+<p>Theo dự tính là cô sẽ hành động vào đúng 12 giờ đêm cho đúng với giờ ông già Noel phát quà. Nhưng nhân dịp Shidou không ở nhà, thời điểm này là một cơ hội lớn. Đây cũng là điều kiện mà Kurumi đề nghị với các phân thân khi cô đồng ý mặc bộ đồ Noel. Họ muốn Shidou ngạc nhiên khi nhìn thấy món quà. Họ không hài lòng khi Kurumi muốn làm nhanh chuyện này, nhưng Kurumi liếc mắt nhìn họ. Ánh mắt đó thật đáng sợ.</p>
 
-"Tôi sẽ hành động sớm hơn dự kiến".
+<p>"Mình sẽ hành động sớm hơn dự kiến".</p>
 
-Kurumi vừa nói, một bên đưa tay hướng đến nắm đấm cửa.
+<p>Kurumi vừa nói, một bên đưa tay hướng đến nắm đấm cửa.</p>
 
-Trong nháy mắt, cô nghe thấy tiếng nói.
+<p>Trong nháy mắt, cô nghe thấy tiếng nói.</p>
 
-"Chờ đã..."
-"Đi nhanh lên nào."
+<p>"Chờ đã..."<br>
+"Đi nhanh lên nào."<br>
+"Ara... ?"</p>
 
-"Ara... ?"
+<p>Giọng nói phát ra từ đâu đó khiến Kurumi nghiêng đầu. Cô nhìn xung quanh xem ai đang ở đây.</p>
 
-Giọng nói phát ra từ đâu đó khiến Kurumi nghiêng đầu. Cô nhìn xung quanh xem ai đang ở đây.
+<p>Sau đó lại có tiếng bước chân và tiếng đóng cửa ở căn hộ kế bên dành cho các Tinh Linh.</p>
 
-Sau đó lại có tiếng bước chân và tiếng đóng cửa ở căn hộ kế bên dành cho các Tinh Linh.
+<p>"Vậy ông già Noel đang ở đâu nhỉ?"<br>
+"Thăm dò. Chắc ông ấy ở gần đây thôi".</p>
 
-"Vậy ông già Noel đang ở đâu nhỉ?"
-"Thăm dò. Chắc ông ấy ở gần đây thôi".
+<p>2 cô gái từ phía căn hộ gần đó bước ra. Khuôn mặt họ giống hệt nhau. Họ ngắm nhìn quang cảnh xung quanh một cách thích thú.</p>
 
-2 cô gái từ phía căn hộ gần đó bước ra. Khuôn mặt họ giống hệt nhau. Họ ngắm nhìn quang cảnh xung quanh một cách thích thú.
+<p>"Oa, tuyết rơi rồi sao. Tuyệt quá!"<br>
+"Kinh ngạc. Tuyết phủ khắp nơi".</p>
 
-"Oa, tuyết rơi rồi sao. Tuyệt quá!"
-"Kinh ngạc. Tuyết phủ khắp nơi".
+<p>Kurumi vẫn nhớ khuôn mặt đó. Yamai Kaguya và Yamai Yuzuru – Tinh Linh Bão Tố. Xem ra họ đang tìm kiếm cái gì quanh đây.</p>
 
-Kurumi vẫn nhớ khuôn mặt đó. Yamai Kaguya và Yamai Yuzuru – Tinh Linh Bão Tố. Xem ra họ đang tìm kiếm cái gì quanh đây.
+<p>"Nhìn kìa, Yuzuru!"<br>
+"Xác nhận. Có người mặc đồ đỏ ở đó!"<br>
+"Ara?"</p>
 
-"Nhìn kìa, Yuzuru!"
-"Xác nhận. Có người mặc đồ đỏ ở đó!"
+<p>Kaguya và Yuzuru mở to mắt, hướng về phía Kurumi và chạy tới. Kurumi trong nháy mắt hoảng hồn cứng đờ người.</p>
 
-"Ara?"
+<p>Sau đó, bằng sức mạnh phi thường, cô nhanh chóng lấy lại bình tĩnh. Kurumi vội vàng chạy thật nhanh.</p>
 
-Kaguya và Yuzuru mở to mắt, hướng về phía Kurumi và chạy tới. Kurumi trong nháy mắt hoảng hồn cứng đờ người.
+<p>"Đứng lại đó!".<br>
+"Đuổi theo. Ông phải tặng quà đã chứ!"<br>
+"Sao... sao lại thành ra thế này?"</p>
 
-Sau đó, bằng sức mạnh phi thường, cô nhanh chóng lấy lại bình tĩnh. Kurumi vội vàng chạy thật nhanh.
+<p>Đột nhiên họ đuổi theo, làm cho Kurumi hoảng hốt bỏ chạy. Hoàn toàn không thể hiểu cái gì đang xảy ra. Thế nhưng, cô thừa biết nếu bị bắt được sẽ có nhiều chuyện phiền phức xảy ra.</p>
 
-"Đứng lại đó!".
-"Đuổi theo. Ông phải tặng quà đã chứ!"
+<p>Kurumi hiện tại hoàn toàn không rõ là cái muốn đuổi ta tình hình xuống dưới, bắt đầu hiện tại buổi tối nơi ở trên đường chạy trốn đứng lên.</p>
 
-"Sao... sao lại thành ra thế này?"
+<p>"Ha ha a... Ha ha a..."</p>
 
-Đột nhiên họ đuổi theo, làm cho Kurumi hoảng hốt bỏ chạy. Hoàn toàn không thể hiểu cái gì đang xảy ra. Thế nhưng, cô thừa biết nếu bị bắt được sẽ có nhiều chuyện phiền phức xảy ra.
+<p>Chạy được một lúc, Kurumi mới tìm ra chỗ để trốn vào bóng tối mà không để chị em Yamai phát hiện.</p>
 
-Kurumi hiện tại hoàn toàn không rõ là cái muốn đuổi ta tình hình xuống dưới, bắt đầu hiện tại buổi tối nơi ở trên đường chạy trốn đứng lên.
+<p>Mặc dù biết rằng họ là Tinh Linh đã bị phong ấn nên không thể đánh lại Kurumi nhưng đêm nay Kurumi không muốn để lại dấu vết. Cô cũng không muốn vì một chuyện nhỏ nhặt này mà phải tiêu hao thời gian sống của mình.</p>
 
-"Ha ha a... Ha ha a..."
+<p>Kurumi bình tĩnh lại, lấy lại nhịp thở của mình. Cô quay lại trước cửa chính nhà Itsuka.</p>
 
-Chạy được một lúc, Kurumi mới tìm ra chỗ để trốn vào bóng tối mà không để chị em Yamai phát hiện.
+<p>"Xem ra việc này khó hơn mình tưởng..."</p>
 
-Mặc dù biết rằng họ là Tinh Linh đã bị phong ấn nên không thể đánh lại Kurumi nhưng đêm nay Kurumi không muốn để lại dấu vết. Cô cũng không muốn vì một chuyện nhỏ nhặt này mà phải tiêu hao thời gian sống của mình
+<p>Kurumi vừa nói vừa điều chỉnh nhịp thở, đồng thời cũng sắp xếp lại suy nghĩ. Dựa vào những gì chị em Yamai nói, có vẻ như họ đuổi theo Kurumi vì nhìn thấy bộ đồ ông già Noel của cô. Đúng là thảm họa</p>
 
-Kurumi bình tĩnh lại, lấy lại nhịp thở của mình. Cô quay lại trước cửa chính nhà Itsuka.
+<p>"Thế nên mình mới ghét bộ đồ này".<br>
+"Ara ara"</p>
 
-"Xem ra việc này khó hơn mình tưởng..."
+<p>Kurumi vừa nói xong, những âm thanh phát ra từ bóng tối.</p>
 
-Kurumi vừa nói vừa điều chỉnh nhịp thở, đồng thời cũng sắp xếp lại suy nghĩ. Dựa vào những gì chị em Yamai nói, có vẻ như họ đuổi theo Kurumi vì nhìn thấy bộ đồ ông già Noel của cô. Đúng là thảm họa
+<p>"Thế nhưng nếu không mặc đồ ông già Noel..."<br>
+"... chẳng phải cô đã bị chị em Yamai phát hiện rồi sao".</p>
 
-"Thế nên mình mới ghét bộ đồ này".
+<p>Kurumi khẽ nhíu mày, bình tĩnh quay mặt về phía nhà Itsuka.</p>
 
-"Ara ara"
+<p>"Tóm lại, lần này phải tính cách khác thôi".</p>
 
-Kurumi vừa nói xong, những âm thanh phát ra từ bóng tối.
+<p>Nói xong Kurumi lại mở cửa, đi vào sân nhà.</p>
 
-"Thế nhưng nếu như không mặc đồ ông già Noel..."
+<p>Tuy vậy, lối vào nhà Itsuka vẫn không hề đơn giản. Trước khi cũng không biết đi qua nhiều ít thời gian dài, nói không chừng Shidou đã đã trở về không nói, em gái Shidou – Itsuka Kotori – không chừng đã ở trong phòng.</p>
 
-"... chẳng phải cô đã bị chị em Yamai phát hiện rồi sao".
-
-Kurumi khẽ nhíu mày, bình tĩnh quay mặt về phía nhà Itsuka.
-
-"Tóm lại, lần này phải tính cách khác thôi".
-
-Nói xong Kurumi lại mở cửa, đi vào sân nhà.
-
-Tuy vậy, lối vào nhà Itsuka vẫn không hề đơn giản. Trước khi cũng không biết đi qua nhiều ít thời gian dài, nói không chừng Shidou đã đã trở về không nói, em gái Shidou – Itsuka Kotori – không chừng đã ở trong phòng.
-
-Kurumi suy nghĩ và quyết định sẽ đi vào từ ngoài cửa sổ lầu 1 và nhìn trộm vào phòng Shidou.
+<p>Kurumi suy nghĩ và quyết định sẽ đi vào từ ngoài cửa sổ lầu 1 và nhìn trộm vào phòng Shidou.</p>
 
 <img class="aligncenter" src="../upload/Shidou_Room.png" alt="" width="70%" />
 
-Thế nhưng, Kurumi giật mình khi thấy cửa sổ được mở ra.
+<p>Thế nhưng, Kurumi giật mình khi thấy cửa sổ được mở ra.</p>
 
-"Ara... ?"
+<p>"Ara... ?"</p>
 
-Kurumi từ ngoài cửa sổ nhìn vào, trong nháy mắt toàn bộ thân thể cô cứng đờ.
+<p>Kurumi từ ngoài cửa sổ nhìn vào, trong nháy mắt toàn bộ thân thể cô cứng đờ.</p>
 
-Lý do rất đơn giản. Tuy Shidou không có trong phòng... Nhưng thay vào đó chính là một vị khách khác.
+<p>Lý do rất đơn giản. Tuy Shidou không có trong phòng... Nhưng thay vào đó chính là một vị khách khác.</p>
 
-"..."
+<p>"..."</p>
 
-Bạn cùng lớp với Shidou, Tobiichi Origami, đang trong phòng Shidou và cởi đồ ra.
+<p>Bạn cùng lớp với Shidou, Tobiichi Origami, đang trong phòng Shidou và cởi đồ ra.</p>
 
-Áo lông, áo sơmi, váy, giầy, sau đó cởi đến áo lót và patsu. Giờ cô đang hoàn toàn khỏa thân.
+<p>Áo lông, áo sơmi, váy, giầy, sau đó cởi đến áo lót và patsu. Giờ cô đang hoàn toàn khỏa thân.</p>
 
-Lập tức Origami lấy một đống băng vải tự quấn quanh cơ thể mình. Trông giống như cô đang tự biến mình thành một món quà.
+<p>Lập tức Origami lấy một đống băng vải tự quấn quanh cơ thể mình. Trông giống như cô đang tự biến mình thành một món quà.</p>
 
-Sau đó, Origami khỏa thân mang nhảy lên giường Shidou, quấn chăn lại cho đỡ lạnh và chờ đợi.
+<p>Sau đó, Origami khỏa thân mang nhảy lên giường Shidou, quấn chăn lại cho đỡ lạnh và chờ đợi.</p>
 
-Đúng lúc này.
+<p>Đúng lúc này.</p>
 
-"..."
+<p>"..."</p>
 
-Cửa phòng chi nha một tiếng kéo ra, Shidou trong bộ đồ ông già Noel bước vào.
+<p>Cửa phòng chi nha một tiếng kéo ra, Shidou trong bộ đồ ông già Noel bước vào.</p>
 
-Chỉ trong khoảnh khắc, mọi thứ xung quanh trở nên yên lặng
+<p>Chỉ trong khoảnh khắc, mọi thứ xung quanh trở nên yên lặng</p>
 
-...Diễn biến kế tiếp đúng như dự đoán.
+<p>...Diễn biến kế tiếp đúng như dự đoán.</p>
 
-Origami kéo Shidou vào phòng. Shidou liều mạng chạy ra xa khỏi Origami trước khi bình tĩnh lai một chút. "Này, cậu muốn làm gì? Sao cậu khỏa thân trong phòng tớ? Cậu muốn tớ tặng quà à?" Shidou rên rĩ, âm thanh liên tục vang vọng ra ngoài.
+<p>Origami kéo Shidou vào phòng. Shidou liều mạng chạy ra xa khỏi Origami trước khi bình tĩnh lai một chút. "Này, cậu muốn làm gì? Sao cậu khỏa thân trong phòng tớ? Cậu muốn tớ tặng quà à?" Shidou rên rĩ, âm thanh liên tục vang vọng ra ngoài.</p>
 
-Sau khi nói chuyện một lúc. Kurumi bắt đầu cảm thấy lạnh. Shidou đồng ý đưa bộ đồ ông già Noel cậu đang mặc trên người làm quà tặng Origami. Shidou tuy cảm thấy chưa hiểu rõ vấn đề nhưng cậu vẫn phải nghe theo.
+<p>Sau khi nói chuyện một lúc. Kurumi bắt đầu cảm thấy lạnh. Shidou đồng ý đưa bộ đồ ông già Noel cậu đang mặc trên người làm quà tặng Origami. Shidou tuy cảm thấy chưa hiểu rõ vấn đề nhưng cậu vẫn phải nghe theo.</p>
 
-"Cuối cùng... cũng xong".
+<p>"Cuối cùng... cũng xong".</p>
 
-Nhìn Origami rời khỏi phòng, Kurumi xoa xoa 2 bên vai và bàn tay. Hàm răng cô cắn vào nhau. Toàn thân run rẩy vì lạnh.
+<p>Nhìn Origami rời khỏi phòng, Kurumi xoa xoa 2 bên vai và bàn tay. Hàm răng cô cắn vào nhau. Toàn thân run rẩy vì lạnh.</p>
 
-Cô vẫn không thể vào phòng được. Dù Origami đã đi, Shidou vẫn chưa đi ngủ.
+<p>Cô vẫn không thể vào phòng được. Dù Origami đã đi, Shidou vẫn chưa đi ngủ.</p>
 
-Tuy vậy, Shidou nhanh chóng buồn ngủ. Shidou thay áo ngủ, ngáp một cái ngay chui vào vào chăn, chỉ chốc lát mà bắt đầu ngủ say.
+<p>Tuy vậy, Shidou nhanh chóng buồn ngủ. Shidou thay áo ngủ, ngáp một cái ngay chui vào vào chăn, chỉ chốc lát mà bắt đầu ngủ say.</p>
 
-"..."
+<p>"..."</p>
 
-Sau khi xác nhận Shidou đã hoàn toàn ngủ say, Kurumi nhảy vào bên trong.
+<p>Sau khi xác nhận Shidou đã hoàn toàn ngủ say, Kurumi nhảy vào bên trong.</p>
 
-Tuy rằng khá hơn ở ngoài trời nhưng trong phòng vẫn rất lạnh. Kurumi dự định nhanh chóng xong việc kết thúc công việc rồi rút lui.
+<p>Tuy rằng khá hơn ở ngoài trời nhưng trong phòng vẫn rất lạnh. Kurumi dự định nhanh chóng xong việc kết thúc công việc rồi rút lui.</p>
 
-Ngay khi đó.
+<p>Ngay khi đó.</p>
 
-"Hừ..."
+<p>"Hừ..."<br>
+"... !"</p>
 
-"... !"
+<p>Shidou phát ra âm thanh nhỏ rồi trở người, nằm nghiêng về một bên, chừa ra một khoảng trống. Thấy vậy, trong đầu Kurumi hiện lên một ý nghĩ.</p>
 
-Shidou phát ra âm thanh nhỏ rồi trở người, nằm nghiêng về một bên, chừa ra một khoảng trống. Thấy vậy, trong đầu Kurumi hiện lên một ý nghĩ.
+<p>Mặc dù việc rút lui nhanh để đề phòng Shidou tỉnh lại chính là thượng sách. Thế nhưng, do sự xuất hiện của Origami khiến cô phải ở ngoài trời suốt một tiếng đồng hồ. Như vậy nếu cô có thể hưởng thụ chút tiện nghi là một ý kiến dù hơi liều mạng nhưng cũng không tồi.</p>
 
-Mặc dù việc rút lui nhanh để đề phòng Shidou tỉnh lại chính là thượng sách. Thế nhưng, do sự xuất hiện của Origami khiến cô phải ở ngoài trời suốt một tiếng đồng hồ. Như vậy nếu cô có thể hưởng thụ chút tiện nghi là một ý kiến dù hơi liều mạng nhưng cũng không tồi.
+<p>"... lạnh thế này, chẳng còn cách nào khác".</p>
 
-"... lạnh thế này, chẳng còn cách nào khác".
-
-Kurumi tự nhủ, lén lút chui vào trong chăn Shidou. Trông cô giống như đang ngủ chung với Shidou.
+<p>Kurumi tự nhủ, lén lút chui vào trong chăn Shidou. Trông cô giống như đang ngủ chung với Shidou.</p>
 
 <img class="aligncenter" src="../upload/Kurumi-sleep.jpg" alt="Kurumi Santa Claus" width="70%" />
 
-"Aaaa..."
+<p>"Aaaa..."</p>
 
-Được thân thể ấm áp của Shidou bao phủ toàn thân. Kurumi không khỏi phát ra âm thanh sung sướng.
+<p>Được thân thể ấm áp của Shidou bao phủ toàn thân. Kurumi không khỏi phát ra âm thanh sung sướng.</p>
 
-"Kimochi (ấm áp quá)..."
+<p>"Kimochi (ấm áp quá)..."</p>
 
-Cơ thể, từng đầu ngón tay, ngón chân bắt đầu ấm dần đi. Đầu óc Kurumi bắt đầu bị cơn buồn ngủ tấn công.
+<p>Cơ thể, từng đầu ngón tay, ngón chân bắt đầu ấm dần đi. Đầu óc Kurumi bắt đầu bị cơn buồn ngủ tấn công.</p>
 
-"A... Aaaaa..."
+<p>"A... Aaaaa..."</p>
 
-Nếu cứ như vậy, cô sẽ ngủ thiếp đi và sáng hôm sau chắc chắn sẽ có chuyện lớn. Kurumi biết rõ điều đó. Nhưng... sự ấm áp khiến cô mất dần ý thức.
+<p>Nếu cứ như vậy, cô sẽ ngủ thiếp đi và sáng hôm sau chắc chắn sẽ có chuyện lớn. Kurumi biết rõ điều đó. Nhưng... sự ấm áp khiến cô mất dần ý thức.</p>
 
-"Không, không thể... Aaa... Phải ra khỏi đây... Aaa... Nhưng mà... Aaa... ấm quá..."
+<p>"Không, không thể... Aaa... Phải ra khỏi đây... Aaa... Nhưng mà... Aaa... ấm quá..."</p>
 
-Ý thức càng trôi đi, mí mắt cô càng khép lại.
+<p>Ý thức càng trôi đi, mí mắt cô càng khép lại.</p>
 
-Thế nhưng, trong nháy mắt.
+<p>Thế nhưng, trong nháy mắt.</p>
 
-"Hừ... này..."
+<p>"Hừ... này..."<br>
+"... ! ?"</p>
 
-"... ! ?"
+<p>Nghe tiếng Shidou nói, Kurumi giật mình, lấy lại bình tĩnh trong nháy mắt.</p>
 
-Nghe tiếng Shidou nói, Kurumi giật mình, lấy lại bình tĩnh trong nháy mắt.
+<p>Trong thoáng chốc, cô tưởng Shidou đã tỉnh. Nhưng không phải vậy.</p>
 
-Trong thoáng chốc, cô tưởng Shidou đã tỉnh. Nhưng không phải vậy.
+<p>"Cậu đừng dọa tớ nữa..."</p>
 
-"Cậu đừng dọa tớ nữa..."
+<p>Kurumi thở mạnh. Dù là ngẫu nhiên nhưng không hiểu tại sao Kurumi đã xuất hiện trong giấc mơ của Shidou đúng lúc này.</p>
 
-Kurumi thở mạnh. Dù là ngẫu nhiên nhưng không hiểu tại sao Kurumi đã xuất hiện trong giấc mơ của Shidou đúng lúc này.
+<p>"Ara ara... chỉ là mơ..."</p>
 
-"Ara ara... chỉ là mơ..."
+<p>Kurumi thở phào, chạm nhẹ vào mũi Shidou. Lập tức Shidou lại rên "Ô... ô..."<br>
+"Bởi vì cậu... đã giúp tớ... nên..."<br>
+"..."</p>
 
-Kurumi thở phào, chạm nhẹ vào mũi Shidou. Lập tức Shidou lại rên "Ô... ô...",
+<p>Kurumi nhìn vẻ mặt Shidou khi ngủ, bình tĩnh lại, nhẹ nhàng thở dài.</p>
 
-"Bởi vì cậu... đã giúp tớ... nên..."
+<p>"...Ara, ara "</p>
 
-"..."
+<p>Sau đó, cô ra khỏi giường Shidou, để món quà bên cạnh cậu ấy.</p>
 
-Kurumi nhìn vẻ mặt Shidou khi ngủ, bình tĩnh lại, nhẹ nhàng thở dài.
+<p>"...Ngay cả khi nằm mơ, cậu cũng nói như thế sao? Cậu đúng là ngây thơ đấy, Shidou-san"</p>
 
-"...Ara, ara "
+<p>Kurumi thở dài nói. Cô để một chân lên cửa sổ, chuẩn bị nhảy ra ngoài.</p>
 
-Sau đó, cô ra khỏi giường Shidou, để món quà bên cạnh cậu ấy.
+<p>"Chúc cậu ngủ ngon nhé...".</p>
 
-"...Ngay cả khi nằm mơ, cậu cũng nói như thế sao? Cậu đúng là ngây thơ đấy, Shidou-san"
+<p>Kurumi ngừng lại khi chưa hết câu.<br>
+Thời khắc này, đêm nay, sẽ cần có thêm một câu nữa.</p>
 
-Kurumi thở dài nói. Cô để một chân lên cửa sổ, chuẩn bị nhảy ra ngoài.
+<p>"...Merry Christmas, Shidou-san"</p>
 
-"Chúc cậu ngủ ngon nhé...".
-
-Kurumi ngừng lại khi chưa hết câu.
-
-Thời khắc này, đêm nay, sẽ cần có thêm một câu nữa.
-
-"...Merry Christmas, Shidou-san"
-
-Nói xong, Kurumi từ cửa sổ bay về phía bầu trời đêm, giống như ông già Noel đang bay vậy.
+<p>Nói xong, Kurumi từ cửa sổ bay về phía bầu trời đêm, giống như ông già Noel đang bay vậy.</p>
 
 <hr />
 
-Buổi sáng ngày 25/12, Itsuka Shidou đang ngồi trên giường.
+<p>Buổi sáng ngày 25/12, Itsuka Shidou đang ngồi trên giường.</p>
 
-Nguyên nhân rất đơn giản. Không biết vì sao, có một món quà được đặt ở kế bên gối đầu cậu.
+<p>Nguyên nhân rất đơn giản. Không biết vì sao, có một món quà được đặt ở kế bên gối đầu cậu.</p>
 
-"Cái này... là..."
+<p>"Cái này... là..."</p>
 
-Tối hôm qua, chỉ có Shidou mặc đồ ông già Noel ở nhà này. Không biết vì sao ở giường cậu lại có món quà này. Chẳng lẽ các Tinh Linh tặng quà cho cậu?
+<p>Tối hôm qua, chỉ có Shidou mặc đồ ông già Noel ở nhà này. Không biết vì sao ở giường cậu lại có món quà này. Chẳng lẽ các Tinh Linh tặng quà cho cậu?</p>
 
-Chẳng lẽ, ông già Noel đến tặng quà cho Shidou sao?
+<p>Chẳng lẽ, ông già Noel đến tặng quà cho Shidou sao?</p>
 
-Shidou đối với loại này không hề hiện thực mùi ý nghĩ cười khổ một chút, Tohka bắt đầu nói lên nói đến.
+<p>Shidou đối với loại này không hề hiện thực mùi ý nghĩ cười khổ một chút, Tohka bắt đầu nói lên nói đến.</p>
 
-"Shidou, trong đó có gì vậy?"
+<p>"Shidou, trong đó có gì vậy?"</p>
 
-Món quà đặt ở đầu giường, được gói lại trông cũng bình thường. Nếu mở ra, không chừng có thể biết được người tặng là ai.
+<p>Món quà đặt ở đầu giường, được gói lại trông cũng bình thường. Nếu mở ra, không chừng có thể biết được người tặng là ai.</p>
 
-"Mình nên mở nó ra".
+<p>"Mình nên mở nó ra".</p>
 
-Shidou bắt đầu mở món quà ra. Các Tinh Linh cũng hít một hơi, nhìn chăm chú vào lòng bàn tay Shidou.
+<p>Shidou bắt đầu mở món quà ra. Các Tinh Linh cũng hít một hơi, nhìn chăm chú vào lòng bàn tay Shidou.</p>
 
-"Nhanh lên nào..."
+<p>"Nhanh lên nào..."</p>
 
-Shidou vừa nói vừa mở quà, chậm rãi kéo ra.
+<p>Shidou vừa nói vừa mở quà, chậm rãi kéo ra.</p>
 
-Sau đó cậu lấy vật bên trong.
+<p>Sau đó cậu lấy vật bên trong.</p>
 
-"Đây là..."
+<p>"Đây là..."<br>
+"Đồng hồ... sao?"</p>
 
-"Đồng hồ... sao?"
+<p>Nhìn thấy thứ trong tay Shidou, Yoshino hỏi.</p>
 
-Nhìn thấy thứ trong tay Shidou, Yoshino hỏi.
+<p>Đúng vậy. Đó là một cái đồng hồ bỏ túi có kích cỡ nằm gọn trong lòng bàn tay. Chiếc đồng hồ được thiết kế khá công phu và tinh xảo, hiện rõ từng con số La Mã khắc trên mặt đồng hồ. (Có vẻ như chiếc đồng hồ này đã được Kurumi làm suốt 5 năm)</p>
 
-Đúng vậy. Đó là một cái đồng hồ bỏ túi có kích cỡ nằm gọn trong lòng bàn tay. Chiếc đồng hồ được thiết kế khá công phu và tinh xảo, hiện rõ từng con số La Mã khắc trên mặt đồng hồ. (Có vẻ như chiếc đồng hồ này đã được Kurumi làm suốt 5 năm)
+<p>Rốt cuộc ai đã đặt nó ở đây...</p>
 
-Rốt cuộc ai đã đặt nó ở đây...
+<p>Thế nhưng, Shidou đột nhiên nhận ra điều gì đó.</p>
 
-Thế nhưng, Shidou đột nhiên nhận ra điều gì đó.
+<p>"... Cái đồng hồ này... hình như mình đã thấy ở đâu rồi".</p>
 
-"... Cái đồng hồ này... hình như mình đã thấy ở đâu rồi".
+<p>Shidou vừa nói vừa ngắm nhìn chiếc đồng hồ báo thức.</p>
 
-Shidou vừa nói vừa ngắm nhìn chiếc đồng hồ báo thức.
-
-Tích tắc, tích tắc. Chiếc đồng hồ đang chạy. Trông giống như... con mắt của Kurumi.
+<p>Tích tắc, tích tắc. Chiếc đồng hồ đang chạy. Trông giống như... con mắt của Kurumi.</p>
 
 <img class="aligncenter" src="../upload/Kurumi_eye.jpg" alt="Kurumi Santa Claus" width="70%" />
 
-(Trans NVHAI: tổng kết lại tất cả phong cách ăn mặc của Kurumi:
-_ 7 năm trước, Kurumi mặc theo phong cách Sweet Lolita, đeo miếng che mắt hình trái tim màu trắng.
-_ 6 năm trước, Kurumi mặc theo phong cách nhà tiên tri Moses trong Kinh Thánh Công Giáo, quấn băng theo kiểu xác ướp Ai Cập.
-_ 5 năm trước, Kurumi mặc theo phong cách gần giống hiện tại với bộ váy màu đen, trắng, đeo miếng che mắt.
-_ Khi đi học, Kurumi mặc đồ nữ sinh trường Raizen với quần lót kèm vớ đen dài, tóc phủ mắt trái.
-_ Khi đi hẹn hò, Kurumi mặc bộ đầm đen toàn thân, mang bốt cao gót. Quần lót dây kèm vớ đen.
-_ Khi đi tặng quà Noel, Kurumi mặc đồ Noel mang phong cách trẻ trung và nữ tính.
-_ Khi làm cô dâu, Kurumi mặc bộ đầm cưới rất đẹp, phần áo hở ngực gợi cảm.
-_ Khi mặc Thiên Phục, Kurumi mặc bộ đồ theo phong cách Gothic màu đen và đỏ, tượng trưng cho máu và bóng tối.
-Kết luận: gu thời trang của Kurumi rất khác người nhưng cũng rất cá tính)
-
+<p>(Trans KINGDOM NVHAI: tổng kết lại tất cả phong cách ăn mặc của Kurumi:</p>
+<ul>
+<li>7 năm trước, Kurumi mặc theo phong cách Sweet Lolita, đeo miếng che mắt hình trái tim màu trắng.
+<li>6 năm trước, Kurumi mặc theo phong cách nhà tiên tri Moses trong Kinh Thánh Công Giáo, quấn băng theo kiểu xác ướp Ai Cập.
+<li>5 năm trước, Kurumi mặc theo phong cách gần giống hiện tại với bộ váy màu đen, trắng, đeo miếng che mắt.
+<li>Khi đi học, Kurumi mặc đồ nữ sinh trường Raizen với quần lót kèm vớ đen dài, tóc phủ mắt trái.
+<li>Khi đi hẹn hò, Kurumi mặc bộ đầm đen toàn thân, mang bốt cao gót. Quần lót dây kèm vớ đen.
+<li>Khi đi tặng quà Noel, Kurumi mặc đồ Noel mang phong cách trẻ trung và nữ tính.
+<li>Khi làm cô dâu, Kurumi mặc bộ đầm cưới rất đẹp, phần áo hở ngực gợi cảm.
+<li>Khi mặc Thiên Phục, Kurumi mặc bộ đồ theo phong cách Gothic màu đen và đỏ, tượng trưng cho máu và bóng tối.
+</ul>
+<p>Kết luận: gu thời trang của Kurumi rất khác người nhưng cũng rất cá tính)</p>
             ',
             'id_book_chapter' => ENCORE3,
             'enable_chapter' => ENABLE,

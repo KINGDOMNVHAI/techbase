@@ -18,12 +18,12 @@ class CreateVideoTable extends Migration
             $table->increments('id_video');
             $table->string('name_vi_video')->unique();
             $table->string('name_en_video')->unique();
-            $table->string('name_jp_video')->unique();
+            // $table->string('name_jp_video')->unique();
             $table->string('url_video');
             $table->boolean('enable_video')->default(ENABLE);
             $table->text('description_vi_video');
             $table->text('description_en_video');
-            $table->text('description_jp_video');
+            // $table->text('description_jp_video');
             $table->integer('youtube_channel');
         });
     }
