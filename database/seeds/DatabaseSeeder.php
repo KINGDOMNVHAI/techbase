@@ -18,6 +18,6 @@ class DatabaseSeeder extends Seeder
         $this->call(PresentpostTableSeeder::class);
         $this->call(VideoTableSeeder::class);
         $this->call(UsersTableSeeder::class);
-        $this->call(YoutuberankTableSeeder::class);
+        $this->call(ChannelsTableSeeder::class);
     }
 }

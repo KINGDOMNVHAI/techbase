@@ -3,14 +3,15 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class video extends Model
+class videos extends Model
 {
     //Khai báo tên table
-    protected $table = 'video';
+    protected $table = 'videos';
 
     // Khai báo primary key
-    // Trong Laravel có video::find() nghĩa là tìm theo primary key
+    // Trong Laravel có videos::find() nghĩa là tìm theo primary key
     protected $primaryKey = 'id_video';
+    protected $keyType = 'string';
 
     // Bỏ updated_at
     public $timestamps = false;
@@ -19,9 +20,8 @@ class video extends Model
         'id_video',
         'name_vi_video', 'name_en_video', //'name_jp_video',
         'url_video',
-        'present_vi_video', 'present_en_video', //'present_jp_video',
-        'content_vi_video', 'content_en_video', //'content_jp_video',
+        'description_vi_video', 'description_en_video', //'description_jp_video',
         'date_video', 'thumbnail_video',
-        'youtubechannel',
+        'id_channel', 'enable_video',
     ];
 }
