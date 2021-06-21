@@ -17,6 +17,7 @@ class CreateIframevideoTable extends Migration
         Schema::create('iframevideo', function (Blueprint $table) {
             $table->increments('id_iframe');
             $table->integer('id_video');
+            $table->boolean('secret_video')->default(false);
             $table->text('embed_link_1');
             $table->text('embed_link_2')->nullable();
             $table->text('embed_link_3')->nullable();

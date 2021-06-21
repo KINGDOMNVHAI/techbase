@@ -12,6 +12,8 @@ define('CHANNEL_KINGDOM_NVHAI', 'UCxUL0zS-XiU36bkUsr5dWbg');
 define('CHANNEL_PEWDIEPIE', 'UC-lHJZR3Gqxm24_Vd_AJ5Yw');
 define('CHANNEL_KIZUNA_AI', 'UC4YaOt1yT-ZeyB0OmxHgolA');
 define('CHANNEL_HOLOLIVE', 'UCJFZiqLMntJufDCHc6bQixg');
+define('CHANNEL_NOBITA_FROM_JAPAN', 'UCcIsxujzLRO5qY5f9buahCQ');
+define('CHANNEL_HOT_SPRING_GIRL', 'UCqvaqxGePQWvXMAi9-524uA');
 
 // ========== ERROR ==========
 // === Auth ===

@@ -13,11 +13,12 @@ class DatabaseSeeder extends Seeder
     {
         $this->call(BooksTableSeeder::class);
         $this->call(CategoryPostTableSeeder::class);
+        $this->call(ChannelsTableSeeder::class);
         $this->call(ChaptersTableSeeder::class);
         $this->call(IframeVideoTableSeeder::class);
         $this->call(PresentpostTableSeeder::class);
+        $this->call(SecretVideosSeeder::class);
         $this->call(VideoTableSeeder::class);
         $this->call(UsersTableSeeder::class);
-        $this->call(ChannelsTableSeeder::class);
     }
 }

@@ -17,7 +17,9 @@ class channels extends Model
 
     protected $fillable = [
         'id_channel','name_channel', 'url_channel', 'url_video_present',
-        'description_channel', 'subscribe', 'enable_channel', 'thumbnail_channel',
-        'virtual_youtuber', 'visual_novel', 'hololive'
+        'description_channel', 'description_video_vi', 'description_video_en', 'description_video_jp',
+        'subscribe', 'enable_channel', 'thumbnail_channel',
+        'virtual_youtuber', 'visual_novel', 'hololive',
+        'facebook_channel','twitter_channel','instagram_channel', 'patreon_channel'
     ];
 }

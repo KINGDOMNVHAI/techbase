@@ -18,10 +18,33 @@ class ChannelsTableSeeder extends Seeder
             'url_channel'           => 'https://www.youtube.com/channel/UCxUL0zS-XiU36bkUsr5dWbg?sub_confirmation=1',
             'url_video_present'     => 'https://youtu.be/hxY99J_OMtg',
             'description_channel'   => "Là kênh Youtube duy nhất của trang web này. Được xây dựng và ra mắt vào 1/7/2015 khi NVHAI là sinh viên năm cuối, kênh Youtube chuyên dịch các Visual Novel sang phụ đề tiếng Việt. Trong tương lai, các video sẽ được dịch sonh song tiếng Anh và tiếng Việt để thu hút thêm nhiều khán giả trên thế giới. Ngoài dịch Visual Novel, KINGDOM NVHAI còn hướng dẫn Photoshop, Premiere Pro và lập trình.",
-            'subscribe'             => 2980,
-            'thumbnail_channel'     => 'kingdom-nvhai-channel-thumbnail.jpg',
-            'favorite'              => 1,
-            'visual_novel'          => 1,
+            "description_video_vi"  => '<p>Các trang web khác</p>
+<p>
+News: <a href="http://kingdomnvhai.info/" target="_blank">http://kingdomnvhai.info/</a><br>
+Date a live: <a href="http://datealive.kingdomnvhai.info/" target="_blank">http://datealive.kingdomnvhai.info/</a><br>
+Kawaiicode: <a href="http://kawaiicode.info/" target="_blank">http://kawaiicode.info/</a>
+</p>
+',
+
+            "description_video_en" => '<p>Other websites</p>
+<p>
+News: <a href="http://kingdomnvhai.info/" target="_blank">http://kingdomnvhai.info/</a><br>
+Date a live: <a href="http://datealive.kingdomnvhai.info/" target="_blank">http://datealive.kingdomnvhai.info/</a><br>
+Kawaiicode: <a href="http://kawaiicode.info/" target="_blank">http://kawaiicode.info/</a>
+</p>
+',
+
+            "description_video_jp" => '<p>他のウェブサイト</p>
+<p>
+ニュース: <a href="http://kingdomnvhai.info/" target="_blank">http://kingdomnvhai.info/</a><br>
+デート・ア・ライブ: <a href="http://datealive.kingdomnvhai.info/" target="_blank">http://datealive.kingdomnvhai.info/</a><br>
+Kawaiicode: <a href="http://kawaiicode.info/" target="_blank">http://kawaiicode.info/</a>
+</p>
+',
+            'subscribe'         => 2980,
+            'thumbnail_channel' => 'kingdom-nvhai-channel-thumbnail.jpg',
+            'favorite'          => 1,
+            'visual_novel'      => 1,
         ]);
 
         channels::create([
@@ -32,6 +55,54 @@ class ChannelsTableSeeder extends Seeder
             'description_channel'   => "Ông Hoàng Youtube với lượt subcribe cao nhất thế giới nổi tiếng với chơi game, diễn hài, thích anime. PewDiePie là người Thụy Điển, có bạn gái Marzia và thường cộng tác với Jacksepticeye và các Youtuber nổi tiếng nhất thế giới khác. Dù hiện tại, số lượng subcribe của PewDiePie đã là hạng nhì sau khi bị T-Series soán ngôi vào tháng 4/2019, nhưng với nhiều khán giả, PewDiePie vẫn là Youtuber thành công nhất thế giới.",
             'thumbnail_channel'     => 'pewdiepie-channel-thumbnail.jpg',
             'favorite'              => 1,
+            "description_video_vi" => '<p>CÁC LOẠI HÀNG HÓA:</p>
+Áo PewDiePie:
+http://bit.ly/ShopBro
+
+Game của tôi:
+PewDiePie: Legend Of The Brofist
+Apple: http://apple.co/1Kxi8rQ
+Android: http://bit.ly/1Pxt8Xw
+
+Sách của tôi:
+This Book Loves You
+http://www.pewdiepie.com/go/book
+
+App của tôi:
+Apple: http://bit.ly/AppleBro
+Android: http://bit.ly/AndroidBro
+
+<p><b>MẠNG XÃ HỘI:</b></p>
+<p>
+Twitter ► <a href="https://twitter.com/pewdiepie">https://twitter.com/pewdiepie</a><br>
+Facebook ► <a href="http://facebook.com/pewdiepie">http://facebook.com/pewdiepie</a><br>
+Instagram ► <a href="http://instagram.com/pewdiepie">http://instagram.com/pewdiepie</a>
+</p>
+',
+            "description_video_en" => '<p>MERCHANDISE:</p>
+PewDiePie Clothing:
+http://bit.ly/ShopBro
+
+My Game:
+PewDiePie: Legend Of The Brofist
+Apple: http://apple.co/1Kxi8rQ
+Android: http://bit.ly/1Pxt8Xw
+
+My Book:
+This Book Loves You
+http://www.pewdiepie.com/go/book
+
+My App:
+Apple: http://bit.ly/AppleBro
+Android: http://bit.ly/AndroidBro
+
+<p><b>SOCIALS:</b></p>
+<p>
+Twitter ► <a href="https://twitter.com/pewdiepie">https://twitter.com/pewdiepie</a><br>
+Facebook ► <a href="http://facebook.com/pewdiepie">http://facebook.com/pewdiepie</a><br>
+Instagram ► <a href="http://instagram.com/pewdiepie">http://instagram.com/pewdiepie</a>
+</p>
+',
         ]);
 
         channels::create([
@@ -52,6 +123,48 @@ class ChannelsTableSeeder extends Seeder
             'url_channel'           => 'https://www.youtube.com/channel/UC4YaOt1yT-ZeyB0OmxHgolA',
             'url_video_present'     => 'https://youtu.be/RvB-kv9q7Pk',
             'description_channel'   => "Virtual Youtuber thành công nhất hiện tại. Cô là Youtuber ảo có đồ họa đẹp nhất và nội dung phong phú. Kizuna AI có tính cách vui vẻ, ngốc nghếch. Đặc biệt, cô có những bài hát nổi tiếng của riêng mình như AIAIAI hay những bản cover như Hej Monika của PewDiePie. Cô ủng hộ PewDiePie và mong muốn được cộng tác với anh.",
+            "description_video_jp"  => '
+
+<p>------------------------------------------------------------------------------------------------------------</p>
+<p>🎀5周年特別サイト🎀<br>
+<a href="https://5th.kizunaai.com/" target="_blank">https://5th.kizunaai.com/</a></p>
+
+<p>🎀A.I.Party 2021特別サイト🎀<br>
+<a href="https://5th.kizunaai.com/ai-party2021/" target="_blank">https://5th.kizunaai.com/ai-party2021/</a></p>
+
+♪Kizuna AI - Touch the Beat!♬
+Oculus Questストア殿堂入りVRリズムゲーム！ぜひ遊んでみてね！
+https://www.oculus.com/
+トレーラー：https://youtu.be/csHo3mOZHZk
+
+🎀キズナアイカード🎀
+私がデザインされたクレジットカードが登場したよ！
+詳しくはこちら：https://www.aplus.co.jp/creditcard/us
+
+🎀メンバーシップ参加はこちら🎀
+<a href="https://www.youtube.com/aichan_nel/join" target="_blank">https://www.youtube.com/aichan_nel/join</a>
+
+ゲームチャンネル「A.I.Games」もよろしくお願いします！
+🎮 A.I.Games 🎮
+<a href="http://www.youtube.com/c/AIGamesdayo" target="_blank">http://www.youtube.com/c/AIGamesdayo</a>
+
+♡ bilibili ♡
+<a href="https://space.bilibili.com/1473830" target="_blank">https://space.bilibili.com/1473830</a>
+♡ TikTok ♡
+<a href="https://www.tiktok.com/@kizunaai0630" target="_blank">https://www.tiktok.com/@kizunaai0630</a>
+♡ Twitter ♡
+<a href="https://twitter.com/aichan_nel" target="_blank">https://twitter.com/aichan_nel</a>
+♡ Instagram ♡
+<a href="https://www.instagram.com/a.i.channel_official/" target="_blank">https://www.instagram.com/a.i.channel_official/</a>
+♡ Facebook ♡
+<a href="https://www.facebook.com/KizunaAI0630/" target="_blank">https://www.facebook.com/KizunaAI0630/</a>
+♡ weibo ♡
+https://weibo.com/aichannelchina?is_a
+♡ WEBサイト ♡
+<a href="http://kizunaai.com/" target="_blank">http://kizunaai.com/</a>
+♡ オンラインShop ♡
+<a href="https://kizunaai.shop/" target="_blank">https://kizunaai.shop/</a>
+'
             'subscribe'             => 2612489,
             'thumbnail_channel'     => 'kizuna-ai-channel-thumbnail.jpg',
             'favorite'              => 1,
@@ -169,6 +282,26 @@ class ChannelsTableSeeder extends Seeder
         ]);
 
         // ============== Non Favorite ==============
+
+        channels::create([
+            'id_channel'            => 'UCcIsxujzLRO5qY5f9buahCQ',
+            'name_channel'          => 'Nobita from Japan',
+            'url_channel'           => 'https://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ',
+            'url_video_present'     => 'https://youtu.be/UFJOQFFtqrw',
+            'thumbnail_channel'     => 'nobita-from-japan-channel-thumbnail.jpg',
+            'description_channel'   => "Kênh chuyên nói về cuộc sống tại Nhật Bản, có phụ đề tiếng Anh.",
+        ]);
+
+        channels::create([
+            'id_channel'            => 'UCqvaqxGePQWvXMAi9-524uA',
+            'name_channel'          => '温泉女子会公式',
+            'url_channel'           => 'https://www.youtube.com/channel/UCqvaqxGePQWvXMAi9-524uA',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=CpCxxxVKb54',
+            'thumbnail_channel'     => 'hot-spring-girl-channel-thumbnail.jpg',
+            'description_channel'   => "Kênh chuyên nói về các suối nước nóng tại Nhật Bản.",
+            'instagram_channel'     => "https://www.instagram.com/onsen_girls/",
+            'patreon_channel'       => "https://www.patreon.com/japanonsenguide",
+        ]);
 
         channels::create([
             'id_channel'            => 'UCvqRdlKsE5Q8mf8YXbdIJLw',

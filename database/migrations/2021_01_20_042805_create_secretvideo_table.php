@@ -14,23 +14,19 @@ class CreateSecretvideoTable extends Migration
     public function up()
     {
         $this->down();
-        Schema::create('secretvideo', function (Blueprint $table) {
+        Schema::create('secretvideos', function (Blueprint $table) {
             $table->increments('id_secretvideo');
-            $table->string('name_vi_secretvideo');
-            $table->string('name_en_secretvideo')->nullable();
-            $table->string('url_secretvideo');
-            $table->text('present_vi_secretvideo');
-            $table->text('present_en_secretvideo')->nullable();
-            $table->text('content_vi_secretvideo');
-            $table->text('content_en_secretvideo')->nullable();
+            $table->string('name_vi_secretvideo')->unique();
+            $table->string('name_en_secretvideo')->unique()->nullable();
+            // $table->string('name_jp_video')->unique();
+            $table->string('url_video')->unique();
+            $table->text('description_vi_secretvideo')->nullable();
+            $table->text('description_en_secretvideo')->nullable();
+            // $table->text('description_jp_secretvideo')->nullable();
+            $table->boolean('enable_secretvideo')->default(ENABLE);
             $table->date('date_secretvideo');
             $table->string('thumbnail_secretvideo')->nullable();
-            $table->integer('id_cat_secretvideo');
-            $table->string('author');
-            $table->string('views')->nullable();
-            $table->string('enable_secretvideo')->default(false);
-
-            $table->timestamp('updated_at')->default(DB::raw('CURRENT_TIMESTAMP'));
+            $table->string('id_channel');
         });
     }
 
@@ -41,6 +37,6 @@ class CreateSecretvideoTable extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('secretvideo');
+        Schema::dropIfExists('secretvideos');
     }
 }

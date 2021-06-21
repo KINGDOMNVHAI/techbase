@@ -20,9 +20,16 @@ class CreateChannelsTable extends Migration
             $table->string('url_channel')->unique();
             $table->string('url_video_present')->unique();
             $table->text('description_channel')->nullable();
+            $table->text('description_video_vi')->nullable();
+            $table->text('description_video_en')->nullable();
+            $table->text('description_video_jp')->nullable();
             $table->integer('subscribe')->default(0);
             $table->boolean('enable_channel')->default(ENABLE);
             $table->string('thumbnail_channel');
+            $table->string('facebook_channel')->nullable();
+            $table->string('twitter_channel')->nullable();
+            $table->string('instagram_channel')->nullable();
+            $table->string('patreon_channel')->nullable();
             $table->boolean('favorite')->default(0);
             $table->boolean('virtual_youtuber')->default(0);
             $table->boolean('visual_novel')->default(0);
