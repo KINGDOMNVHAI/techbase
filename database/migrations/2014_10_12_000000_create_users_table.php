@@ -16,13 +16,25 @@ class CreateUsersTable extends Migration
         $this->down();
         Schema::create('users', function (Blueprint $table) {
             $table->increments('id');
-            $table->string('name');
+            $table->string('lastname');
+            $table->string('firstname');
             $table->string('username')->unique();
             $table->string('password');
             $table->string('email')->unique();
             $table->integer('role')->default(ROLE_MEMBER);
             $table->boolean('enable_user')->default(ENABLE);
             $table->string('apikey')->unique()->nullable();
+
+            $table->string('city')->nullable();
+            $table->string('address')->nullable();
+            $table->string('company')->nullable();
+            $table->string('facebook')->nullable();
+            $table->string('twitter')->nullable();
+            $table->string('aboutme')->nullable();
+            $table->string('signature')->nullable();
+            $table->string('avatar')->nullable();
+            $table->string('banner')->nullable();
+            $table->string('medal')->default('[]');
 
             $table->rememberToken();
             $table->timestamp('created_at')->default(DB::raw('CURRENT_TIMESTAMP'));

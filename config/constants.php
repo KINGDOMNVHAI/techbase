@@ -23,9 +23,9 @@ define('USERNAME_IS_NOT_EXIST', 'Tên đăng nhập sai');
 
 // ========== ADMIN ==========
 // === User's Role ===
-define('ROLE_CEO', 1);
-define('ROLE_MANAGER_ROOM', 2);
-define('ROLE_TEAM_LEADER', 3);
+define('ROLE_ADMIN', 1);
+define('ROLE_EDITOR', 2);
+define('ROLE_WRITER', 3);
 define('ROLE_MEMBER', 4);
 
 // === Paginate ===
