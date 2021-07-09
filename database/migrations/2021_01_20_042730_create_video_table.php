@@ -26,6 +26,9 @@ class CreateVideoTable extends Migration
             $table->boolean('enable_video')->default(ENABLE);
             $table->date('date_video');
             $table->string('thumbnail_video')->nullable();
+            $table->boolean('enable_vi')->default(ENABLE);
+            $table->boolean('enable_en')->default(UNENABLE);
+            $table->boolean('enable_jp')->default(UNENABLE);
             $table->string('id_channel');
         });
     }

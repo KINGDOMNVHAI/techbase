@@ -148,23 +148,25 @@ https://www.oculus.com/
 🎮 A.I.Games 🎮
 <a href="http://www.youtube.com/c/AIGamesdayo" target="_blank">http://www.youtube.com/c/AIGamesdayo</a>
 
-♡ bilibili ♡
+<p>
+♡ bilibili ♡ <br>
 <a href="https://space.bilibili.com/1473830" target="_blank">https://space.bilibili.com/1473830</a>
-♡ TikTok ♡
+♡ TikTok ♡ <br>
 <a href="https://www.tiktok.com/@kizunaai0630" target="_blank">https://www.tiktok.com/@kizunaai0630</a>
-♡ Twitter ♡
+♡ Twitter ♡ <br>
 <a href="https://twitter.com/aichan_nel" target="_blank">https://twitter.com/aichan_nel</a>
-♡ Instagram ♡
+♡ Instagram ♡ <br>
 <a href="https://www.instagram.com/a.i.channel_official/" target="_blank">https://www.instagram.com/a.i.channel_official/</a>
-♡ Facebook ♡
+♡ Facebook ♡ <br>
 <a href="https://www.facebook.com/KizunaAI0630/" target="_blank">https://www.facebook.com/KizunaAI0630/</a>
-♡ weibo ♡
+♡ weibo ♡ <br>
 https://weibo.com/aichannelchina?is_a
-♡ WEBサイト ♡
+♡ WEBサイト ♡<br>
 <a href="http://kizunaai.com/" target="_blank">http://kizunaai.com/</a>
-♡ オンラインShop ♡
+♡ オンラインShop ♡<br>
 <a href="https://kizunaai.shop/" target="_blank">https://kizunaai.shop/</a>
-'
+</p>
+',
             'subscribe'             => 2612489,
             'thumbnail_channel'     => 'kizuna-ai-channel-thumbnail.jpg',
             'favorite'              => 1,
@@ -282,15 +284,6 @@ https://weibo.com/aichannelchina?is_a
         ]);
 
         // ============== Non Favorite ==============
-
-        channels::create([
-            'id_channel'            => 'UCcIsxujzLRO5qY5f9buahCQ',
-            'name_channel'          => 'Nobita from Japan',
-            'url_channel'           => 'https://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ',
-            'url_video_present'     => 'https://youtu.be/UFJOQFFtqrw',
-            'thumbnail_channel'     => 'nobita-from-japan-channel-thumbnail.jpg',
-            'description_channel'   => "Kênh chuyên nói về cuộc sống tại Nhật Bản, có phụ đề tiếng Anh.",
-        ]);
 
         channels::create([
             'id_channel'            => 'UCqvaqxGePQWvXMAi9-524uA',
@@ -450,26 +443,26 @@ https://weibo.com/aichannelchina?is_a
         ]);
 
         channels::create([
-            'id_channel'        => 'UC1opHUrw8rvnsadT-iGp7Cg',
-            'name_channel'      => 'Minato Aqua - Aqua Ch. 湊あくあ',
-            'url_channel'       => 'https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=-aB6MQU8l1s',
-            'thumbnail_channel' => 'aqua-channel-thumbnail.jpg',
-            'description_channel'       => "Lần đầu KINGDOM NVHAI biết đến kênh này là từ bài nhạc nghe khá dễ thương バレンタインに (tạm dịch là Đến Ngày Valentine). Aqua là VTuber của Hololive. Với tông màu xanh và biểu tượng mỏ neo, cô luôn được fan tặng icon mỏ neo trên stream của mình. Nhưng ấn tượng nhất vẫn là tốc độ subcribe của cô vượt qua cả senpai Sora.",
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UC1opHUrw8rvnsadT-iGp7Cg',
+            'name_channel'          => 'Minato Aqua - Aqua Ch. 湊あくあ',
+            'url_channel'           => 'https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=-aB6MQU8l1s',
+            'thumbnail_channel'     => 'aqua-channel-thumbnail.jpg',
+            'description_channel'   => "Lần đầu KINGDOM NVHAI biết đến kênh này là từ bài nhạc nghe khá dễ thương バレンタインに (tạm dịch là Đến Ngày Valentine). Aqua là VTuber của Hololive. Với tông màu xanh và biểu tượng mỏ neo, cô luôn được fan tặng icon mỏ neo trên stream của mình. Nhưng ấn tượng nhất vẫn là tốc độ subcribe của cô vượt qua cả senpai Sora.",
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCdyqAaZDKHXg4Ahi7VENThQ',
-            'name_channel'      => 'Shirogane Noel - Noel Ch. 白銀ノエル',
-            'url_channel'       => 'https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ',
-            'url_video_present'         => 'https://youtu.be/f3_sSbdloZU',
-            'thumbnail_channel' => 'noel-channel-thumbnail.jpg',
-            'description_channel'       => "Noel là Vtuber của Hololive. Cô theo phong cách kỵ sĩ Châu Âu thời Thập Tự Chinh. Cô được miêu tả là một cô gái có sức khỏe phi thường.",
-            'enable_channel'            => 0,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCdyqAaZDKHXg4Ahi7VENThQ',
+            'name_channel'          => 'Shirogane Noel - Noel Ch. 白銀ノエル',
+            'url_channel'           => 'https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ',
+            'url_video_present'     => 'https://youtu.be/f3_sSbdloZU',
+            'thumbnail_channel'     => 'noel-channel-thumbnail.jpg',
+            'description_channel'   => "Noel là Vtuber của Hololive. Cô theo phong cách kỵ sĩ Châu Âu thời Thập Tự Chinh. Cô được miêu tả là một cô gái có sức khỏe phi thường.",
+            'enable_channel'        => 0,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
@@ -488,10 +481,10 @@ https://weibo.com/aichannelchina?is_a
             'id_channel'        => 'UCS9uQI-jC3DE0L4IpXyvr6w',
             'name_channel'      => 'Kiryu Coco - Coco Ch. 桐生ココ',
             'url_channel'       => 'https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w',
-            'url_video_present'         => 'https://youtu.be/uD4_sAuzoCg',
-            'thumbnail_channel' => 'coco-channel-thumbnail.jpg',
-            'description_channel'       => "Kiryu Coco là Vtuber của Hololive. Cô là cô gái rồng trong hình dạng con người. Chương trình nổi tiếng nhất của cô là AsaCoCo Live nhưng KINGDOM NVHAI lại thích cô với bài hát My Heart Will Go On trong stream. Cô là một trong các VTuber của Hololive nói tiếng Anh rất tốt, ngang với Haato.",
-            'enable_channel'            => 0,
+            'url_video_present'     => 'https://youtu.be/uD4_sAuzoCg',
+            'thumbnail_channel'     => 'coco-channel-thumbnail.jpg',
+            'description_channel'   => "Kiryu Coco là Vtuber của Hololive. Cô là cô gái rồng trong hình dạng con người. Chương trình nổi tiếng nhất của cô là AsaCoCo Live nhưng KINGDOM NVHAI lại thích cô với bài hát My Heart Will Go On trong stream. Cô là một trong các VTuber của Hololive nói tiếng Anh rất tốt, ngang với Haato.",
+            'enable_channel'    => 0,
             'virtual_youtuber'  => 1,
             'hololive'          => 1,
         ]);
@@ -533,39 +526,39 @@ https://weibo.com/aichannelchina?is_a
         ]);
 
         channels::create([
-            'id_channel'        => 'UC-hM6YJuNYVAmUWxeIr9FeA',
-            'name_channel'      => 'Sakura Miko - Miko Ch. さくらみこ',
-            'url_channel'       => 'https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=7lFqJSIbEqw',
-            'thumbnail_channel' => 'miko-channel-thumbnail.jpg',
-            'description_channel'       => "Sakura Miko là Vtuber của Hololive. Cô nổi tiếng là một trong các VTuber bẩn bựa nhất của Hololive với câu hát 'We are We are F*ck You'.",
-            'enable_channel'            => 0,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UC-hM6YJuNYVAmUWxeIr9FeA',
+            'name_channel'          => 'Sakura Miko - Miko Ch. さくらみこ',
+            'url_channel'           => 'https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=7lFqJSIbEqw',
+            'thumbnail_channel'     => 'miko-channel-thumbnail.jpg',
+            'description_channel'   => "Sakura Miko là Vtuber của Hololive. Cô nổi tiếng là một trong các VTuber bẩn bựa nhất của Hololive với câu hát 'We are We are F*ck You'.",
+            'enable_channel'        => 0,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UC1suqwovbL1kzsoaZgFZLKg',
-            'name_channel'      => 'Yuduki Choco - Choco Ch. 癒月ちょこ',
-            'url_channel'       => 'https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=Rvgfa37Nseg',
-            'thumbnail_channel' => 'choco-channel-thumbnail.jpg',
-            'description_channel'       => "Yuduki Choco là Vtuber của Hololive. Cô được gọi là Choco-sensei với ngoại hình là Succubus ngực to đóng vai y tá trường học với loạt video ASRM đầy những âm thanh dâm dục. Hơi đáng tiếc là kênh của cô dù ra mắt từ lâu nhưng bị Youtube cảnh cáo các video ASRM của cô nên cô tăng sub chậm lại.",
-            'enable_channel'            => 0,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UC1suqwovbL1kzsoaZgFZLKg',
+            'name_channel'          => 'Yuduki Choco - Choco Ch. 癒月ちょこ',
+            'url_channel'           => 'https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=Rvgfa37Nseg',
+            'thumbnail_channel'     => 'choco-channel-thumbnail.jpg',
+            'description_channel'   => "Yuduki Choco là Vtuber của Hololive. Cô được gọi là Choco-sensei với ngoại hình là Succubus ngực to đóng vai y tá trường học với loạt video ASRM đầy những âm thanh dâm dục. Hơi đáng tiếc là kênh của cô dù ra mắt từ lâu nhưng bị Youtube cảnh cáo các video ASRM của cô nên cô tăng sub chậm lại.",
+            'enable_channel'        => 0,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UC1DCedRgGHBdm81E1llLhOQ',
-            'name_channel'      => 'Usada Pekora - Pekora Ch. 兎田ぺこら',
-            'url_channel'       => 'https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=xlaOkbgQWck',
-            'thumbnail_channel' => 'pekora-channel-thumbnail.jpg',
-            'description_channel'       => "Usada Pekora là Vtuber của Hololive. Cô được gọi là con thỏ và rất nổi tiếng với điệu cười bẩn bựa HA! HA! HA! HA!. Hãy search Pekora Laugh để nghe tiếng cười có một không hai của cô.",
-            'enable_channel'            => 0,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UC1DCedRgGHBdm81E1llLhOQ',
+            'name_channel'          => 'Usada Pekora - Pekora Ch. 兎田ぺこら',
+            'url_channel'           => 'https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=xlaOkbgQWck',
+            'thumbnail_channel'     => 'pekora-channel-thumbnail.jpg',
+            'description_channel'   => "Usada Pekora là Vtuber của Hololive. Cô được gọi là con thỏ và rất nổi tiếng với điệu cười bẩn bựa HA! HA! HA! HA!. Hãy search Pekora Laugh để nghe tiếng cười có một không hai của cô.",
+            'enable_channel'        => 0,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
@@ -605,51 +598,51 @@ https://weibo.com/aichannelchina?is_a
         ]);
 
         channels::create([
-            'id_channel'        => 'UCvInZx9h3jC2JzsIzoOebWg',
-            'name_channel'      => 'Flare Ch. 不知火フレア',
-            'url_channel'       => 'https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=qMKET5fe-YE',
-            'thumbnail_channel' => 'flare-channel-thumbnail.jpg',
-            'description_channel'       => "Shiranui Flare là VTuber của Hololive. ",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCvInZx9h3jC2JzsIzoOebWg',
+            'name_channel'          => 'Flare Ch. 不知火フレア',
+            'url_channel'           => 'https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=qMKET5fe-YE',
+            'thumbnail_channel'     => 'flare-channel-thumbnail.jpg',
+            'description_channel'   => "Shiranui Flare là VTuber của Hololive. ",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCdn5BQ06XqgXoAxIhbqw5Rg',
-            'name_channel'      => 'フブキCh。白上フブキ',
-            'url_channel'       => 'https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=UZnIHM2dQvA',
-            'thumbnail_channel' => 'fubuki-channel-thumbnail.jpg',
-            'description_channel'       => "Fubuki là VTuber của Hololive. Cô là Virtual Youtuber thành công nhất của Hololive với lượng subcribe cao nhất. Trong hình dạng Shirigami, cô thường collab với các đàn em để kéo sub cho họ.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCdn5BQ06XqgXoAxIhbqw5Rg',
+            'name_channel'          => 'フブキCh。白上フブキ',
+            'url_channel'           => 'https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=UZnIHM2dQvA',
+            'thumbnail_channel'     => 'fubuki-channel-thumbnail.jpg',
+            'description_channel'   => "Fubuki là VTuber của Hololive. Cô là Virtual Youtuber thành công nhất của Hololive với lượng subcribe cao nhất. Trong hình dạng Shirigami, cô thường collab với các đàn em để kéo sub cho họ.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCDqI2jOz0weumE8s7paEk6g',
-            'name_channel'      => 'Roboco Ch. - ロボ子 ',
-            'url_channel'       => 'https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=ttpdreD_9Os',
-            'thumbnail_channel' => 'roboco-channel-thumbnail.jpg',
-            'description_channel'       => "Roboco là VTuber của Hololive. Cô là một trong số các VTuber đầu tiên của Hololive. Tuy nhiên, tốc độ tăng sub của cô không tốt lắm.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCDqI2jOz0weumE8s7paEk6g',
+            'name_channel'          => 'Roboco Ch. - ロボ子 ',
+            'url_channel'           => 'https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=ttpdreD_9Os',
+            'thumbnail_channel'     => 'roboco-channel-thumbnail.jpg',
+            'description_channel'   => "Roboco là VTuber của Hololive. Cô là một trong số các VTuber đầu tiên của Hololive. Tuy nhiên, tốc độ tăng sub của cô không tốt lắm.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCl_gCybOJRIgOXw6Qb4qJzQ',
-            'name_channel'      => 'Rushia Ch. 潤羽るしあ',
-            'url_channel'       => 'https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ',
-            'url_video_present'         => 'https://youtu.be/aBGaFFIP9bs',
-            'thumbnail_channel' => 'rushia-channel-thumbnail.jpg',
-            'description_channel'       => "Uruha Rushia là VTuber của Hololive. Cô có hình dạng là một loli necromancer (triệu hồi sư) luôn miệng nói Rushia Boing Boing, mặc dù ngực cô là 1 trong 4 bức tường của Hololive (Wall of Hololive).",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCl_gCybOJRIgOXw6Qb4qJzQ',
+            'name_channel'          => 'Rushia Ch. 潤羽るしあ',
+            'url_channel'           => 'https://www.youtube.com/channel/UCl_gCybOJRIgOXw6Qb4qJzQ',
+            'url_video_present'     => 'https://youtu.be/aBGaFFIP9bs',
+            'thumbnail_channel'     => 'rushia-channel-thumbnail.jpg',
+            'description_channel'   => "Uruha Rushia là VTuber của Hololive. Cô có hình dạng là một loli necromancer (triệu hồi sư) luôn miệng nói Rushia Boing Boing, mặc dù ngực cô là 1 trong 4 bức tường của Hololive (Wall of Hololive).",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
@@ -677,206 +670,252 @@ https://weibo.com/aichannelchina?is_a
         ]);
 
         channels::create([
-            'id_channel'        => 'UCXTpFs_3PqI41qX2d9tL2Rw',
-            'name_channel'      => 'Shion Ch. 紫咲シオン',
-            'url_channel'       => 'https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=ISORcbhkfxM',
-            'thumbnail_channel' => 'shion-channel-thumbnail.jpg',
-            'description_channel'       => "Shion là VTuber của Hololive. Cô là một phù thủy có lượng mana rất ít và phép thuật của cô luôn gây rắc rối. Cô thường xuyên xuất hiện trong các phim ngắn với phép thuật của mình. Cô cũng đóng vai làm vợ của Aqua và từng lén lút quan hệ với Okayu và nhiều người khác.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCXTpFs_3PqI41qX2d9tL2Rw',
+            'name_channel'          => 'Shion Ch. 紫咲シオン',
+            'url_channel'           => 'https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=ISORcbhkfxM',
+            'thumbnail_channel'     => 'shion-channel-thumbnail.jpg',
+            'description_channel'   => "Shion là VTuber của Hololive. Cô là một phù thủy có lượng mana rất ít và phép thuật của cô luôn gây rắc rối. Cô thường xuyên xuất hiện trong các phim ngắn với phép thuật của mình. Cô cũng đóng vai làm vợ của Aqua và từng lén lút quan hệ với Okayu và nhiều người khác.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCD8HOxPs4Xvsm8H0ZxXGiBw',
-            'name_channel'      => 'Mel Channel 夜空メルチャンネル',
-            'url_channel'       => 'https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=C0KQZUyfZ3Q',
-            'thumbnail_channel' => 'mel-channel-thumbnail.jpg',
-            'description_channel'       => "Mel-chan tạo hình là một vampire, nhưng cô đã có tên mới là BANpire sau một loạt drama sóng gió. Một tên theo dõi cô đã gửi cô những thông tin đời tư cá nhân của cô. Cô hoảng sợ phải nhờ CEO Hololive là YAGOO can thiệp. Ông nhờ cả cảnh sát và luật sư. Vụ việc khiến cô không live stream 2 tháng, bỏ lỡ buổi debut 3D của mình. Trong buổi stream ra mắt mình trở lại, cô bị Youtube cắt sóng 2 lần vì bộ đồ mặc định hở ngực và có nhắc đến patsu. Đến lần thứ 3, buổi stream mới diễn ra suôn sẻ. Những buổi stream sau đó, cô để censor với dòng chữ: Youtube-kun daisuki.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCD8HOxPs4Xvsm8H0ZxXGiBw',
+            'name_channel'          => 'Mel Channel 夜空メルチャンネル',
+            'url_channel'           => 'https://www.youtube.com/channel/UCD8HOxPs4Xvsm8H0ZxXGiBw',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=C0KQZUyfZ3Q',
+            'thumbnail_channel'     => 'mel-channel-thumbnail.jpg',
+            'description_channel'   => "Mel-chan tạo hình là một vampire, nhưng cô đã có tên mới là BANpire sau một loạt drama sóng gió. Một tên theo dõi cô đã gửi cô những thông tin đời tư cá nhân của cô. Cô hoảng sợ phải nhờ CEO Hololive là YAGOO can thiệp. Ông nhờ cả cảnh sát và luật sư. Vụ việc khiến cô không live stream 2 tháng, bỏ lỡ buổi debut 3D của mình. Trong buổi stream ra mắt mình trở lại, cô bị Youtube cắt sóng 2 lần vì bộ đồ mặc định hở ngực và có nhắc đến patsu. Đến lần thứ 3, buổi stream mới diễn ra suôn sẻ. Những buổi stream sau đó, cô để censor với dòng chữ: Youtube-kun daisuki.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCFTLzh12_nrtzqBPsTCqenA',
-            'name_channel'      => 'アキロゼCh。Vtuber/ホロライブ所属',
-            'url_channel'       => 'https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=Ii7rtNaGlls',
-            'thumbnail_channel' => 'aki-channel-thumbnail.jpg',
-            'description_channel'       => "Aki Rosenthal là VTuber của Hololive. Cô là một robot đến từ thế giới khác. Những buổi stream của cô không có gì đặc biệt nên dù làm VTuber đã lâu nhưng số subcribes khá ít. Cô được giúp đỡ bằng cách tham gia những phim ngắn 3D và làm vài thứ ecchi. Khi cô có bản 3D, cô đã biểu diễn bài múa rất đẹp của mình. Có lẽ cô chỉ phát huy khả năng của mình khi có bản 3D. Bài múa Sha-Le-Ys mang phong cách Elf/Fantasy say đắm lòng người là điểm sáng nhất của cô. Mọi người gọi cô là Goddess.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCFTLzh12_nrtzqBPsTCqenA',
+            'name_channel'          => 'アキロゼCh。Vtuber/ホロライブ所属',
+            'url_channel'           => 'https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=Ii7rtNaGlls',
+            'thumbnail_channel'     => 'aki-channel-thumbnail.jpg',
+            'description_channel'   => "Aki Rosenthal là VTuber của Hololive. Cô là một robot đến từ thế giới khác. Những buổi stream của cô không có gì đặc biệt nên dù làm VTuber đã lâu nhưng số subcribes khá ít. Cô được giúp đỡ bằng cách tham gia những phim ngắn 3D và làm vài thứ ecchi. Khi cô có bản 3D, cô đã biểu diễn bài múa rất đẹp của mình. Có lẽ cô chỉ phát huy khả năng của mình khi có bản 3D. Bài múa Sha-Le-Ys mang phong cách Elf/Fantasy say đắm lòng người là điểm sáng nhất của cô. Mọi người gọi cô là Goddess.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UC1uv2Oq6kNxgATlCiez59hw',
-            'name_channel'      => 'Towa Ch. 常闇トワ',
-            'url_channel'       => 'https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=UlemRwXYWHg',
-            'thumbnail_channel' => 'towa-channel-thumbnail.jpg',
-            'description_channel'       => "Tokoyami Towa là VTuber của Hololive. Cô là một con quỷ với cặp sừng và đuôi, nhưng cách nói chuyện của cô khiến mọi người lại gọi cô là thiên thần. Những buổi stream nổi bật của cô là những buổi tư vấn về cuộc sống.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UC1uv2Oq6kNxgATlCiez59hw',
+            'name_channel'          => 'Towa Ch. 常闇トワ',
+            'url_channel'           => 'https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=UlemRwXYWHg',
+            'thumbnail_channel'     => 'towa-channel-thumbnail.jpg',
+            'description_channel'   => "Tokoyami Towa là VTuber của Hololive. Cô là một con quỷ với cặp sừng và đuôi, nhưng cách nói chuyện của cô khiến mọi người lại gọi cô là thiên thần. Những buổi stream nổi bật của cô là những buổi tư vấn về cuộc sống.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCOyYb1c43VlX9rc_lT6NKQw',
-            'name_channel'      => 'Ayunda Risu Ch. hololive-ID',
-            'url_channel'       => 'https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw',
-            'url_video_present'         => 'https://youtu.be/ozANadM_Y8U',
-            'thumbnail_channel' => 'risu-channel-thumbnail.jpg',
-            'description_channel'       => "Ayunda Risu là VTuber của Hololive. Cô là thế hệ đầu tiên của Hololive Indonesia. Cô tạo hình là một con sóc và rất thích xem stream của Korone senpai. Cô hiện là VTuber thành công nhất trong 3 VTuber đầu tiên của Hololive Indonesia, VTuber đầu tiên đạt 100.000 subcribe.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCOyYb1c43VlX9rc_lT6NKQw',
+            'name_channel'          => 'Ayunda Risu Ch. hololive-ID',
+            'url_channel'           => 'https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw',
+            'url_video_present'     => 'https://youtu.be/ozANadM_Y8U',
+            'thumbnail_channel'     => 'risu-channel-thumbnail.jpg',
+            'description_channel'   => "Ayunda Risu là VTuber của Hololive. Cô là thế hệ đầu tiên của Hololive Indonesia. Cô tạo hình là một con sóc và rất thích xem stream của Korone senpai. Cô hiện là VTuber thành công nhất trong 3 VTuber đầu tiên của Hololive Indonesia, VTuber đầu tiên đạt 100.000 subcribe.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCP0BspO_AMEe3aQqqpo89Dg',
-            'name_channel'      => 'Moona Hoshinova hololive-ID',
-            'url_channel'       => 'https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=ATuX-x_u7ec',
-            'thumbnail_channel' => 'moona-channel-thumbnail.jpg',
-            'description_channel'       => "Moona Hoshinova là VTuber của Hololive. Cô là thế hệ đầu tiên của Hololive Indonesia. Cô tạo hình là một nữ thần mặt trăng. Cô có 2 nhân cách là Moona vui vẻ và Hoshinova đồ sát thích dùng rìu (axe). Cô là VTuber KINGDOM NVHAI thích nhất trong các VTuber của Hololive Indonesia",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCP0BspO_AMEe3aQqqpo89Dg',
+            'name_channel'          => 'Moona Hoshinova hololive-ID',
+            'url_channel'           => 'https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=ATuX-x_u7ec',
+            'thumbnail_channel'     => 'moona-channel-thumbnail.jpg',
+            'description_channel'   => "Moona Hoshinova là VTuber của Hololive. Cô là thế hệ đầu tiên của Hololive Indonesia. Cô tạo hình là một nữ thần mặt trăng. Cô có 2 nhân cách là Moona vui vẻ và Hoshinova đồ sát thích dùng rìu (axe). Cô là VTuber KINGDOM NVHAI thích nhất trong các VTuber của Hololive Indonesia",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCAoy6rzhSf4ydcYjJw3WoVg',
-            'name_channel'      => 'Airani Iofifteen Channel hololive-ID',
-            'url_channel'       => 'https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg',
-            'url_video_present'         => 'https://youtu.be/EM11RaN_Zn8',
-            'thumbnail_channel' => 'iofi-channel-thumbnail.jpg',
-            'description_channel'       => "Airani Iofifteen là VTuber của Hololive. Cô là thế hệ đầu tiên của Hololive Indonesia. Cô có tạo hình là một họa sĩ. Cô có thể nói tiếng Indonesia, Nhật, Anh, Đức, Hàn và... tiếng người ngoài hành tinh (alienish). Nhiều người thắc mắc YAGOO làm sao có thể tìm được những cô gái đặc biệt này.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCAoy6rzhSf4ydcYjJw3WoVg',
+            'name_channel'          => 'Airani Iofifteen Channel hololive-ID',
+            'url_channel'           => 'https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg',
+            'url_video_present'     => 'https://youtu.be/EM11RaN_Zn8',
+            'thumbnail_channel'     => 'iofi-channel-thumbnail.jpg',
+            'description_channel'   => "Airani Iofifteen là VTuber của Hololive. Cô là thế hệ đầu tiên của Hololive Indonesia. Cô có tạo hình là một họa sĩ. Cô có thể nói tiếng Indonesia, Nhật, Anh, Đức, Hàn và... tiếng người ngoài hành tinh (alienish). Nhiều người thắc mắc YAGOO làm sao có thể tìm được những cô gái đặc biệt này.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCK9V2B22uJYu3N7eR_BT9QA',
-            'name_channel'      => 'Polka Ch. 尾丸ポルカ',
-            'url_channel'       => 'https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA',
-            'url_video_present'         => 'https://youtu.be/erweyYJ4CGk',
-            'thumbnail_channel' => 'polka-channel-thumbnail.jpg',
-            'description_channel'       => "Omaru Polka là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một chú hề. Cô có meme với game Among Us. Khi bị bắt quả tang. cô đã thanh minh với lý do: 'TÔI LÀ VTUBER 300K SUB!'. Hy vọng không phải vì câu nói này mà cô mãi mãi là một VTuber 300k sub như cô nói.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCK9V2B22uJYu3N7eR_BT9QA',
+            'name_channel'          => 'Polka Ch. 尾丸ポルカ',
+            'url_channel'           => 'https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA',
+            'url_video_present'     => 'https://youtu.be/erweyYJ4CGk',
+            'thumbnail_channel'     => 'polka-channel-thumbnail.jpg',
+            'description_channel'   => "Omaru Polka là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một chú hề. Cô có meme với game Among Us. Khi bị bắt quả tang. cô đã thanh minh với lý do: 'TÔI LÀ VTUBER 300K SUB!'. Hy vọng không phải vì câu nói này mà cô mãi mãi là một VTuber 300k sub như cô nói.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCUKD-uaobj9jiqB-VXt71mA',
-            'name_channel'      => 'Botan Ch.獅白ぼたん',
-            'url_channel'       => 'https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=ypv58k8ux-Y',
-            'thumbnail_channel' => 'botan-channel-thumbnail.jpg',
-            'description_channel'       => "Shishiro Botan là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một con sư tử trắng. Buổi stream hài hước là buổi chơi game Overcooked! 2 với Watame-senpai, một con cừu. Trong buổi stream, 2 cô luôn nói những câu ẩn ý như thể Botan sắp ăn thịt Watame.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCUKD-uaobj9jiqB-VXt71mA',
+            'name_channel'          => 'Botan Ch.獅白ぼたん',
+            'url_channel'           => 'https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=ypv58k8ux-Y',
+            'thumbnail_channel'     => 'botan-channel-thumbnail.jpg',
+            'description_channel'   => "Shishiro Botan là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một con sư tử trắng. Buổi stream hài hước là buổi chơi game Overcooked! 2 với Watame-senpai, một con cừu. Trong buổi stream, 2 cô luôn nói những câu ẩn ý như thể Botan sắp ăn thịt Watame.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCFKOVgVbGmX65RxO3EtH3iw',
-            'name_channel'      => 'Lamy Ch. 雪花ラミィ',
-            'url_channel'       => 'https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw',
-            'url_video_present'         => '',
-            'thumbnail_channel' => 'lamy-channel-thumbnail.jpg',
-            'description_channel'       => "Yukihana Lamy là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một cô tiên nữ. Fan gọi cô là tiên nữ con nhà lành nhưng mê S&M. Cô đã 'ngoại tình' với Haato vì chân của Haato khá phê.",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCFKOVgVbGmX65RxO3EtH3iw',
+            'name_channel'          => 'Lamy Ch. 雪花ラミィ',
+            'url_channel'           => 'https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw',
+            'url_video_present'     => '',
+            'thumbnail_channel'     => 'lamy-channel-thumbnail.jpg',
+            'description_channel'   => "Yukihana Lamy là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một cô tiên nữ. Fan gọi cô là tiên nữ con nhà lành nhưng mê S&M. Cô đã 'ngoại tình' với Haato vì chân của Haato khá phê.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCAWSyEs_Io8MtpY3m-zqILA',
-            'name_channel'      => 'Nene Ch.桃鈴ねね',
-            'url_channel'       => 'https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=lS-s2s640Kc',
-            'thumbnail_channel' => 'nene-channel-thumbnail.jpg',
-            'description_channel'       => "Momosuzu Nene là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một chú mèo với chuông rất to trên cổ. Fan gọi cô là Nenechi",
-            'enable_channel'            => 1,
-            'virtual_youtuber'  => 1,
-            'hololive'          => 1,
+            'id_channel'            => 'UCAWSyEs_Io8MtpY3m-zqILA',
+            'name_channel'          => 'Nene Ch.桃鈴ねね',
+            'url_channel'           => 'https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=lS-s2s640Kc',
+            'thumbnail_channel'     => 'nene-channel-thumbnail.jpg',
+            'description_channel'   => "Momosuzu Nene là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một chú mèo với chuông rất to trên cổ. Fan gọi cô là Nenechi",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
         ]);
 
+        channels::create([
+            'id_channel'            => 'UCgZuwn-O7Szh9cAgHqJ6vjw',
+            'name_channel'          => 'Aloe Ch.魔乃アロエ',
+            'url_channel'           => 'https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw',
+            'url_video_present'     => 'https://www.youtube.com/channel/UCgZuwn-O7Szh9cAgHqJ6vjw',
+            'thumbnail_channel'     => 'aloe-channel-thumbnail.jpg',
+            'description_channel'   => "Mano Aloe là VTuber của Hololive. Cô là thế hệ thứ 5 của Hololive. Cô có tạo hình là một Succubus với chiếc đuôi quấn quanh một micro. Cô đã bị dính vào drama để lộ model nhân vật trong một buổi stream thử và bị đình chỉ 1 tháng. Trong 1 tháng, cô nhận phải chỉ trích của các hater nên đã quyết định rút lui, để lại sự tiếc nuối dành cho các fan. Các fan đã lưu lại bài Happy Synthesizer, là bài cover hay nhất của cô.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
+        ]);
 
+        channels::create([
+            'id_channel'            => 'UCYz_5n-uDuChHtLo7My1HnQ',
+            'name_channel'          => 'Kureiji Ollie Ch. hololive-ID',
+            'url_channel'           => 'https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ',
+            'url_video_present'     => 'https://youtu.be/RfnJ3zFgUuU',
+            'thumbnail_channel'     => 'ollie-channel-thumbnail.jpg',
+            'description_channel'   => "Kureiji Ollie là VTuber của Hololive. Cô là thế hệ thứ 2 của Hololive Indonesia. Cô có tạo hình là một Zombie có tính cách rất sôi nổi. Ngay từ buổi debut đầu tiên, cô đã gây ấn tượng với tính cách sôi nổi khác thường.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
+        ]);
+
+        channels::create([
+            'id_channel'            => 'UC727SQYUvx5pDDGQpTICNWg',
+            'name_channel'          => 'Anya Melfissa Ch. hololive-ID',
+            'url_channel'           => 'https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg',
+            'url_video_present'     => 'https://youtu.be/BET9wXW37mw',
+            'thumbnail_channel'     => 'melfissa-channel-thumbnail.jpg',
+            'description_channel'   => "Anya Melfissa là VTuber của Hololive. Cô là thế hệ thứ 2 của Hololive Indonesia. Cô có tạo hình là một cô bé.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
+        ]);
+
+        channels::create([
+            'id_channel'            => 'UChgTyjG-pdNvxxhdsXfHQ5Q',
+            'name_channel'          => 'Pavolia Reine Ch. hololive-ID',
+            'url_channel'           => 'https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q',
+            'url_video_present'     => 'https://youtu.be/LfI8sxSFtuE',
+            'thumbnail_channel'     => 'reine-channel-thumbnail.jpg',
+            'description_channel'   => "Pavolia Reine là VTuber của Hololive. Cô là thế hệ thứ 2 của Hololive Indonesia. Cô có tạo hình là một loài công nhưng bị mọi người đùa là như con ngỗng.",
+            'enable_channel'        => 1,
+            'virtual_youtuber'      => 1,
+            'hololive'              => 1,
+        ]);
 
         // ============== Translate ==============
 
         channels::create([
-            'id_channel'        => 'UC5FqvcatEZ2pjXvfhq4eMoQ',
-            'name_channel'      => 'Rimia Kodachi',
-            'url_channel'       => 'https://www.youtube.com/channel/UC5FqvcatEZ2pjXvfhq4eMoQ',
-            'url_video_present'         => 'https://youtu.be/aF5S4LSFxeE',
-            'thumbnail_channel' => 'rimia-kodachi-channel-thumbnail.jpg',
-            'description_channel'       => "Rimia Kodachi là trang vietsub rất nhiều video của các Virtual Youtuber như Kizuna AI, Mirai Akari... Một nguồn vietsub đáng để ủng hộ.",
-            'enable_channel'            => 1,
-            'favorite'          => 0,
-            'virtual_youtuber'  => 0,
+            'id_channel'            => 'UC5FqvcatEZ2pjXvfhq4eMoQ',
+            'name_channel'          => 'Rimia Kodachi',
+            'url_channel'           => 'https://www.youtube.com/channel/UC5FqvcatEZ2pjXvfhq4eMoQ',
+            'url_video_present'     => 'https://youtu.be/aF5S4LSFxeE',
+            'thumbnail_channel'     => 'rimia-kodachi-channel-thumbnail.jpg',
+            'description_channel'   => "Rimia Kodachi là trang vietsub rất nhiều video của các Virtual Youtuber như Kizuna AI, Mirai Akari... Một nguồn vietsub đáng để ủng hộ.",
+            'enable_channel'        => 1,
+            'favorite'              => 0,
+            'virtual_youtuber'      => 0,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCBS_hANfRVQal3OpQPMACcw',
-            'name_channel'      => 'MAGES, The Wandering Mage',
-            'url_channel'       => 'https://www.youtube.com/user/MegaTypeTLB',
-            'url_video_present'         => 'https://youtu.be/I7ZSvVWdSXA',
-            'thumbnail_channel' => 'MAGES-channel-thumbnail.jpg',
-            'description_channel'       => "Là kênh Youtube dịch anime. NVHAI biết đến kênh này nhờ bản dịch đầy đủ Date a live Twin Edition bằng tiếng Anh, giúp bản dịch của NVHAI nhanh chóng được hoàn thành. Tuy nhiên, có lẽ kênh đã không còn hoạt động.",
-            'enable_channel'            => 1,
-            'visual_novel'      => 1,
+            'id_channel'            => 'UCBS_hANfRVQal3OpQPMACcw',
+            'name_channel'          => 'MAGES, The Wandering Mage',
+            'url_channel'           => 'https://www.youtube.com/user/MegaTypeTLB',
+            'url_video_present'     => 'https://youtu.be/I7ZSvVWdSXA',
+            'thumbnail_channel'     => 'MAGES-channel-thumbnail.jpg',
+            'description_channel'   => "Là kênh Youtube dịch anime. NVHAI biết đến kênh này nhờ bản dịch đầy đủ Date a live Twin Edition bằng tiếng Anh, giúp bản dịch của NVHAI nhanh chóng được hoàn thành. Tuy nhiên, có lẽ kênh đã không còn hoạt động.",
+            'enable_channel'        => 1,
+            'visual_novel'          => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCU0Z5716wQX8IIZVna7G0zg',
-            'name_channel'      => 'lyger VTuber translations',
-            'url_channel'       => 'https://www.youtube.com/channel/UCU0Z5716wQX8IIZVna7G0zg',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=35ShbH__iBg',
-            'thumbnail_channel' => 'lyger-VTuber-translations-channel-thumbnail.jpg',
-            'description_channel'       => "lyger VTuber translations là một kênh chuyên dịch các stream của Vtuber Hololive. VTuber kênh này thích nhất là Matsuri nên có rất nhiều video dành cho Vtuber này.",
-            'enable_channel'            => 1,
-            'visual_novel'      => 1,
+            'id_channel'            => 'UCU0Z5716wQX8IIZVna7G0zg',
+            'name_channel'          => 'lyger VTuber translations',
+            'url_channel'           => 'https://www.youtube.com/channel/UCU0Z5716wQX8IIZVna7G0zg',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=35ShbH__iBg',
+            'thumbnail_channel'     => 'lyger-VTuber-translations-channel-thumbnail.jpg',
+            'description_channel'   => "lyger VTuber translations là một kênh chuyên dịch các stream của Vtuber Hololive. VTuber kênh này thích nhất là Matsuri nên có rất nhiều video dành cho Vtuber này.",
+            'enable_channel'        => 1,
+            'visual_novel'          => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCi3RiY2dus-oeBRvxRBNJgg',
-            'name_channel'      => 'birdkun21',
-            'url_channel'       => 'https://www.youtube.com/user/birdkun21',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=ZPSWGQDemCE',
-            'thumbnail_channel' => 'birdkun21-channel-thumbnail.jpg',
-            'description_channel'       => "Kênh này được tạo năm 2010, đã ngưng hoạt động một thời gian dài. Sau này hoạt động trở lại với việc dịch VTuber.",
-            'enable_channel'            => 1,
-            'visual_novel'      => 1,
+            'id_channel'            => 'UCi3RiY2dus-oeBRvxRBNJgg',
+            'name_channel'          => 'birdkun21',
+            'url_channel'           => 'https://www.youtube.com/user/birdkun21',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=ZPSWGQDemCE',
+            'thumbnail_channel'     => 'birdkun21-channel-thumbnail.jpg',
+            'description_channel'   => "Kênh này được tạo năm 2010, đã ngưng hoạt động một thời gian dài. Sau này hoạt động trở lại với việc dịch VTuber.",
+            'enable_channel'        => 1,
+            'visual_novel'          => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCCZr6pq56yWtgBYihhy31-w',
-            'name_channel'      => 'JudeKey',
-            'url_channel'       => 'https://www.youtube.com/channel/UCCZr6pq56yWtgBYihhy31-w',
-            'url_video_present'         => 'https://www.youtube.com/watch?v=aZMg7s4QKOg',
-            'thumbnail_channel' => 'judekey-channel-thumbnail.jpg',
-            'description_channel'       => "Đây là một kênh đăng nhiều game visual novel, trong đó có Konosuba và Data a live.",
-            'enable_channel'            => 1,
-            'visual_novel'      => 1,
+            'id_channel'            => 'UCCZr6pq56yWtgBYihhy31-w',
+            'name_channel'          => 'JudeKey',
+            'url_channel'            => 'https://www.youtube.com/channel/UCCZr6pq56yWtgBYihhy31-w',
+            'url_video_present'     => 'https://www.youtube.com/watch?v=aZMg7s4QKOg',
+            'thumbnail_channel'     => 'judekey-channel-thumbnail.jpg',
+            'description_channel'   => "Đây là một kênh đăng nhiều game visual novel, trong đó có Konosuba và Data a live.",
+            'enable_channel'        => 1,
+            'visual_novel'          => 1,
         ]);
 
         channels::create([
-            'id_channel'        => 'UCrYpo1jB5xh6b_MgsZ4rqjQ',
-            'name_channel'      => 'Drako Gaspar',
-            'url_channel'       => 'https://www.youtube.com/channel/UCrYpo1jB5xh6b_MgsZ4rqjQ',
-            'url_video_present'         => 'https://youtu.be/DJ6yCMrpnJc',
-            'thumbnail_channel' => 'drako-gaspar-channel-thumbnail.jpg',
-            'description_channel'       => "Là kênh Youtube dịch anime qua tiếng Tây Ban Nha. Trong đây dịch từng đoạn sự kiện đặc biệt. NVHAI dịch Date a live bằng tiếng Tây Ban Nha để tốc độ gõ được nhanh chóng hơn.",
-            'enable_channel'            => 1,
-            'visual_novel'      => 1,
+            'id_channel'            => 'UCrYpo1jB5xh6b_MgsZ4rqjQ',
+            'name_channel'          => 'Drako Gaspar',
+            'url_channel'           => 'https://www.youtube.com/channel/UCrYpo1jB5xh6b_MgsZ4rqjQ',
+            'url_video_present'     => 'https://youtu.be/DJ6yCMrpnJc',
+            'thumbnail_channel'     => 'drako-gaspar-channel-thumbnail.jpg',
+            'description_channel'   => "Là kênh Youtube dịch anime qua tiếng Tây Ban Nha. Trong đây dịch từng đoạn sự kiện đặc biệt. NVHAI dịch Date a live bằng tiếng Tây Ban Nha để tốc độ gõ được nhanh chóng hơn.",
+            'enable_channel'        => 1,
+            'visual_novel'          => 1,
         ]);
 
         channels::create([
@@ -922,6 +961,30 @@ https://weibo.com/aichannelchina?is_a
             'enable_channel'        => 1,
             'visual_novel'          => 1,
         ]);
+
+        // ============== Onsen, travel and society ==============
+
+        channels::create([
+            'id_channel'            => 'UCcIsxujzLRO5qY5f9buahCQ',
+            'name_channel'          => 'Nobita from Japan',
+            'url_channel'           => 'https://www.youtube.com/channel/UCcIsxujzLRO5qY5f9buahCQ',
+            'url_video_present'     => 'https://youtu.be/UFJOQFFtqrw',
+            'thumbnail_channel'     => 'nobita-from-japan-channel-thumbnail.jpg',
+            'description_channel'   => "Kênh chuyên nói về cuộc sống tại Nhật Bản, có phụ đề tiếng Anh.",
+        ]);
+
+        channels::create([
+            'id_channel'            => 'UCc4ACSF6Qk6JFt4aQtyCu1Q',
+            'name_channel'          => 'ARINKO LOG - Rural Life & DIY Japan',
+            'url_channel'           => 'https://www.youtube.com/channel/UCc4ACSF6Qk6JFt4aQtyCu1Q',
+            'url_video_present'     => 'https://youtu.be/hb02RudHWwY',
+            'thumbnail_channel'     => 'arinko-log-channel-thumbnail.jpg',
+            'description_channel'   => "Là kênh của người Nhật có phụ đề tiếng Anh về du lịch Nhật Bản.",
+            'enable_channel'        => 1,
+            'visual_novel'          => 1,
+        ]);
+
+
 
 
 

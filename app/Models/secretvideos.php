@@ -23,5 +23,6 @@ class secretvideos extends Model
         'description_vi_secretvideo', 'description_en_secretvideo', //'description_jp_secretvideo',
         'date_secretvideo', 'thumbnail_secretvideo',
         'id_channel', 'enable_secretvideo',
+        'enable_vi', 'enable_en', 'enable_jp'
     ];
 }

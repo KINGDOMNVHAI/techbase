@@ -23,5 +23,6 @@ class videos extends Model
         'description_vi_video', 'description_en_video', //'description_jp_video',
         'date_video', 'thumbnail_video',
         'id_channel', 'enable_video',
+        'enable_vi', 'enable_en', 'enable_jp'
     ];
 }

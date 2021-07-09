@@ -23,9 +23,11 @@ class CreateSecretvideoTable extends Migration
             $table->text('description_vi_secretvideo')->nullable();
             $table->text('description_en_secretvideo')->nullable();
             // $table->text('description_jp_secretvideo')->nullable();
-            $table->boolean('enable_secretvideo')->default(ENABLE);
             $table->date('date_secretvideo');
             $table->string('thumbnail_secretvideo')->nullable();
+            $table->boolean('enable_vi')->default(ENABLE);
+            $table->boolean('enable_en')->default(UNENABLE);
+            $table->boolean('enable_jp')->default(UNENABLE);
             $table->string('id_channel');
         });
     }
