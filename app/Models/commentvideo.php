@@ -3,20 +3,20 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class comment extends Model
+class commentvideo extends Model
 {
     //Khai báo tên table
-    protected $table = 'comment';
+    protected $table = 'commentvideo';
 
     // Khai báo primary key
     // Trong Laravel có detailpost::find() nghĩa là tìm theo primary key
-    protected $primaryKey = 'id_comment';
+    protected $primaryKey = 'id_cmt';
 
     // Bỏ updated_at
     public $timestamps = true;
 
     protected $fillable = [
-        'name_comment', 'content_comment', 'img_comment',
-        'id_user', 'id_detailpost_comment', 'enable',
+        'id_cmt', 'title_cmt', 'content_cmt', 'username_cmt', 'parent_cmt',
+        'enable_cmt', 'id_video', 'id_secretvideo'
     ];
 }
